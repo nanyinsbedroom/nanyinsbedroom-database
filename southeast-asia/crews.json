@@ -1,0 +1,2841 @@
+{
+    "crews": {
+        "103079231114": {
+            "crew_id": 103079231114,
+            "crew_members": [
+                "Hanja",
+                "K2#l"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "DragonScarlet",
+            "crew_name_history": [
+                "DragonScarlet"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "1129576414858": {
+            "crew_id": 1129576414858,
+            "crew_members": [
+                "12456",
+                "KANATA_TH",
+                "KENKEN",
+                "Malanakub",
+                "MeiWIZ",
+                "Mobillius",
+                "Navia S.",
+                "くごミ"
+            ],
+            "crew_members_count": 8,
+            "crew_name": "UQHolderTH",
+            "crew_name_history": [
+                "UQHolderTH"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "1146756284034": {
+            "crew_id": 1146756284034,
+            "crew_members": [
+                " Orya ",
+                "Aeoliane",
+                "Ayla Makino",
+                "Dr.Pretender",
+                "FrostPrime",
+                "KZ ソワレ",
+                "KagaminoYume",
+                "KawaiiDesu",
+                "Lowit V6.0",
+                "Mhaiyum1171",
+                "Nem0 Na",
+                "PolitanCatto",
+                "PooPeeFart",
+                "Sambal Petai",
+                "Sir3n",
+                "Snow Ais",
+                "flakiera",
+                "malaikat maut",
+                "花月"
+            ],
+            "crew_members_count": 19,
+            "crew_name": "♣️HOSHI星",
+            "crew_name_history": [
+                "♣️HOSHI星"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "1146756284048": {
+            "crew_id": 1146756284048,
+            "crew_members": [
+                "Hakua",
+                "Oblodra",
+                "SexWithNanto",
+                "Umbra Rock"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "Matcha",
+            "crew_name_history": [
+                "Matcha"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "115964133001": {
+            "crew_id": 115964133001,
+            "crew_members": [
+                "Ashiya#a#a"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "ARCHIVE",
+            "crew_name_history": [
+                "ARCHIVE"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "124554067597": {
+            "crew_id": 124554067597,
+            "crew_members": [
+                "      ",
+                "Asilleb",
+                "Azxi",
+                "CANOPY",
+                "Ellie ☆",
+                "Frozenwing",
+                "LEVEL 1",
+                "LuzNoCeu",
+                "Monica",
+                "Oguri Cap",
+                "ZHAMPPY77",
+                "lee",
+                "คุณหนูผุยผง",
+                "นางเOกเOวี",
+                "ผมเป็นใคร",
+                "ยูโนะ",
+                "แมวจร"
+            ],
+            "crew_members_count": 17,
+            "crew_name": "Infinite TH",
+            "crew_name_history": [
+                "Infinite TH"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "12884917892": {
+            "crew_id": 12884917892,
+            "crew_members": [
+                "Nhan_Ghenshin",
+                "xanite"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "ELYSIUM",
+            "crew_name_history": [
+                "ELYSIUM"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "133144002183": {
+            "crew_id": 133144002183,
+            "crew_members": [
+                "   Meryl",
+                "0ㅤㅤㅤㅤㅤ0ㅤㅤㅤㅤㅤ4",
+                "9ribu",
+                "Bennymaru #a",
+                "Capt.Hyperion",
+                "Ciel×",
+                "Dian1",
+                "Galamar",
+                "Gwara",
+                "Kamisato•Ayaka",
+                "Kawai_cat",
+                "Lt.Silvia",
+                "Nikki-Chan",
+                "PX 1",
+                "Pinjam_Seratus",
+                "Rumi Aikawa",
+                "WaRGear1st",
+                "WakitoZX",
+                "Yuufa#c",
+                "_shy.zarz_",
+                "illya twilight",
+                "komandan armade",
+                "raymech",
+                "•MiawMiaw•"
+            ],
+            "crew_members_count": 24,
+            "crew_name": "INDONESIA ",
+            "crew_name_history": [
+                "INDONESIA "
+            ],
+            "server_region": "southeast-asia"
+        },
+        "1340029812353": {
+            "crew_id": 1340029812353,
+            "crew_members": [
+                "Dark Zagi",
+                "Far..",
+                "Ijekiel Alpheus",
+                "アリーシャ"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "-ENTROPY-",
+            "crew_name_history": [
+                "-ENTROPY-"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "1421634190994": {
+            "crew_id": 1421634190994,
+            "crew_members": [
+                ".Mac.",
+                "1st Imou",
+                "AGAN0206",
+                "Aegise",
+                "Aesra",
+                "Arshalia",
+                "Artms",
+                "Askara",
+                "BangRiff",
+                "BiBiSum",
+                "C o o p y",
+                "CEWEK BULU DADA",
+                "ClaraWazhousky",
+                "Demensity",
+                "Dhenok",
+                "Drashel",
+                "Flav",
+                "Freddy_Fornix",
+                "Galiel",
+                "Geonom$",
+                "Hatsune Miku",
+                "Hipper",
+                "Honnyy",
+                "InfernoRider",
+                "Jovanka",
+                "Juwita.",
+                "K-VYN",
+                "Kain̈",
+                "Keparta",
+                "Kizuna N",
+                "KuuKii",
+                "Kyoken#c",
+                "L u c i e n n",
+                "Loope√Stupid ",
+                "Lupinox",
+                "MEGUMONX",
+                "Melchi",
+                "Meong",
+                "Merisea8",
+                "Misaka Mikoto",
+                "MoonaLova",
+                "Nandi",
+                "Natsumimi",
+                "Night˚s End｡",
+                "Peebenz ",
+                "Puan Maharani ",
+                "Remutarosu",
+                "Rinchαn®",
+                "Rita•weis",
+                "Ronin13",
+                "Rosaphine",
+                "Ruyao",
+                "Shanroar",
+                "Shizuku.",
+                "SpinaRosula",
+                "Spy x Waifu",
+                "Tama•",
+                "Tetra#e",
+                "Tom ",
+                "Tsunoの",
+                "Valkyon",
+                "Virlya",
+                "VirlyaMuse",
+                "XSLIME",
+                "X…X",
+                "Yumiiko",
+                "Yune",
+                "garfield#e",
+                "heheham",
+                "miaww",
+                "milkylatte159",
+                "n3kopoi",
+                "peppermint ",
+                "rubyvie",
+                "walnutcrakr",
+                "{mitsuri}",
+                "メ Vorb メ",
+                "メグリ",
+                "ロコ",
+                "술Senna • Vorb술"
+            ],
+            "crew_members_count": 80,
+            "crew_name": "Lunar Exclaire",
+            "crew_name_history": [
+                "Lunar Exclaire"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "154618838659": {
+            "crew_id": 154618838659,
+            "crew_members": [
+                "  p☆rnst☆r  ",
+                "MappleApple",
+                "S1EGFRIED",
+                "yanhehehe"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "ALLSTAR",
+            "crew_name_history": [
+                "ALLSTAR"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "1563368111749": {
+            "crew_id": 1563368111749,
+            "crew_members": [
+                "Ayin",
+                "ChodeRed_Sama",
+                "Code",
+                "Courina",
+                "Haruhiro#h",
+                "Internet Racxst",
+                "Leyn",
+                "Nasiegoreng",
+                "Salmon Sammy",
+                "SexWithAsurada",
+                "Suibian",
+                "Yasashi#c",
+                "Youko ",
+                "ace7one"
+            ],
+            "crew_members_count": 14,
+            "crew_name": "Eroge",
+            "crew_name_history": [
+                "Eroge"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "158913805969": {
+            "crew_id": 158913805969,
+            "crew_members": [
+                "Huabi",
+                "melisssa$",
+                "takaha#a"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "GoldenDawn ",
+            "crew_name_history": [
+                "GoldenDawn "
+            ],
+            "server_region": "southeast-asia"
+        },
+        "1593432882821": {
+            "crew_id": 1593432882821,
+            "crew_members": [
+                "Klee 10",
+                "Klee Hat",
+                "Klee socks",
+                "Klee swimsuit",
+                "Watunk",
+                "isła"
+            ],
+            "crew_members_count": 6,
+            "crew_name": "Omnium Impact",
+            "crew_name_history": [
+                "Omnium Impact"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "1662152359567": {
+            "crew_id": 1662152359567,
+            "crew_members": [
+                "  Hug",
+                "  Qiqi  ",
+                " Ayraa",
+                " Nhiv ",
+                "( Kuro )",
+                "A M I H A N",
+                "Aeonica_EX",
+                "Ahsokka",
+                "Alter",
+                "Angelø",
+                "Aoife",
+                "Ashira イシゴルフ",
+                "Bjong",
+                "Blue Stardust",
+                "Bluenana",
+                "BrightSpear",
+                "Elmo@6008",
+                "Fauzt-o",
+                "Floppy Disk",
+                "GHOSTNO0B",
+                "Gaeuuun",
+                "Hukgirl",
+                "Impeach BBM",
+                "Inorin-ae",
+                "Jazzberry",
+                "KazeMuto",
+                "LDarkstar",
+                "Landon",
+                "LiBoNa",
+                "Liychii",
+                "Luna Lovegood",
+                "Morticus",
+                "NOOBS",
+                "Nepkou",
+                "Out Look",
+                "Oyit",
+                "Popurii",
+                "QueenStalker",
+                "Rory Mercury",
+                "Sakuragi『光月 』",
+                "Siaaa",
+                "Snowbyrd",
+                "Stermangrif#f",
+                "Topaz トパーズ",
+                "Tret",
+                "Waifu Suppört",
+                "Wincess Jem",
+                "X-JokeyDY-X",
+                "Yan Miao",
+                "azhLeE",
+                "baryuoX",
+                "ded_gayme",
+                "ghosty.",
+                "nonomo$",
+                "tamoymoy",
+                "toval",
+                "woniee",
+                "ღSILVYღ",
+                "Ⓚⓨⓩⓔ",
+                "☆Eukira☆"
+            ],
+            "crew_members_count": 60,
+            "crew_name": "Luminous",
+            "crew_name_history": [
+                "Luminous"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "184683609733": {
+            "crew_id": 184683609733,
+            "crew_members": [
+                " Reiko",
+                "..Azrezd.",
+                "Airleon",
+                "Akivili",
+                "Alicezation",
+                "Alvierina",
+                "Ar90",
+                "Ash-Rain",
+                "Asian Floyd",
+                "Asuna155",
+                "Baka Inorinae",
+                "BigMeTal87",
+                "BocilFaiz",
+                "BukanPenguin$",
+                "Cereus",
+                "DedGame",
+                "Elementalist94",
+                "EsKesslerNadine",
+                "Estioo",
+                "Faye_",
+                "H A B A G A T",
+                "HeLic",
+                "JITO",
+                "Kaito88",
+                "Kella",
+                "Kohi",
+                "Kongo",
+                "Lux Arcadia",
+                "Marwolaeth",
+                "MoonLORD#a#c$$",
+                "Pstar7",
+                "Ramyun",
+                "Rim",
+                "RoseLeen",
+                "S.k.y.e",
+                "SMHavok",
+                "SabrinaCamilla$",
+                "Sarha",
+                "Shiraori Shiro",
+                "Smile",
+                "SâK7RaÎ",
+                "Tory",
+                "WINCHESTER™",
+                "XaioYan-Xi",
+                "Youko",
+                "brinsley",
+                "dazirt",
+                "doVob#a",
+                "gunben ",
+                "mommymajo",
+                "neah",
+                "seasoned",
+                "tendoubtw",
+                "yamina",
+                "yuna芸",
+                "『Naraya』",
+                "冰鱼"
+            ],
+            "crew_members_count": 57,
+            "crew_name": "Guardian",
+            "crew_name_history": [
+                "Guardian"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "188978577038": {
+            "crew_id": 188978577038,
+            "crew_members": [
+                " Juna",
+                "Ene",
+                "NONTHAI#a",
+                "Rindō Kobayashi",
+                "Ryuga",
+                "Skynet",
+                "bord_Ifn",
+                "intrcellar",
+                "pemburuop",
+                "zKethumCokelat#a",
+                "†Inno†",
+                "ピエロ王"
+            ],
+            "crew_members_count": 12,
+            "crew_name": "Genesis",
+            "crew_name_history": [
+                "Genesis"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "1962800070282": {
+            "crew_id": 1962800070282,
+            "crew_members": [
+                "Shery",
+                "โอกามิ"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "P.A.I.M.O.N.TH",
+            "crew_name_history": [
+                "P.A.I.M.O.N.TH"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "201863478913": {
+            "crew_id": 201863478913,
+            "crew_members": [
+                " Han",
+                " RING ",
+                ".Hela.",
+                "004-Frigg",
+                "ARMORANAS ",
+                "Aeson",
+                "Amadi",
+                "Aristella",
+                "Athena23",
+                "Bibble",
+                "CHDYZ#a",
+                "Demjin",
+                "Elite14",
+                "Faeia",
+                "Freyæ",
+                "Gellish",
+                "HailVortex",
+                "Hoangch1k",
+                "J U J U",
+                "Jabilou",
+                "Jada",
+                "Justine",
+                "Kelyosan#a",
+                "KomiChann",
+                "Lesso",
+                "Liya",
+                "LostInVain",
+                "Manong Guard",
+                "Nullyme",
+                "Pepsi_Man",
+                "Piatos",
+                "Raizu ",
+                "Rhapsody 福",
+                "Shimzero.dT_Tb",
+                "SoloPlaying",
+                "Soloist",
+                "Suweyy",
+                "Sylvianita",
+                "_Raziel_",
+                "bundua",
+                "jOPPAI.",
+                "mienly",
+                "notxrosa",
+                "smol2kei",
+                "smol3kei",
+                "struberri",
+                "xRaa.$",
+                "ÒrÇhïÐ",
+                "メSylphaミ"
+            ],
+            "crew_members_count": 49,
+            "crew_name": "Solo Play PH",
+            "crew_name_history": [
+                "Solo Play PH"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "201863478931": {
+            "crew_id": 201863478931,
+            "crew_members": [
+                " Chinom",
+                "AmberWanderer",
+                "Ampes",
+                "Aurel샤이",
+                "Black Maria",
+                "DLotnox",
+                "Datu King",
+                "DatuBunso",
+                "DatuKuya",
+                "Diztortion",
+                "Eikons",
+                "Ellisea3",
+                "Franzzi",
+                "Heartflame",
+                "Hyper",
+                "Ionation",
+                "Jackjff",
+                "K1R0",
+                "KAI-To",
+                "Kilabot F2P",
+                "L-M-K-3-9",
+                "Leymond",
+                "MasterDaniel",
+                "MeatBeatMaster",
+                "Mocha",
+                "PowRyGTiger",
+                "Ricky#j",
+                "Seniona",
+                "SnowBear",
+                "SonicTH×√",
+                "TheEmma",
+                "TheFirst#d",
+                "akatukiakatuki",
+                "anfield#a#a",
+                "chilla",
+                "oOFloppyDiskOo",
+                "x.Miuvee.x"
+            ],
+            "crew_members_count": 37,
+            "crew_name": "Soft Doll",
+            "crew_name_history": [
+                "Soft Doll"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "206158446212": {
+            "crew_id": 206158446212,
+            "crew_members": [
+                "62#a",
+                "Adhy",
+                "Anelia",
+                "Aprilis",
+                "AudiChan",
+                "BunBunAnel",
+                "Caerula",
+                "CriM",
+                "DREAM WORLD",
+                "DraGnEe1",
+                "DuckStone",
+                "FTN•12",
+                "Fey Von Smeleep",
+                "FlynSSR",
+                "Gazillod-1",
+                "Gxlfmx",
+                "H1karu",
+                "Hanayome",
+                "Hoshi_RO",
+                "IsulaAyla",
+                "JuppyJubs",
+                "KhaoNiew",
+                "KirLe",
+                "L U N 0 V A N",
+                "LIFETIME_",
+                "LOPPAKINA",
+                "Leinachan",
+                "Lilliany",
+                "Makiｲ",
+                "Mirianne",
+                "MorPhee",
+                "MulBeาาy",
+                "Natsu Shigatsu",
+                "Nattwanith",
+                "NyeowxD",
+                "Omet Mon",
+                "Page_",
+                "Panniori",
+                "Pinky@6017",
+                "PrinceJoy",
+                "Shin’ichi878",
+                "Slipformer",
+                "TaBiBiTσ",
+                "Tonarisu",
+                "Triffany",
+                "Truemorrow",
+                "Tsuyu Shigatsu",
+                "Tum007",
+                "VellaBIBI",
+                "W i Lッ",
+                "Wang Jarim",
+                "YoDaYooo",
+                "_IRISs_",
+                "_RinneZe_",
+                "eScaρe",
+                "goffar",
+                "my gf",
+                "xY2x",
+                "Ñisan",
+                "ชื่อม่อนคับอ้วน",
+                "นำ้ใส",
+                "น้อย support me",
+                "บะหมี่ป๊อกๆ",
+                "โตนมSAKAMA",
+                "๐DesTroyer๑",
+                "ととろ"
+            ],
+            "crew_members_count": 66,
+            "crew_name": "CASTLE",
+            "crew_name_history": [
+                "CASTLE"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "2156073598602": {
+            "crew_id": 2156073598602,
+            "crew_members": [
+                "-Neon",
+                "FeliciaHikari",
+                "Izna",
+                "KKKKK#i",
+                "Mininay",
+                "Riestel#d",
+                "Viceversa",
+                "qing.",
+                "ปลาร้าบอง",
+                "ฮารุกะ",
+                "♪ข้าวสวย♪"
+            ],
+            "crew_members_count": 11,
+            "crew_name": "HiwKhao♥",
+            "crew_name_history": [
+                "HiwKhao♥"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "223338315401": {
+            "crew_id": 223338315401,
+            "crew_members": [
+                "Lumielle",
+                "RenEx",
+                "Sylvia Megami",
+                "kiw"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "RESONANCE",
+            "crew_name_history": [
+                "RESONANCE"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "2314987388549": {
+            "crew_id": 2314987388549,
+            "crew_members": [
+                "Akiiiiiiiiii$",
+                "Angelbear",
+                "Aviana",
+                "Chihuahua​",
+                "ChocoPotato",
+                "Clefairy",
+                "Coelica",
+                "Friend A",
+                "KathyNgDuga",
+                "Kyoko",
+                "Lizzya",
+                "Miku間",
+                "Neionri",
+                "Pudelngumpet",
+                "Qenobu",
+                "ROSHINO",
+                "Sarcram",
+                "Sheilala",
+                "Shiba Inu​",
+                "Shinigami06",
+                "ShiriMeme",
+                "SoulMin#a",
+                "Terry​",
+                "Throne@6017",
+                "Yuki ",
+                "Yuzukiii",
+                "aonnml",
+                "pinks",
+                "uww",
+                "vielle",
+                "ライバー",
+                "景行"
+            ],
+            "crew_members_count": 32,
+            "crew_name": "Waifu",
+            "crew_name_history": [
+                "Waifu"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "2413771636356": {
+            "crew_id": 2413771636356,
+            "crew_members": [
+                "PanPanNew",
+                "Xslasher#c",
+                "oจ๊ะเอ๋-o",
+                "ยุนจิ"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "คิมิโนโตะ",
+            "crew_name_history": [
+                "คิมิโนโตะ"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "244813151876": {
+            "crew_id": 244813151876,
+            "crew_members": [
+                "MIKOTO"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "lExplosionl",
+            "crew_name_history": [
+                "lExplosionl"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "2482491113101": {
+            "crew_id": 2482491113101,
+            "crew_members": [
+                "NO102"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "GENERAL",
+            "crew_name_history": [
+                "GENERAL"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "2516850851459": {
+            "crew_id": 2516850851459,
+            "crew_members": [
+                "Biriiii",
+                "Drh.Esther",
+                "Grimm殁",
+                "Inorinae",
+                "Inorrinaa$",
+                "MeiAlt$",
+                "Mji",
+                "Motdoiliemkhiet",
+                "Perrine H.C",
+                "Shiraori",
+                "Shiri3",
+                "Sucllidm",
+                "Tree can talk",
+                "_XicUwU",
+                "ca0ham8mon",
+                "emancomchua",
+                "iReturnae",
+                "ilanno",
+                "inae3",
+                "inae6",
+                "luxubu6$",
+                "luxuri$",
+                "ringo",
+                "slime-X"
+            ],
+            "crew_members_count": 24,
+            "crew_name": "Schwarz Studio",
+            "crew_name_history": [
+                "Schwarz Studio"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "253403086473": {
+            "crew_id": 253403086473,
+            "crew_members": [
+                "-aXs-",
+                "ACEMONTE",
+                "AkameNeko",
+                "Albetrix",
+                "Bluechan",
+                "BramSath",
+                "Caltsio",
+                "Chaika1",
+                "CleoFrey$",
+                "DISC0",
+                "Eks.",
+                "Fenre",
+                "FrioneIl",
+                "Hikalight",
+                "Jo3YkiD",
+                "Junko",
+                "L. A. G boss",
+                "Naehel",
+                "Natsuka",
+                "NekoCrot",
+                "Newones",
+                "NunGami",
+                "Nyaruko yuu",
+                "Sagi",
+                "Sand's",
+                "TrueLie",
+                "WindHeze",
+                "XenonD",
+                "bEnz#f",
+                "moeruzo",
+                "shira_nai",
+                "vaery",
+                "viery​",
+                "ⓔⓛ",
+                "じゅな",
+                "Ｔ ｒ ｕ Ｌ ｙ"
+            ],
+            "crew_members_count": 36,
+            "crew_name": "Vocar Ed Regnum",
+            "crew_name_history": [
+                "Vocar Ed Regnum"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "2555505557133": {
+            "crew_id": 2555505557133,
+            "crew_members": [
+                " Maev ",
+                "Antares.722",
+                "B -- _",
+                "Blue Yunkai",
+                "Gin0711",
+                "Hardwell",
+                "Ming Zhu",
+                "Myuran",
+                "Nayami#d",
+                "Pipis ",
+                "RYAMINA",
+                "SexySalapaoKFC",
+                "SmolKalito",
+                "ZaraSa",
+                "neko_chan",
+                "ねむぃ",
+                "曼珠沙華・蛸焼"
+            ],
+            "crew_members_count": 17,
+            "crew_name": "Moonheart",
+            "crew_name_history": [
+                "Moonheart"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "266287988376": {
+            "crew_id": 266287988376,
+            "crew_members": [
+                "A K I N A",
+                "Badonl",
+                "CleanSea",
+                "Naimtore",
+                "StarTrance",
+                "_Okuni_",
+                "ИЛЬЯ"
+            ],
+            "crew_members_count": 7,
+            "crew_name": "•RASCAL•",
+            "crew_name_history": [
+                "•RASCAL•"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "292057792143": {
+            "crew_id": 292057792143,
+            "crew_members": [
+                " Sylvie",
+                "Kyurem",
+                "johnny joestar",
+                "penikmatoppai",
+                "ลิลลี่"
+            ],
+            "crew_members_count": 5,
+            "crew_name": "Lux Aeterna",
+            "crew_name_history": [
+                "Lux Aeterna"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "2950642548355": {
+            "crew_id": 2950642548355,
+            "crew_members": [
+                "ChocoPudu"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "Velsazimiers",
+            "crew_name_history": [
+                "Velsazimiers"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "30064787074": {
+            "crew_id": 30064787074,
+            "crew_members": [
+                "Grey U.",
+                "Surasthana"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "MiskinMY",
+            "crew_name_history": [
+                "MiskinMY"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "30064787075": {
+            "crew_id": 30064787075,
+            "crew_members": [
+                "AyaAstrea",
+                "Ayaya145",
+                "FANTAR.",
+                "Kaoruko",
+                "Lanze",
+                "Misteria__",
+                "NaNaaa22",
+                "Qatora",
+                "Skarn",
+                "Skeng",
+                "Touch Me Not",
+                "Yuruto"
+            ],
+            "crew_members_count": 12,
+            "crew_name": "Dark Firefly",
+            "crew_name_history": [
+                "Dark Firefly"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "3045131828877": {
+            "crew_id": 3045131828877,
+            "crew_members": [
+                "ミト"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "まったりマイペース",
+            "crew_name_history": [
+                "まったりマイペース"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "313532628610": {
+            "crew_id": 313532628610,
+            "crew_members": [
+                " chips",
+                "Aces#c",
+                "Avanti",
+                "Emiya Kusanagi",
+                "Fionna #c",
+                "Jill Warrick",
+                "JulieOscines",
+                "Lucricia",
+                "蕾◦星宇"
+            ],
+            "crew_members_count": 9,
+            "crew_name": "Rex Incognito",
+            "crew_name_history": [
+                "Rex Incognito"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "313532628620": {
+            "crew_id": 313532628620,
+            "crew_members": [
+                "ArtKuN",
+                "Faya❀",
+                "Forsen​",
+                "Juven",
+                "N4M1",
+                "SyRena​",
+                "XiFays",
+                "YuriMADOKAsan$"
+            ],
+            "crew_members_count": 8,
+            "crew_name": "Sakura✿Clan",
+            "crew_name_history": [
+                "Sakura✿Clan"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "317827595913": {
+            "crew_id": 317827595913,
+            "crew_members": [
+                "เบสเม่"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "Valkyrie",
+            "crew_name_history": [
+                "Valkyrie"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "3182570782339": {
+            "crew_id": 3182570782339,
+            "crew_members": [
+                "Nyx",
+                "Sixth"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "Outcast",
+            "crew_name_history": [
+                "Outcast"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "3414499016329": {
+            "crew_id": 3414499016329,
+            "crew_members": [
+                "AA Jhen",
+                "AkusajA",
+                "Aldoraemon94",
+                "Amimima",
+                "Artemis#l",
+                "Asmoday",
+                "BeamMarley",
+                "Bluepike#a",
+                "Caldea",
+                "Castella.",
+                "Chef Aiichan",
+                "Chef Akinana",
+                "Chef Ars",
+                "Chef Coral",
+                "Chef GansboX",
+                "Chef LEEZ",
+                "Chef Lichi",
+                "Chef Sakiko",
+                "Chef Taxsa",
+                "Chef ULTRAFAELX",
+                "Chef Uika",
+                "Chef →pënaジ",
+                "Chef_Ravie78",
+                "Chef★RollsRoyce",
+                "Chikina",
+                "Chilliarch",
+                "CloV€r",
+                "Cocopan",
+                "CoroTerbang",
+                "EIvaretta",
+                "EinAvellino",
+                "EnDang",
+                "Exena",
+                "Falri",
+                "Fujimiya",
+                "Gakure",
+                "Gunnhildr X",
+                "Halyna",
+                "Helene",
+                "HａN ❀",
+                "IDominium",
+                "Igriser",
+                "Jaimedevangel",
+                "Jiyuunity",
+                "Karin",
+                "Kenza",
+                "Kokooo",
+                "Kryuger",
+                "Kucing Ijo",
+                "Lesvianna",
+                "Lukezayne",
+                "LunaLaurel#a",
+                "Misaki‎ ",
+                "Murikkk",
+                "Nightcorner",
+                "Ranavia",
+                "Reina ",
+                "Riuzaky",
+                "SecreNero",
+                "Segialter",
+                "Sorewa...",
+                "Sweet Red Pinky",
+                "SweetRP",
+                "TTLoli$",
+                "TaroKun",
+                "Tequila",
+                "ThunderNight",
+                "Tifein",
+                "Yue#j",
+                "Zero7",
+                "Zix01",
+                "cebelapa imuc",
+                "jalato",
+                "not.zennin",
+                "papa231",
+                "sandr",
+                "segi",
+                "zeee",
+                "× Yue ×",
+                "×Edochi×",
+                "ʍisty",
+                "Λrubedo",
+                "Ѕhana",
+                "​ ​",
+                "‍ ‍ ‍‍‍ ‍ ‍ ‍ ‍$",
+                "‍❀",
+                "→ Kawaii〆peиΛ•",
+                "〆 sαнαbαт•ρénα•",
+                "『ℓoνe PeиΛ』",
+                "えきおMystique$",
+                "ななこ",
+                "祷り",
+                "薛芳菲"
+            ],
+            "crew_members_count": 93,
+            "crew_name": "Eclipse Kitchen",
+            "crew_name_history": [
+                "Eclipse Kitchen"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "34359754369": {
+            "crew_id": 34359754369,
+            "crew_members": [
+                "Adrenaline",
+                "Angelise",
+                "Arckeis",
+                "Arlde",
+                "Ayrani",
+                "AyuzawaAoi",
+                "Beetcat",
+                "ChaosTheVoid",
+                "Curaja",
+                "DK 4113 ET",
+                "DemiG0d",
+                "Diamond",
+                "Eidoss",
+                "Ellanoire",
+                "Faithfsy",
+                "Frelen",
+                "GachaIsHaram",
+                "JinShynestra龍",
+                "KalitoTamayuki",
+                "Kyle#l",
+                "LetMeSoloHer#f",
+                "LuQii",
+                "MacKenzee",
+                "Masfugo",
+                "Natsfluw",
+                "Nesca",
+                "NxhardcorE",
+                "Phantom​",
+                "ProximusRei",
+                "RenazeL#a",
+                "Rhodeia",
+                "Richie_Rz",
+                "Richiezzz",
+                "Shiri1",
+                "Silber",
+                "SleepyHil",
+                "Vahme",
+                "Vanellion",
+                "Velouria",
+                "Wulfstan",
+                "Yu SaeHa",
+                "amoeeba",
+                "jellyphish",
+                "kakaka#e$",
+                "kembo",
+                "pmeimei",
+                "sixty#a$",
+                "Αina",
+                "☆ﾟNámƤuεng☆ﾟ",
+                "❀Yuukarin❀",
+                "シャオラン",
+                "Ｎａｍｅｌｅｓｓ"
+            ],
+            "crew_members_count": 52,
+            "crew_name": "Phantasia ",
+            "crew_name_history": [
+                "Phantasia "
+            ],
+            "server_region": "southeast-asia"
+        },
+        "347892366985": {
+            "crew_id": 347892366985,
+            "crew_members": [
+                "Dexbozz2",
+                "JayEmm#a",
+                "P1NUNO",
+                "Rain。",
+                "SeLLen#a",
+                "Veleana"
+            ],
+            "crew_members_count": 6,
+            "crew_name": "Nox Society",
+            "crew_name_history": [
+                "Nox Society"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "360777268884": {
+            "crew_id": 360777268884,
+            "crew_members": [
+                "Aidara",
+                "ArthurKing",
+                "BilalbinRabah",
+                "Bjorn076",
+                "BongBongbb",
+                "Chikens",
+                "Danny00",
+                "Defensimini",
+                "Defensio",
+                "DelYa",
+                "Gatrix#a",
+                "Iora",
+                "Jerk Bezos",
+                "Lechesis",
+                "MHakim",
+                "Maimei",
+                "Mike Tyson",
+                "Mortis",
+                "Nucker",
+                "Nyrios",
+                "Oolong Tea",
+                "Pikachooo",
+                "Poo Tine",
+                "Rai3000$",
+                "Ryuu",
+                "ShineXE",
+                "Steve Jobless",
+                "Sywlmoon",
+                "Tongaraa",
+                "Tony Steak",
+                "VALORANCE",
+                "Yar ven",
+                "Yilong Musk",
+                "Zhong Xina",
+                "babysharkdudu",
+                "eiraidenbal",
+                "hedar game",
+                "hijake",
+                "honeymajorie",
+                "inqui0001",
+                "iwnsty",
+                "luckyho",
+                "meso619june",
+                "nihaola",
+                "oppu",
+                "pinny",
+                "sahaye",
+                "sidara",
+                "takajiyu",
+                "thereisnospoon",
+                "tifa999",
+                "tito mhoikal",
+                "yomost#a",
+                "×Y×Y",
+                "デカイケン"
+            ],
+            "crew_members_count": 55,
+            "crew_name": "WeWillWin",
+            "crew_name_history": [
+                "WeWillWin"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "3650722217609": {
+            "crew_id": 3650722217609,
+            "crew_members": [
+                "Arsnotoria",
+                "Ren©"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "Z.A.F.T SF7",
+            "crew_name_history": [
+                "Z.A.F.T SF7"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "365072236176": {
+            "crew_id": 365072236176,
+            "crew_members": [
+                "  ✿Shizuna✿",
+                " Duckling",
+                "- S T E F -",
+                "AbedNegos",
+                "Aisay",
+                "Aruf",
+                "Asannn",
+                "Banshee~",
+                "Baptisia",
+                "Bowmoɼe 2",
+                "Calithea020",
+                "Camomile",
+                "Cinnamon Roll​",
+                "Cleiseld",
+                "D boy",
+                "DB9",
+                "Dibella#a",
+                "DoingYourMOM",
+                "Earl-J",
+                "FREESOUL",
+                "Famz",
+                "Feyrouz",
+                "GOKLENDRA$",
+                "Gabrielzzzz",
+                "Giriharja",
+                "Godblade Kyujin",
+                "Hero x Demon",
+                "Ice Scream",
+                "Ieriyasviel",
+                "Jspec904",
+                "Kanade音",
+                "Keshilya",
+                "LanceXD",
+                "Lilycoris",
+                "Liopa$",
+                "M0ON#a#a",
+                "M3rcY",
+                "MagaletaSorin",
+                "Maishia",
+                "Matsuyo",
+                "Melouvar",
+                "Meowbie15",
+                "Miranina",
+                "Monarch AslaN",
+                "Moonlight 月影",
+                "NewPan",
+                "Panalo",
+                "Pantinos",
+                "Parchment",
+                "Pecorine™ ひめ",
+                "RedNovember",
+                "Regulus Scarlet",
+                "RuneStone",
+                "SHIBUYA KAN0N",
+                "SaintlerX",
+                "SayaKoceng",
+                "Scarleto1",
+                "SeventhFall",
+                "SexWithSakiFuwa",
+                "Sussy Salad",
+                "Thigh Lover",
+                "UChiDaYoo",
+                "Umbra Whale",
+                "UmbraFallen",
+                "UruoiNari",
+                "Viddie A.",
+                "Wayneヅ",
+                "Yurusaki",
+                "Yuuko 蝶",
+                "Zelzraine",
+                "biskutjacob",
+                "ghOstie~$",
+                "izanagihaha",
+                "pesy",
+                "¥mir",
+                "«Erza Titania»",
+                "朱音",
+                "Ｂｏｚｕｋｉ"
+            ],
+            "crew_members_count": 78,
+            "crew_name": "Fairy Tail",
+            "crew_name_history": [
+                "Fairy Tail"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "3685081955981": {
+            "crew_id": 3685081955981,
+            "crew_members": [
+                "Aika Yumeno",
+                "Xamik"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "Wallflowers✿",
+            "crew_name_history": [
+                "Wallflowers✿"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "3719441694345": {
+            "crew_id": 3719441694345,
+            "crew_members": [
+                ".Leonzyx.",
+                "Anby",
+                "Arckuya",
+                "Atyas",
+                "BING",
+                "Beloved Hana$",
+                "Chito#f",
+                "Cowfee",
+                "Crystal",
+                "DeathPriest",
+                "DeniAP. ",
+                "DeniAP01",
+                "DeniAP12",
+                "DeniAP95",
+                "Diablo Volfirッ",
+                "Elysia Ayana",
+                "Fern",
+                "H.Eunbi$",
+                "Ino1",
+                "Kamatarie",
+                "KianaxSirin",
+                "Kokuryuno",
+                "KvinXan ",
+                "LuaNaR",
+                "Luna_Stellaruna",
+                "Mellaby",
+                "Mi-cin",
+                "MinjeongPogi$",
+                "Moccamori ♥",
+                "MuiMui",
+                "Nanto",
+                "Nyaan",
+                "PainRelief",
+                "PicoChan",
+                "Reynaldi FA",
+                "Ruffia",
+                "SANJAYA.",
+                "SaBoo",
+                "Saintess.",
+                "Sattelariz",
+                "Skyphantoms",
+                "SmolRucia",
+                "SpacePenguin",
+                "StarHill",
+                "Tifany#c",
+                "Tokitsune",
+                "Uh huh",
+                "Yggdrasil#i",
+                "lyana",
+                "macza",
+                "momo...",
+                "monomo2$",
+                "usagi",
+                "◥▶ _ ◀◤",
+                "むいむい",
+                "クロイウタ",
+                "又Ｅｒｉｑａ又"
+            ],
+            "crew_members_count": 57,
+            "crew_name": "REBIRTH",
+            "crew_name_history": [
+                "REBIRTH"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "3723736661641": {
+            "crew_id": 3723736661641,
+            "crew_members": [
+                "  Lyn  ",
+                " Yumelia$",
+                "220825-1",
+                "AIZECpenguin",
+                "AdéliePenguin",
+                "Afif s Penguin",
+                "BiscuitWOW",
+                "Bolo Bagong",
+                "BoloDhewo",
+                "Cezia",
+                "Chaleen",
+                "Edochi",
+                "Feana",
+                "Hirutora",
+                "Kairi",
+                "Lagaƀułin 2",
+                "Lagaƀułin 3",
+                "Lust-X",
+                "March",
+                "Melpiz",
+                "NinoVonHellsing",
+                "Nolo Gareng",
+                "Nufsa",
+                "Od1鬼",
+                "PI",
+                "RICH Penguin",
+                "Reina ",
+                "Restia ",
+                "Silpina Penguin",
+                "Skill√Issue",
+                "SuperPenguin",
+                "Tiwul",
+                "Unranked G",
+                "Ventus12",
+                "Wishang Geni",
+                "hyura",
+                "lycoXajisai$",
+                "xDPS",
+                "オクタ-taheZz",
+                "ＮＡＺＨ",
+                "Ｚａ"
+            ],
+            "crew_members_count": 41,
+            "crew_name": "Aspen",
+            "crew_name_history": [
+                "Aspen"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "386547072645": {
+            "crew_id": 386547072645,
+            "crew_members": [
+                "-×-Selena-×-",
+                "Akaza",
+                "Angelingca",
+                "Berry",
+                "Cal Salvatore",
+                "Cuzrd",
+                "Deusvon",
+                "F. As",
+                "Fredzzz#a",
+                "Gendruwo",
+                "GespenstMkI",
+                "Gyapi",
+                "Koqurow",
+                "Kyokazu",
+                "Levri",
+                "LilyIFx",
+                "Lyzana",
+                "MIN.T",
+                "Mango IceTea",
+                "Mio Tchzyuki",
+                "MizushiRin",
+                "MysticSky",
+                "Naninana",
+                "NoxEternus",
+                "Pluviuz",
+                "Reck",
+                "Shigeki",
+                "Shizu_Raiku",
+                "Sukuna",
+                "Teresna",
+                "Trap",
+                "Triceratops",
+                "Tuki",
+                "Vêrmïllïðñ",
+                "Winter Neko",
+                "Yuhao",
+                "YuukoKuuki",
+                "Yuuko ",
+                "abFighter",
+                "blusabre",
+                "kawakaze#d",
+                "kitsune",
+                "nono1$",
+                "xyzSapphire",
+                "нєℓℓѕ¢утнє",
+                "⁰Rosalia⁰",
+                "天sar",
+                "真夜中",
+                "Ａｒｔｇｕｎ"
+            ],
+            "crew_members_count": 49,
+            "crew_name": "Tea Party",
+            "crew_name_history": [
+                "Tea Party"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "38654721665": {
+            "crew_id": 38654721665,
+            "crew_members": [
+                " ★ Yerin ★",
+                "-Matxha Vhy-",
+                "Claire De Cat",
+                "Fox De Hunter",
+                "Gemina",
+                "Ilyasvil",
+                "Inameenee",
+                "Ioia",
+                "Lavelka",
+                "Murnilia",
+                "ONE   0",
+                "Pahlawan Robot",
+                "Refain",
+                "Saber Alter",
+                "Shielvia",
+                "Xolvaquc",
+                "Xyrai_",
+                "Yumiri",
+                "achanetof",
+                "ahn-jiwon",
+                "esqpur ",
+                "raver",
+                "【IMU】一イム"
+            ],
+            "crew_members_count": 23,
+            "crew_name": "SOVEREIGN",
+            "crew_name_history": [
+                "SOVEREIGN"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "38654721673": {
+            "crew_id": 38654721673,
+            "crew_members": [
+                "Sick "
+            ],
+            "crew_members_count": 1,
+            "crew_name": "ZerotoHero",
+            "crew_name_history": [
+                "ZerotoHero"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "395137007241": {
+            "crew_id": 395137007241,
+            "crew_members": [
+                " Zencrow",
+                "Ajushi_Arc",
+                "Arata Murakami",
+                "Aykun",
+                "Chykina",
+                "GELLBOORU",
+                "GaIatea$",
+                "Hazeell",
+                "HzN •『Musashi』™$",
+                "Inaurka",
+                "Inaurka斗",
+                "Justsmile",
+                "NaeheI",
+                "Nayya#h",
+                "Oxygen..",
+                "Petani kecil",
+                "PhD Mobius ",
+                "Reery ",
+                "ResperX",
+                "Roslyn​",
+                "Saylaa",
+                "Shinsヅ",
+                "ShiriVP",
+                "Symbiote#c",
+                "Uchinyan",
+                "Xeazツ",
+                "Zhipora",
+                "ricad",
+                "​​​​​​​​​"
+            ],
+            "crew_members_count": 29,
+            "crew_name": "Guardians",
+            "crew_name_history": [
+                "Guardians"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4041564241545": {
+            "crew_id": 4041564241545,
+            "crew_members": [
+                ".Seth",
+                "DEPlays",
+                "Drizzler",
+                "Euphy Chan",
+                "Invisica",
+                "Jàh",
+                "LeeYoMi",
+                "Marcus_Kang",
+                "Nuclear",
+                "Prakraf",
+                "ROCKIN",
+                "ScarletWanderer",
+                "ShinB",
+                "Sylvaris",
+                "Trung Nguyen",
+                "_Yasuo_",
+                "yuenx",
+                "๐๊MiN_GNz-TH๐๊",
+                "にひろ",
+                "ばっきーあ",
+                "エクバやろう",
+                "ディンブラ",
+                "井ノ上 たきな",
+                "四能佳百D",
+                "琴乃葉",
+                "雪色みゆ"
+            ],
+            "crew_members_count": 26,
+            "crew_name": "La Vie en Rose",
+            "crew_name_history": [
+                "La Vie en Rose"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4105988750989": {
+            "crew_id": 4105988750989,
+            "crew_members": [
+                " Arisu ",
+                "KeyAl-1S",
+                "Nuto",
+                "RubyX",
+                "ริโอะ"
+            ],
+            "crew_members_count": 5,
+            "crew_name": "Millennium",
+            "crew_name_history": [
+                "Millennium"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4131758554765": {
+            "crew_id": 4131758554765,
+            "crew_members": [
+                "Michi",
+                "Soonkueh"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "鬼滅の刃",
+            "crew_name_history": [
+                "鬼滅の刃"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "425201778308": {
+            "crew_id": 425201778308,
+            "crew_members": [
+                "Allelujah#a",
+                "Springz",
+                "xSOL",
+                "★NubNibChan☆"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "❀ Hanazono ❀",
+            "crew_name_history": [
+                "❀ Hanazono ❀"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4273492475533": {
+            "crew_id": 4273492475533,
+            "crew_members": [
+                "Tias",
+                "Utami"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "Heart",
+            "crew_name_history": [
+                "Heart"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "429496745612": {
+            "crew_id": 429496745612,
+            "crew_members": [
+                "Sensen",
+                "Sonakita",
+                "Vastron",
+                "zapopan",
+                "ナオキ"
+            ],
+            "crew_members_count": 5,
+            "crew_name": "Clover",
+            "crew_name_history": [
+                "Clover"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4294983301": {
+            "crew_id": 4294983301,
+            "crew_members": [
+                "Aisha",
+                "Theta",
+                "XlST"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "Lust",
+            "crew_name_history": [
+                "Lust"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4294983306": {
+            "crew_id": 4294983306,
+            "crew_members": [
+                "Asuna",
+                "Auditia",
+                "Eula",
+                "Eva",
+                "Mia",
+                "Nagisa",
+                "Reira",
+                "Roslyn",
+                "Rubilia",
+                "ˢˢˢ"
+            ],
+            "crew_members_count": 10,
+            "crew_name": "Scarlet",
+            "crew_name_history": [
+                "Scarlet"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4294983307": {
+            "crew_id": 4294983307,
+            "crew_members": [
+                "Annameria",
+                "Aurafyre",
+                "Chraser",
+                "Dezyree",
+                "Medbislove",
+                "Rosey❀",
+                "Vuducasta"
+            ],
+            "crew_members_count": 7,
+            "crew_name": "Fantasy",
+            "crew_name_history": [
+                "Fantasy"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4544075415181": {
+            "crew_id": 4544075415181,
+            "crew_members": [
+                "Alyssa-00",
+                "ChuSheng",
+                "DaiLuMao",
+                "Gundam-00",
+                "RIPVonWrinkle",
+                "YingJing"
+            ],
+            "crew_members_count": 6,
+            "crew_name": "SHUTINS",
+            "crew_name_history": [
+                "SHUTINS"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4556960317069": {
+            "crew_id": 4556960317069,
+            "crew_members": [
+                "10Xin",
+                "k4rma"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "TEAM PHOSA",
+            "crew_name_history": [
+                "TEAM PHOSA"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4565550251661": {
+            "crew_id": 4565550251661,
+            "crew_members": [
+                "Gaz"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "SCR.S",
+            "crew_name_history": [
+                "SCR.S"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4569845218957": {
+            "crew_id": 4569845218957,
+            "crew_members": [
+                "Bluebell"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "The Darkness",
+            "crew_name_history": [
+                "The Darkness"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4599909990029": {
+            "crew_id": 4599909990029,
+            "crew_members": [
+                "Ai",
+                "Sheila",
+                "Tiyas",
+                "Yui"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "Virgo",
+            "crew_name_history": [
+                "Virgo"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4604204957325": {
+            "crew_id": 4604204957325,
+            "crew_members": [
+                "Ayane",
+                "ˣˢ"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "ˣ",
+            "crew_name_history": [
+                "ˣ"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4608499924621": {
+            "crew_id": 4608499924621,
+            "crew_members": [
+                "Astrid",
+                "Ebony-Raine",
+                "Luna"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "Dark Moon",
+            "crew_name_history": [
+                "Dark Moon"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4621384826509": {
+            "crew_id": 4621384826509,
+            "crew_members": [
+                "_  "
+            ],
+            "crew_members_count": 1,
+            "crew_name": "SLAYER",
+            "crew_name_history": [
+                "SLAYER"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4629974761101": {
+            "crew_id": 4629974761101,
+            "crew_members": [
+                "Oneiros",
+                "Ran",
+                "Valhalla"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "α",
+            "crew_name_history": [
+                "α"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4634269728397": {
+            "crew_id": 4634269728397,
+            "crew_members": [
+                "Anaxa"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "BaoBei",
+            "crew_name_history": [
+                "BaoBei"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4651449597581": {
+            "crew_id": 4651449597581,
+            "crew_members": [
+                "Puck2",
+                "Puck4"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "GIGACHADS",
+            "crew_name_history": [
+                "GIGACHADS"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "4672924434061": {
+            "crew_id": 4672924434061,
+            "crew_members": [
+                "Luna ☂",
+                "Luna ♡",
+                "Lunacia ☂",
+                "Lunacia ♡"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "Ｌｕｎａｒ Ｅｃｌｉｐｓｅ",
+            "crew_name_history": [
+                "Ｌｕｎａｒ Ｅｃｌｉｐｓｅ"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "468151451274": {
+            "crew_id": 468151451274,
+            "crew_members": [
+                " Elysia ",
+                "-ห๊ะ-",
+                "Ai Astin",
+                "Aliceline",
+                "Amberground",
+                "AnemoneEldraine",
+                "Bello Piggy",
+                "Blackfarron",
+                "Brooklyn#i",
+                "CHaNoNo",
+                "Chef RinSaMa",
+                "Cholly",
+                "DeeMo Piggy",
+                "Deeppy",
+                "ERR0RIZE",
+                "ElderTayan",
+                "EugeoYu",
+                "Gunshotメ",
+                "Hifumi",
+                "Hoshimachi Ai",
+                "JustLazySoWhat",
+                "KONGZE",
+                "Kastralll",
+                "Kiryu",
+                "L-Dlan",
+                "Lostdead",
+                "L ",
+                "MIZUHIDE",
+                "Maimint™",
+                "Malaner",
+                "Mayong",
+                "Meen",
+                "Mizuwari",
+                "MoMoTaRo๛",
+                "NSM-ROBO-I",
+                "Natoki",
+                "NoHeart",
+                "Omaewamou",
+                "PHUMIN#a",
+                "Pa0Pa0^^0",
+                "PaRaNo¡D",
+                "PiKsZ",
+                "Piksz.exe",
+                "PoNyPim",
+                "Prof. CHECKMATE",
+                "RedWine",
+                "Reisa",
+                "Rittokung",
+                "S4XNG$",
+                "Saogi",
+                "Slowlife",
+                "Snotra",
+                "Snowblue ",
+                "S้ouJJsv ",
+                "T.M. Opera O",
+                "Usavichio",
+                "W3NDY",
+                "WicH#a",
+                "XลัU๓าสัJXาS",
+                "ZerozXZenith",
+                "alice-no3",
+                "iNoa",
+                "jasmine”jasmine",
+                "llAdelenell",
+                "menNtalist_",
+                "rayrai",
+                "whitecrowz",
+                "x Factor",
+                "xBrowniiez",
+                "xxYxx",
+                "Þerfe¢Ts™",
+                "ข้าวขวัญ",
+                "ชาบูหมาล่า",
+                "บอล",
+                "พารามีเซียม",
+                "พาราเซตามอน",
+                "องค์ชาย❾",
+                "เนื้้อ",
+                "เหมาฉี",
+                "แบมแบม",
+                "โบรลี่",
+                "ไข่llมว",
+                "ไอ้ต้าวหมาบี้",
+                "€lise",
+                "☆ﾟNámҺωαη☆ﾟ",
+                "♥illya♥",
+                "海王 みちる"
+            ],
+            "crew_members_count": 87,
+            "crew_name": "Oncilla",
+            "crew_name_history": [
+                "Oncilla"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "51539623557": {
+            "crew_id": 51539623557,
+            "crew_members": [
+                "Asuka-doko",
+                "ImCarlotta",
+                "Lirica",
+                "OneHitCombo",
+                "SadViolin",
+                "シズル"
+            ],
+            "crew_members_count": 6,
+            "crew_name": "Nekomimi",
+            "crew_name_history": [
+                "Nekomimi"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "519691058826": {
+            "crew_id": 519691058826,
+            "crew_members": [
+                ".oOAVAOo.",
+                "ARMMANII",
+                "AliBo0$",
+                "Alya forever",
+                "Arizarea",
+                "Bellisa",
+                "Borajup",
+                "Browny",
+                "Chamaow",
+                "Chibi_94",
+                "ChinoHikari",
+                "Danielle",
+                "Deรhi",
+                "DraK0RN",
+                "Goji Berry ツ",
+                "Gojira ツ",
+                "GripenMeteor",
+                "Gustbell",
+                "Hajiki",
+                "Ixzanagi",
+                "Kazeno#a",
+                "Kazuyo",
+                "KuraXYami",
+                "Kycetes",
+                "KylLoveHipper",
+                "MTRK",
+                "Mahiroto",
+                "MaisSuppe",
+                "Masjuras",
+                "McNuyLiBiTy",
+                "MissPenguin",
+                "Mogehane",
+                "Mr.A#e",
+                "N.4th",
+                "NohanaMiJunGz",
+                "NongPol",
+                "NraK",
+                "Rafecia",
+                "Rainnykun",
+                "Raksarune",
+                "Recaro ",
+                "ReonaAya",
+                "Riae",
+                "Sasoramk2",
+                "SkyeWalkerz",
+                "Super Creek",
+                "Tong4642",
+                "Tora2499",
+                "TruReS",
+                "VeryQ",
+                "WhipChoc",
+                "Z E N T A",
+                "enlesna",
+                "lumino",
+                "o-จ๊ะเอ๋o",
+                "phonypionny",
+                "pla ulti",
+                "snailjinny",
+                "sweeT_Touch",
+                "twenty/two",
+                "wittayu02",
+                "woozzen - IX",
+                "คนรักเสี่ย",
+                "คะน้าร้อยศพ",
+                "ชินเลย์",
+                "ชิเลน่า",
+                "ต้นกล้า",
+                "บี",
+                "ป้าเปิ้ล",
+                "มาอิเมะ",
+                "ร้ouIIsv",
+                "เซซบนม",
+                "เบิร์ด",
+                "โอเชียนบลู"
+            ],
+            "crew_members_count": 74,
+            "crew_name": "OnlyFนN",
+            "crew_name_history": [
+                "OnlyFนN"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "532575960705": {
+            "crew_id": 532575960705,
+            "crew_members": [
+                "  REN   ",
+                " Sendy ",
+                " ixphoria",
+                "+MANDRAKE+",
+                "-Sajjad-",
+                "-Syrena-",
+                ".Amira.",
+                ".X",
+                "05ziDANe10",
+                "2E",
+                "ANNE♥",
+                "AV",
+                "AiLiXiYaXOXO",
+                "Ajong",
+                "Alexia Midgar",
+                "An average NEET",
+                "Angeliea",
+                "Anne Villañueva",
+                "Arsene Lupin",
+                "Artemis Crowe",
+                "Auden Wren",
+                "AweZa",
+                "Ay_∆",
+                "BOY_TAMBLING",
+                "Basara_",
+                "Buncu",
+                "Candledrop",
+                "Chimpkrim",
+                "Clairexc",
+                "Clevatess",
+                "Cloud Zero",
+                "ComE2PapaBB",
+                "DEWWYY",
+                "Davao City",
+                "Dhai ",
+                "Dra",
+                "Fuki Sawa",
+                "GameKun",
+                "HARR",
+                "Hatala",
+                "Huaka",
+                "Hualian",
+                "Huolin",
+                "IrfanZz",
+                "Jesus is Lord",
+                "Jinggoy Estrada",
+                "Jongz",
+                "Jucq",
+                "KAGIRll",
+                "KAGURII",
+                "KaiMeera",
+                "Kandine",
+                "Kira Kagami",
+                "Kunoichi",
+                "KurosaN",
+                "Kuz",
+                "Lana AI",
+                "Lavetta",
+                "Lexi",
+                "Lisarah",
+                "Lucifer666",
+                "Luna Stellaron",
+                "MOONFIRDAUS",
+                "Meow Meow ",
+                "MilleFeuille",
+                "Miyako_",
+                "Mr. Luki",
+                "Mulgokizaryy",
+                "NOELLE♥",
+                "N_Nnanny",
+                "Nanasu",
+                "NenekSado",
+                "Novice",
+                "NyxN#c",
+                "PJong",
+                "Panda ♥",
+                "Piolo717",
+                "RUXZD",
+                "Raetsel",
+                "Ranie",
+                "Raxella",
+                "Reynould",
+                "Rienna",
+                "Rinoa Hātirī",
+                "Roh",
+                "Roseay",
+                "S.SECRET",
+                "SHYXHAl",
+                "ST♥",
+                "ScarletFlame",
+                "Secchanº",
+                "Senjikun",
+                "Shadowmare$",
+                "Shiina",
+                "Shin Yuna",
+                "Shy",
+                "Skywolfx",
+                "SoeY1n",
+                "Solus",
+                "Stefanie Anne",
+                "Storm Eyes ",
+                "Sujan",
+                "Sukōru Reonhāto",
+                "Sylaver",
+                "Symbriette",
+                "Tetsu",
+                "Tiara_K.",
+                "Tj",
+                "Valline",
+                "VariantUnlucky",
+                "Verliana",
+                "Yosora",
+                "YouHaveNoMana",
+                "Yumico",
+                "ZEEZ",
+                "_AmaShigure_",
+                "_Baby_",
+                "_Guts",
+                "alghofur",
+                "anime",
+                "ay_∆h",
+                "bahora",
+                "dager",
+                "hari ini",
+                "kaedaechan1",
+                "keb0ngce",
+                "m4rU",
+                "miaomiao",
+                "minnn#f",
+                "pulutnangka",
+                "rynezt",
+                "tortol ♥",
+                "tt",
+                "wz_nu",
+                "xrosa",
+                "ไร้uาม",
+                "◄ Hinata ►",
+                "♥ ฮานะ ♥",
+                "♥ โมจิ ♥",
+                "「Sora空」",
+                "あおい",
+                "ハルペ",
+                "ランガ"
+            ],
+            "crew_members_count": 143,
+            "crew_name": "Origin",
+            "crew_name_history": [
+                "Origin"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "536870928001": {
+            "crew_id": 536870928001,
+            "crew_members": [
+                "Aile Hato",
+                "AntoliaXBrevery",
+                "pugo"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "Omnis PH",
+            "crew_name_history": [
+                "Omnis PH"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "549755829889": {
+            "crew_id": 549755829889,
+            "crew_members": [
+                "Raviesse"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "ALTERA",
+            "crew_name_history": [
+                "ALTERA"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "554050797188": {
+            "crew_id": 554050797188,
+            "crew_members": [
+                "AcTivEz"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "MoeMoeCute",
+            "crew_name_history": [
+                "MoeMoeCute"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "554050797189": {
+            "crew_id": 554050797189,
+            "crew_members": [
+                "AGENT CANNED",
+                "Ayakaジ",
+                "BUGSY",
+                "Dahyunee",
+                "Darkiah",
+                "Demonoid",
+                "Elainya",
+                "Elena Starfist",
+                "Enlightened",
+                "FIourish",
+                "Fitrix ",
+                "Furinya",
+                "Gadney",
+                "HarunaNeko",
+                "IA.Baguette",
+                "Ikarosx",
+                "Ikarusx",
+                "Indigo​",
+                "JY@6010",
+                "Kaede​",
+                "Klee main",
+                "Korone",
+                "Lacrymu",
+                "Marvinn",
+                "Mesdoram",
+                "MinatozakiTzuyu",
+                "Mochiri",
+                "NJ>~<",
+                "NonCanonKid",
+                "NotPawis93",
+                "Pawis93",
+                "Rammus12",
+                "RammusSaidOK",
+                "RexCaelestis",
+                "Riceeee",
+                "Runapi",
+                "Silvreigh",
+                "Strafe_Chisato",
+                "Tapo",
+                "The Herta 银狼",
+                "Urthr",
+                "Yukihimexz",
+                "Yukikazeeee",
+                "iloveass22",
+                "juicyM∆NKØ",
+                "mymoney",
+                "ohnoesmybad$",
+                "taranta147",
+                "xznic",
+                "•Nakiri•",
+                "『夜』Aleria",
+                "剣ぞKenfu",
+                "日和愛依"
+            ],
+            "crew_members_count": 53,
+            "crew_name": "Court Of Cats",
+            "crew_name_history": [
+                "Court Of Cats"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "55834590851": {
+            "crew_id": 55834590851,
+            "crew_members": [
+                "Grimm",
+                "Illyn",
+                "KL",
+                "Kuroko",
+                "Lapis Lazuli",
+                "S......",
+                "Sekreuz",
+                "Yuris12",
+                "freyr",
+                "megamega#a",
+                "y4z"
+            ],
+            "crew_members_count": 11,
+            "crew_name": "Infinity Unique",
+            "crew_name_history": [
+                "Infinity Unique"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "562640731778": {
+            "crew_id": 562640731778,
+            "crew_members": [
+                " Kuroe",
+                " นาตาชา",
+                "Acrux+",
+                "AisKacangMerah2",
+                "Atenn",
+                "BLACKJACT",
+                "BlackDick",
+                "CASVAL",
+                "CH30",
+                "CHlSA",
+                "Ciel24#a",
+                "Coldhands",
+                "Dison",
+                "EnemiesZ",
+                "Espresso.",
+                "Eunie#i",
+                "FateLyx#a",
+                "Fay神",
+                "FriK√SweetEyes",
+                "Hansamhida",
+                "IcyRain-V3.Bene",
+                "Isana",
+                "Jesara",
+                "Kubi",
+                "Leonidas",
+                "Leucosia337",
+                "Liporpor",
+                "Loope",
+                "Lumpia",
+                "Mejar",
+                "Meluna",
+                "Miorie",
+                "Mizuha",
+                "Nami Park",
+                "NayuManja",
+                "Nelis#c",
+                "Pua",
+                "Roople",
+                "Scarecrow.",
+                "Twizzing",
+                "Twizzing 2",
+                "Vanica",
+                "Zenxlay",
+                "Zoufeng",
+                "gabby#a#c",
+                "lyrarei",
+                "†zzzerooo†",
+                "√Urahara√",
+                "孤狼",
+                "雪風星の扉"
+            ],
+            "crew_members_count": 50,
+            "crew_name": "FridayKnight",
+            "crew_name_history": [
+                "FridayKnight"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "571230666379": {
+            "crew_id": 571230666379,
+            "crew_members": [
+                "Akemi007",
+                "Edinburg$",
+                "Fitnesspopz",
+                "Jeeja",
+                "Kwang007",
+                "NGC6302",
+                "OmletteRice$",
+                "S.E.L.I.E",
+                "SEROS#c",
+                "UsaAu",
+                "Yui秋绘♪",
+                "afk3#a",
+                "atk01",
+                "h3945",
+                "คูคา",
+                "ทะเลดำ888",
+                "ทะเลดำ999",
+                "บูดู",
+                "小春Kornnitz—BB"
+            ],
+            "crew_members_count": 19,
+            "crew_name": "★FluffyCat★",
+            "crew_name_history": [
+                "★FluffyCat★"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "592705502852": {
+            "crew_id": 592705502852,
+            "crew_members": [
+                ".MO.",
+                "HIYuuuuu",
+                "Nickyqn",
+                "Tayrike",
+                "Zionist",
+                "oจ๊ะเอ๋o",
+                "xXIGAXx"
+            ],
+            "crew_members_count": 7,
+            "crew_name": "Celestial",
+            "crew_name_history": [
+                "Celestial"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "644245110417": {
+            "crew_id": 644245110417,
+            "crew_members": [
+                "Ganso"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "Moonlight",
+            "crew_name_history": [
+                "Moonlight"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "68719492750": {
+            "crew_id": 68719492750,
+            "crew_members": [
+                "CikSiti"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "NIGHTBORN",
+            "crew_name_history": [
+                "NIGHTBORN"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "717259554436": {
+            "crew_id": 717259554436,
+            "crew_members": [
+                "Bababruh V2",
+                "NongBook",
+                "Rosaria_TH"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "AVALANCHE",
+            "crew_name_history": [
+                "AVALANCHE"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "790273998467": {
+            "crew_id": 790273998467,
+            "crew_members": [
+                "..bOnk...bOnk..",
+                ".Sinon.",
+                "4d3m0nt3r4",
+                "Cookie-",
+                "DuckPink ",
+                "HuyetNgoc",
+                "KychieI",
+                "Kychiel",
+                "Mochi Đậu Đỏ",
+                "Mypha",
+                "Mít_Na",
+                "No_4",
+                "Odin",
+                "Ran_Choi",
+                "SSSuperM",
+                "Sachiel",
+                "SilVux",
+                "Sokou",
+                "Sugar Rush",
+                "ViBa",
+                "Yuki Decyrus8",
+                "doert",
+                "g4m3r2",
+                "s0ull3ss"
+            ],
+            "crew_members_count": 24,
+            "crew_name": "VN-Archon",
+            "crew_name_history": [
+                "VN-Archon"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "8589950601": {
+            "crew_id": 8589950601,
+            "crew_members": [
+                "CrimsonKarenina",
+                "Rozenburg Engel",
+                "コト"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "Blanc Et Noir",
+            "crew_name_history": [
+                "Blanc Et Noir"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "8589950610": {
+            "crew_id": 8589950610,
+            "crew_members": [
+                "Alciel",
+                "Dodozai",
+                "Ikusaki",
+                "Ilyvia",
+                "Vortigern",
+                "aji.July24th",
+                "qwertyll$"
+            ],
+            "crew_members_count": 7,
+            "crew_name": "IRREGULARS",
+            "crew_name_history": [
+                "IRREGULARS"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "884763278990": {
+            "crew_id": 884763278990,
+            "crew_members": [
+                "Ipomoea alba",
+                "sssunshine-"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "Radiance",
+            "crew_name_history": [
+                "Radiance"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "944892821123": {
+            "crew_id": 944892821123,
+            "crew_members": [
+                "Adorufu Hittorā",
+                "Eternal Isekai",
+                "FemaleExecutor",
+                "RIKKA-TAKA ",
+                "Renkawa Cherino",
+                "Ry-U-",
+                "THOR4",
+                "Whisper",
+                "_AkaiTsuki_",
+                "zuzu.家族 ",
+                "比安卡"
+            ],
+            "crew_members_count": 11,
+            "crew_name": "PHONG ƯUNG BANG",
+            "crew_name_history": [
+                "PHONG ƯUNG BANG"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "94489296527": {
+            "crew_id": 94489296527,
+            "crew_members": [
+                "ARC Nirvash",
+                "ARC Viviana",
+                "Sky Cat"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "ARCADIA",
+            "crew_name_history": [
+                "ARCADIA"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "98784263818": {
+            "crew_id": 98784263818,
+            "crew_members": [
+                "3lio"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "Niflheim",
+            "crew_name_history": [
+                "Niflheim"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "992137461379": {
+            "crew_id": 992137461379,
+            "crew_members": [
+                "Ako",
+                "Buzzama",
+                "Exy.",
+                "IcyRain-V3.Ai",
+                "Pentagon",
+                "SIBAL",
+                "TimeToMORBIN",
+                "ε椎名真昼з",
+                "春日野 穹"
+            ],
+            "crew_members_count": 9,
+            "crew_name": "ExilesMY",
+            "crew_name_history": [
+                "ExilesMY"
+            ],
+            "server_region": "southeast-asia"
+        },
+        "996432428686": {
+            "crew_id": 996432428686,
+            "crew_members": [
+                "Anak Manja",
+                "Aya.atc",
+                "Aya.tc$",
+                "GettyJay",
+                "Mini RinSaMa"
+            ],
+            "crew_members_count": 5,
+            "crew_name": "Junk-Rai",
+            "crew_name_history": [
+                "Junk-Rai"
+            ],
+            "server_region": "southeast-asia"
+        }
+    },
+    "crews_total": 98,
+    "last_updated": "Apr 25, 2026, 11:53:32 PM",
+    "server_region": "southeast-asia"
+}

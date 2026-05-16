@@ -1,0 +1,3570 @@
+{
+    "crews": {
+        "103079229605": {
+            "crew_id": 103079229605,
+            "crew_members": [
+                "謝慕"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "永安大本营",
+            "crew_name_history": [
+                "永安大本营"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1039382100238": {
+            "crew_id": 1039382100238,
+            "crew_members": [
+                "岱宗景山",
+                "无暇爱莉",
+                "申报资料"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "只因你太美",
+            "crew_name_history": [
+                "只因你太美"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1060856936721": {
+            "crew_id": 1060856936721,
+            "crew_members": [
+                "Twister",
+                "i帝轨i",
+                "丷大窵萌槑丷",
+                "五更家今天的饭",
+                "伊洛娜",
+                "传说中的那啥",
+                "你想咋滴",
+                "千斗五十铃#a",
+                "合乎中道",
+                "听雪穗",
+                "奥燐维亚",
+                "媛耒莳氼",
+                "孤舟泛月",
+                "客官不可以阿",
+                "异囚",
+                "微微冷",
+                "旅行开拓者#a",
+                "无限鸡米花",
+                "星球探索者",
+                "晚下",
+                "晚晚ovo.",
+                "木薯薯",
+                "松下守纱",
+                "梦里生醉",
+                "椰茶栗子",
+                "槿辰",
+                "歆月挽夜沁洛川",
+                "油栗子",
+                "琉璃猫猫澄",
+                "琳宝是憨憨",
+                "白白白#a",
+                "稲白みこと",
+                "空元行者",
+                "绊爱酱",
+                "花安",
+                "蒼咲雫",
+                "虫7",
+                "赤魂匣",
+                "跪下给夏佐口",
+                "里表不一",
+                "陸辰",
+                "魅魔-三兮",
+                "糖诗"
+            ],
+            "crew_members_count": 43,
+            "crew_name": "魅魔恬心",
+            "crew_name_history": [
+                "魅魔恬心"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1069446871205": {
+            "crew_id": 1069446871205,
+            "crew_members": [
+                "夏拉"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "远东午睡结社",
+            "crew_name_history": [
+                "远东午睡结社"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "107374197101": {
+            "crew_id": 107374197101,
+            "crew_members": [
+                "wanderful"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "小铃铛",
+            "crew_name_history": [
+                "小铃铛"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1108101576974": {
+            "crew_id": 1108101576974,
+            "crew_members": [
+                "樱桃糖糖"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "天穹阁",
+            "crew_name_history": [
+                "天穹阁"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "111669164303": {
+            "crew_id": 111669164303,
+            "crew_members": [
+                "我是大雪儿",
+                "浮栖",
+                "神宫T"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "花楹辞",
+            "crew_name_history": [
+                "花楹辞"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "111669164397": {
+            "crew_id": 111669164397,
+            "crew_members": [
+                "红龙子"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "晦暝",
+            "crew_name_history": [
+                "晦暝"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1138166347947": {
+            "crew_id": 1138166347947,
+            "crew_members": [
+                "不听的梦",
+                "暖宝#a"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "花园",
+            "crew_name_history": [
+                "花园"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "115964131693": {
+            "crew_id": 115964131693,
+            "crew_members": [
+                "A4塔菲",
+                "B站、星月川",
+                "Nag1sa",
+                "　东雪莲　",
+                "千年小法师",
+                "好难取名",
+                "始源#a",
+                "幻塔拓荒者青白",
+                "我预热你们上",
+                "摆烂小新",
+                "是梦终空",
+                "洛氏硬度",
+                "炽焰、火月",
+                "落云淵",
+                "血老板",
+                "轻涟",
+                "酒清酒",
+                "障月",
+                "香茶小雪梨"
+            ],
+            "crew_members_count": 19,
+            "crew_name": "域垣魔宗",
+            "crew_name_history": [
+                "域垣魔宗"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1194000922893": {
+            "crew_id": 1194000922893,
+            "crew_members": [
+                "樗栎",
+                "舜yyds"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "喵茗阁",
+            "crew_name_history": [
+                "喵茗阁"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1198295890190": {
+            "crew_id": 1198295890190,
+            "crew_members": [
+                "安东塔斯",
+                "无限大人",
+                "红伞伞鱼"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "星岛",
+            "crew_name_history": [
+                "星岛"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "120259098693": {
+            "crew_id": 120259098693,
+            "crew_members": [
+                "Amremaker",
+                "DATEALiVE",
+                "sakuno",
+                "不许叫我小土豆",
+                "冰冰冰tong",
+                "布哩哩",
+                "曜魄",
+                "海欣",
+                "爱丝特尔",
+                "花园宝宝06",
+                "苏茜折耳猫"
+            ],
+            "crew_members_count": 11,
+            "crew_name": "神",
+            "crew_name_history": [
+                "神"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "120259098793": {
+            "crew_id": 120259098793,
+            "crew_members": [
+                "zmYUKI",
+                "诶嘿！",
+                "鲲飞"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "萌域",
+            "crew_name_history": [
+                "萌域"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "120259098895": {
+            "crew_id": 120259098895,
+            "crew_members": [
+                "旅人ｉ"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "万人迷",
+            "crew_name_history": [
+                "万人迷"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "124554066086": {
+            "crew_id": 124554066086,
+            "crew_members": [
+                "PIMO",
+                "源蝶恋之花"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "镜都",
+            "crew_name_history": [
+                "镜都"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "124554066087": {
+            "crew_id": 124554066087,
+            "crew_members": [
+                "彷徨歧途",
+                "溪儾"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "雨晴",
+            "crew_name_history": [
+                "雨晴"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "124554066185": {
+            "crew_id": 124554066185,
+            "crew_members": [
+                "万穗",
+                "像神一样地东西",
+                "胆小无用"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "灵笼",
+            "crew_name_history": [
+                "灵笼"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "124554066193": {
+            "crew_id": 124554066193,
+            "crew_members": [
+                "暮奈离",
+                "爱丽丝贝娜"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "猪猪小屋",
+            "crew_name_history": [
+                "猪猪小屋"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1258425432430": {
+            "crew_id": 1258425432430,
+            "crew_members": [
+                "小小孟章",
+                "忘川守",
+                "朵猫猫",
+                "清风挽梦"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "萌新庇护所",
+            "crew_name_history": [
+                "萌新庇护所"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "128849033286": {
+            "crew_id": 128849033286,
+            "crew_members": [
+                "一魔多",
+                "十六夜晓夜",
+                "啥是逼呀",
+                "夜雨的夜语",
+                "姜奈",
+                "孤霞",
+                "愿顾兔清妍",
+                "榴莲酥辶",
+                "水莲寺璐珈",
+                "让我看看岚"
+            ],
+            "crew_members_count": 10,
+            "crew_name": "推荐",
+            "crew_name_history": [
+                "推荐"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "128849033487": {
+            "crew_id": 128849033487,
+            "crew_members": [
+                "-时雨-",
+                "CelesAlfort",
+                "Elise",
+                "I寒硝炑钰I",
+                "N1ASIR",
+                "Yaerjie",
+                "mokomoko",
+                "wuvOoO",
+                "zhu仔",
+                "コオリツバサ",
+                "为了心中的梦",
+                "五栗米",
+                "体温恒定39度",
+                "元初喵",
+                "孤独等待黎明",
+                "小微笑",
+                "小钢",
+                "扑棱蛾子",
+                "时雨子萱",
+                "星玥儿",
+                "是个混子哦",
+                "月语苏堤",
+                "松实宥",
+                "梅放",
+                "永遠に紅い幼き月",
+                "神恩",
+                "苏白吖",
+                "蓝佬登",
+                "虎拳",
+                "虚无魔神",
+                "酒伴灬久伴",
+                "青映",
+                "黑丝"
+            ],
+            "crew_members_count": 33,
+            "crew_name": "东方幻想乡",
+            "crew_name_history": [
+                "东方幻想乡"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "12884916290": {
+            "crew_id": 12884916290,
+            "crew_members": [
+                "8848e",
+                "lived",
+                "独闻烟雨"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "帝",
+            "crew_name_history": [
+                "帝"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "12884916489": {
+            "crew_id": 12884916489,
+            "crew_members": [
+                "KEF",
+                "寒子夜"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "幻城",
+            "crew_name_history": [
+                "幻城"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "12884916494": {
+            "crew_id": 12884916494,
+            "crew_members": [
+                "Kawhi",
+                "m_sec2000",
+                "yzls",
+                "一只橘",
+                "云和月",
+                "卖核弹的小火柴",
+                "夜色啊",
+                "奥斯税尔",
+                "拓荒者小夏",
+                "文一＿",
+                "暖阳giegie",
+                "月岭",
+                "繁花",
+                "零子四号机",
+                "香菇肥牛"
+            ],
+            "crew_members_count": 15,
+            "crew_name": "凉舍",
+            "crew_name_history": [
+                "凉舍"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1297080137893": {
+            "crew_id": 1297080137893,
+            "crew_members": [
+                "CasualLight",
+                "Mr-E",
+                "U-奥尔加玛丽",
+                "patchouli",
+                "yulo",
+                "→格蕾修←",
+                "三角篓子爱好者",
+                "几率很高吗",
+                "坏坏狸",
+                "天魔寂落",
+                "安安ovo.",
+                "安长很想养猫",
+                "手巧的皇后宝宝",
+                "打雷下雨啦",
+                "星褪色",
+                "月牙的湾",
+                "梓娅",
+                "白鹭莞　",
+                "芷沂",
+                "铃玖",
+                "魔法少女米雪儿",
+                "黒レン"
+            ],
+            "crew_members_count": 22,
+            "crew_name": "七宫",
+            "crew_name_history": [
+                "七宫"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1309965039885": {
+            "crew_id": 1309965039885,
+            "crew_members": [
+                "司马幻塔"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "儿童乐园",
+            "crew_name_history": [
+                "儿童乐园"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "133144000783": {
+            "crew_id": 133144000783,
+            "crew_members": [
+                "AzureRay",
+                "手冲爽",
+                "玉纤仙"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "嗷呜喵呜",
+            "crew_name_history": [
+                "嗷呜喵呜"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "137438967573": {
+            "crew_id": 137438967573,
+            "crew_members": [
+                "我所期待的"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "魅魔",
+            "crew_name_history": [
+                "魅魔"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "137438967992": {
+            "crew_id": 137438967992,
+            "crew_members": [
+                "knnm",
+                "冯勒布",
+                "哈喽丽萨",
+                "奶白的雪子耶",
+                "安德罗梅达",
+                "忘语空",
+                "未知的lover",
+                "洛然喵",
+                "王令丫头",
+                "环环环环环",
+                "紫曈",
+                "花魂鹤影",
+                "蛇年吉祥",
+                "逗逗小猫猫",
+                "魂魄yoom",
+                "黎明的画"
+            ],
+            "crew_members_count": 16,
+            "crew_name": "黎明",
+            "crew_name_history": [
+                "黎明"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1395864385901": {
+            "crew_id": 1395864385901,
+            "crew_members": [
+                "激飝餤龖"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "绯色小酒馆",
+            "crew_name_history": [
+                "绯色小酒馆"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1400159353102": {
+            "crew_id": 1400159353102,
+            "crew_members": [
+                "ak、书",
+                "じ☆ve喵喵",
+                "亚托莉001",
+                "幻塔打工人",
+                "梧辞"
+            ],
+            "crew_members_count": 5,
+            "crew_name": "猫娘乐园",
+            "crew_name_history": [
+                "猫娘乐园"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1408749287789": {
+            "crew_id": 1408749287789,
+            "crew_members": [
+                "海因里希"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "饭醉团伙",
+            "crew_name_history": [
+                "饭醉团伙"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "141733935278": {
+            "crew_id": 141733935278,
+            "crew_members": [
+                "Annen",
+                "凰.羽"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "梦的起源",
+            "crew_name_history": [
+                "梦的起源"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "141733935374": {
+            "crew_id": 141733935374,
+            "crew_members": [
+                "慧星～"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "养仙女的喵",
+            "crew_name_history": [
+                "养仙女的喵"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1447403993359": {
+            "crew_id": 1447403993359,
+            "crew_members": [
+                "四希"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "安心养老",
+            "crew_name_history": [
+                "安心养老"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "146028902765": {
+            "crew_id": 146028902765,
+            "crew_members": [
+                "师傅专用星努"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "暗源",
+            "crew_name_history": [
+                "暗源"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "146028902766": {
+            "crew_id": 146028902766,
+            "crew_members": [
+                "MC彬彬",
+                "jiamao",
+                "mistborn",
+                "不尽染",
+                "不说永远",
+                "丑渣渣",
+                "九辰#c",
+                "伊莎贝娅",
+                "克拉克森",
+                "十八岁纯情少女",
+                "婉清扬",
+                "寒武纪三叶虫",
+                "小弟#a#a",
+                "小深咖",
+                "崩崩霜异线",
+                "广有射怪鸟事",
+                "拓荒者自",
+                "无名也罢",
+                "星光美",
+                "沐宛尘",
+                "洛斯琳小烧鸡",
+                "温迩",
+                "猫猫充电器",
+                "艾莉薇雅",
+                "落寞孤影"
+            ],
+            "crew_members_count": 25,
+            "crew_name": "六芒星理事会",
+            "crew_name_history": [
+                "六芒星理事会"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "154618837357": {
+            "crew_id": 154618837357,
+            "crew_members": [
+                "孤松凌寒",
+                "枫千",
+                "瑞和",
+                "蓝月光",
+                "雪原孤松"
+            ],
+            "crew_members_count": 5,
+            "crew_name": "萌团#a",
+            "crew_name_history": [
+                "萌团#a"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "158913804561": {
+            "crew_id": 158913804561,
+            "crew_members": [
+                "え#c"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "え",
+            "crew_name_history": [
+                "え"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "158913804654": {
+            "crew_id": 158913804654,
+            "crew_members": [
+                "WL无聊",
+                "摸鱼偷闲真菌",
+                "落笔映惆怅",
+                "锦木千束ちづか"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "幻梦乡",
+            "crew_name_history": [
+                "幻梦乡"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1623497652493": {
+            "crew_id": 1623497652493,
+            "crew_members": [
+                "夙夢"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "妖精仓库",
+            "crew_name_history": [
+                "妖精仓库"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "163208771349": {
+            "crew_id": 163208771349,
+            "crew_members": [
+                "多莉莉莉可莉丝"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "世界第一可爱",
+            "crew_name_history": [
+                "世界第一可爱"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "171798706449": {
+            "crew_id": 171798706449,
+            "crew_members": [
+                "おじゃま虫",
+                "仓雨月",
+                "入帳解千愁",
+                "勇气祝福",
+                "半夏亿昔",
+                "发呆又在想以前",
+                "处秋",
+                "夜七七宝宝",
+                "妹妹大白腿",
+                "幽夜萤火舞",
+                "快乐卷卷猫",
+                "星空の",
+                "江湖#c",
+                "白雪莹风",
+                "皮卡丘斯基",
+                "落雨夏",
+                "蓝天》",
+                "蜜珂析",
+                "还在做梦",
+                "雯文雯",
+                "静名#ac"
+            ],
+            "crew_members_count": 21,
+            "crew_name": "休闲茶会",
+            "crew_name_history": [
+                "休闲茶会"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "17179883701": {
+            "crew_id": 17179883701,
+            "crew_members": [
+                "哈哈这上"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "终焉花海",
+            "crew_name_history": [
+                "终焉花海"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "17179883788": {
+            "crew_id": 17179883788,
+            "crew_members": [
+                "南桉泷猇",
+                "叫你带带聋了么",
+                "安比-伊薇特",
+                "格雷德"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "银岸",
+            "crew_name_history": [
+                "银岸"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "17179883789": {
+            "crew_id": 17179883789,
+            "crew_members": [
+                "终早未柚番",
+                "荌蓤"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "月影",
+            "crew_name_history": [
+                "月影"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "17179883885": {
+            "crew_id": 17179883885,
+            "crew_members": [
+                ".平泽唯.",
+                "丶Hotta",
+                "人初",
+                "余火#c",
+                "写下你的幸福",
+                "古月汸媛",
+                "姜妃棂",
+                "安可灰狐",
+                "小哥张起灵",
+                "岩户铃芽",
+                "路过的行人II",
+                "阿汤哥."
+            ],
+            "crew_members_count": 12,
+            "crew_name": "逐月",
+            "crew_name_history": [
+                "逐月"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "17179883886": {
+            "crew_id": 17179883886,
+            "crew_members": [
+                "令若馨",
+                "冰帝",
+                "千秋送寒山",
+                "却上心头",
+                "琬熊"
+            ],
+            "crew_members_count": 5,
+            "crew_name": "镜花缘浮生梦",
+            "crew_name_history": [
+                "镜花缘浮生梦"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1735166802191": {
+            "crew_id": 1735166802191,
+            "crew_members": [
+                "阿尔忒谕斯"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "枯焰生花",
+            "crew_name_history": [
+                "枯焰生花"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1748051703983": {
+            "crew_id": 1748051703983,
+            "crew_members": [
+                "Ru",
+                "克菜芮",
+                "葵记奶茶店"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "啾啾下午茶",
+            "crew_name_history": [
+                "啾啾下午茶"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "176093673837": {
+            "crew_id": 176093673837,
+            "crew_members": [
+                "格陵兰",
+                "筑摩书房"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "茶馆",
+            "crew_name_history": [
+                "茶馆"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "180388641033": {
+            "crew_id": 180388641033,
+            "crew_members": [
+                "玥绯缨"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "被遗忘者",
+            "crew_name_history": [
+                "被遗忘者"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1825361115405": {
+            "crew_id": 1825361115405,
+            "crew_members": [
+                "阿丽塔r"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "HOTTA#a",
+            "crew_name_history": [
+                "HOTTA#a"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "184683608132": {
+            "crew_id": 184683608132,
+            "crew_members": [
+                "KMxhm",
+                "神族牧师薇莉丝"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "归墟",
+            "crew_name_history": [
+                "归墟"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "184683608332": {
+            "crew_id": 184683608332,
+            "crew_members": [
+                "借月"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "彼岸花#a",
+            "crew_name_history": [
+                "彼岸花#a"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1855425886477": {
+            "crew_id": 1855425886477,
+            "crew_members": [
+                "十二君",
+                "幻灬空",
+                "月星钏#a",
+                "龙玉#a"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "东方幻想乡#a",
+            "crew_name_history": [
+                "东方幻想乡#a"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "1889785624849": {
+            "crew_id": 1889785624849,
+            "crew_members": [
+                "或星",
+                "遥遥领先"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "谪仙",
+            "crew_name_history": [
+                "谪仙"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "193273542821": {
+            "crew_id": 193273542821,
+            "crew_members": [
+                "Sion.",
+                "烬行"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "咸鱼观光团",
+            "crew_name_history": [
+                "咸鱼观光团"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "19456201864981": {
+            "crew_id": 19456201864981,
+            "crew_members": [
+                "饮马星河醉广寒"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "",
+            "crew_name_history": [
+                ""
+            ],
+            "server_region": "ark-calculus"
+        },
+        "197568510127": {
+            "crew_id": 197568510127,
+            "crew_members": [
+                "O极金光M",
+                "omay",
+                "可乐柠檬茶",
+                "叶落荒波",
+                "小糖",
+                "狸沅沅",
+                "白给选手",
+                "秦千知颂",
+                "若叶睦",
+                "规范的摔倒",
+                "谜之madao",
+                "谜之偶像X",
+                "迎杏",
+                "雪之棱",
+                "飞出疯人院",
+                "魔法少女小颖"
+            ],
+            "crew_members_count": 16,
+            "crew_name": "哔哩哔哩干杯",
+            "crew_name_history": [
+                "哔哩哔哩干杯"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "197568510221": {
+            "crew_id": 197568510221,
+            "crew_members": [
+                "Dr巧木乐",
+                "EPIC",
+                "brcumj",
+                "义以致义名久",
+                "从一",
+                "凌紫澜",
+                "凭阑",
+                "嘉然今天打谁呢",
+                "夜秋澪",
+                "夜笙歌#d",
+                "幻彩之夜",
+                "应星",
+                "弥月",
+                "我是来抽妃色的",
+                "月似故乡来",
+                "末影",
+                "橘柚卿月",
+                "清依梦玥",
+                "福光瑞相仙君",
+                "觋夕莉",
+                "诶你别上手啊",
+                "踏踏五一",
+                "酷鲸",
+                "里雍lion"
+            ],
+            "crew_members_count": 24,
+            "crew_name": "无上散人",
+            "crew_name_history": [
+                "无上散人"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "21474851181": {
+            "crew_id": 21474851181,
+            "crew_members": [
+                "59.改",
+                "侯小菲",
+                "白LU昱晓",
+                "艾蕾西亚",
+                "薄荷狐",
+                "雪怀",
+                "青瓜大王"
+            ],
+            "crew_members_count": 7,
+            "crew_name": "镜花堂",
+            "crew_name_history": [
+                "镜花堂"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "2164663531790": {
+            "crew_id": 2164663531790,
+            "crew_members": [
+                "707l",
+                "凰·羽",
+                "娥丶妆",
+                "飞霜点墨",
+                "黄金扎克"
+            ],
+            "crew_members_count": 5,
+            "crew_name": "神圣的卡拉",
+            "crew_name_history": [
+                "神圣的卡拉"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "2186138368265": {
+            "crew_id": 2186138368265,
+            "crew_members": [
+                "-草莓-",
+                "59418呀",
+                "NAGI",
+                "StopZWorld",
+                "TX.消散",
+                "_希耶丝缇娜",
+                "o_oWhat",
+                "　夕阳の刻痕",
+                "　椒盐　",
+                "メルル",
+                "ン琅琊ソ",
+                "丝圭",
+                "中控闪击牢三",
+                "丽丽超温柔吖の",
+                "予秋辞",
+                "冬生",
+                "创.",
+                "古大人",
+                "夜牧降林",
+                "天耀长空",
+                "属实拉胯",
+                "山一程雪一更",
+                "山顶有只猫",
+                "希亚",
+                "心灵尼魔",
+                "忆梦亦梦",
+                "我想上小学啊",
+                "抚涟i",
+                "无聊如我",
+                "旸哥儿",
+                "普拉顿",
+                "月樱花玖",
+                "月银雪",
+                "木头的木",
+                "樱木真乃",
+                "洛诗琳",
+                "溯鸾舒挽云枕月",
+                "火力大喵丶",
+                "烦恼全抛掉",
+                "焦糖豆沙包",
+                "神月音",
+                "策划今天死了吗",
+                "策划今天死了马",
+                "箫笙浅默",
+                "糖小猫",
+                "纳米灰蛊",
+                "美味的金丝虾球",
+                "胖达cafe",
+                "能躺绝不T",
+                "苏芩深空",
+                "萤花",
+                "蓝芊瑜",
+                "赛博-笑柄",
+                "路西法萨姆",
+                "轻语丶",
+                "铃仙·U",
+                "雨落花裁春",
+                "风鸟院花月",
+                "高鸭稳乃",
+                "～夜"
+            ],
+            "crew_members_count": 60,
+            "crew_name": "蓝桉与槐",
+            "crew_name_history": [
+                "蓝桉与槐"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "219043346703": {
+            "crew_id": 219043346703,
+            "crew_members": [
+                "mc_skykong",
+                "云彩色夤夜",
+                "佑树丶",
+                "善维花",
+                "新田三十三",
+                "梦灯此夜",
+                "歡都落蘭",
+                "沧龙",
+                "海格拉姆",
+                "荧惑夤夜",
+                "雾海无影",
+                "魏媆",
+                "麻辣烫烤肉"
+            ],
+            "crew_members_count": 13,
+            "crew_name": "爱意#a",
+            "crew_name_history": [
+                "爱意#a"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "2233383008529": {
+            "crew_id": 2233383008529,
+            "crew_members": [
+                "Acadia",
+                "孙笑川10086",
+                "芊羽空鸳色",
+                "黎云镜"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "无忧小筑",
+            "crew_name_history": [
+                "无忧小筑"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "223338314093": {
+            "crew_id": 223338314093,
+            "crew_members": [
+                "T–ara",
+                "哦哦拉"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "新え",
+            "crew_name_history": [
+                "新え"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "2302102485261": {
+            "crew_id": 2302102485261,
+            "crew_members": [
+                "かおるこ",
+                "她想养只猫"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "浅井",
+            "crew_name_history": [
+                "浅井"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "231928248485": {
+            "crew_id": 231928248485,
+            "crew_members": [
+                "僵小白"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "✚",
+            "crew_name_history": [
+                "✚"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "2340757190926": {
+            "crew_id": 2340757190926,
+            "crew_members": [
+                "我把萧再叹",
+                "杯子不会碎"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "雾泽·知常乐",
+            "crew_name_history": [
+                "雾泽·知常乐"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "2353642092817": {
+            "crew_id": 2353642092817,
+            "crew_members": [
+                "-MEAT-",
+                "AiTaTa",
+                "Dr檀木木哒",
+                "S烟汐忆梦S",
+                "Talandar",
+                "tenZero",
+                "　绘星若",
+                "「雨叶」",
+                "九域之岚",
+                "二游赤石仙人",
+                "冰霜雪缘",
+                "别再吃柚子了",
+                "取名没必要",
+                "哈基米南北绿豆",
+                "墨染悕",
+                "墨羽凡尘",
+                "夜问星",
+                "夜雨染幽情",
+                "孩他爸",
+                "宁宁小柚",
+                "安博莉亚",
+                "安小雅",
+                "小辰晓晨",
+                "屋外巫",
+                "幻琦",
+                "张语格TAKO",
+                "我妻岚",
+                "李芝芝",
+                "東雲絵名",
+                "林風",
+                "梅子黄時雨",
+                "樱花妖精",
+                "橙星梓",
+                "深蓝落影",
+                "温瑶",
+                "猫猫丶爱吃鱼",
+                "琅歌",
+                "男萝也是萝",
+                "番茄鱼是费沁源",
+                "白石墨",
+                "缘水月",
+                "缘生山海间",
+                "萧无颜",
+                "蝶舞星遇",
+                "褲襠裡的不死鳥",
+                "谜拟Q",
+                "越鱼很业余",
+                "跨越三重奏鸣",
+                "阿萨纽厄尔",
+                "雨夜听雪",
+                "青絮未闻寒时雪",
+                "青青青芒果",
+                "魅魔雪糕流白浆",
+                "魔法少女悠悠音",
+                "魔法少女王铁锤"
+            ],
+            "crew_members_count": 55,
+            "crew_name": "楼兰月影",
+            "crew_name_history": [
+                "楼兰月影"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "240518183182": {
+            "crew_id": 240518183182,
+            "crew_members": [
+                "柠萌芒果冰"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "时间行者",
+            "crew_name_history": [
+                "时间行者"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "240518183185": {
+            "crew_id": 240518183185,
+            "crew_members": [
+                "AKingt"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "米娅Miya",
+            "crew_name_history": [
+                "米娅Miya"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "249108117769": {
+            "crew_id": 249108117769,
+            "crew_members": [
+                "perfunctory#a",
+                "〈訾訾〉",
+                "克蕾儿爱吃肉"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "天月之境",
+            "crew_name_history": [
+                "天月之境"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "2529735751846": {
+            "crew_id": 2529735751846,
+            "crew_members": [
+                "海嘉德神秘特务"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "学园都市",
+            "crew_name_history": [
+                "学园都市"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "253403084970": {
+            "crew_id": 253403084970,
+            "crew_members": [
+                "歪比八卜"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "真空地带",
+            "crew_name_history": [
+                "真空地带"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "253403084974": {
+            "crew_id": 253403084974,
+            "crew_members": [
+                "Reokurumi"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "AKOG传奇",
+            "crew_name_history": [
+                "AKOG传奇"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "253403085073": {
+            "crew_id": 253403085073,
+            "crew_members": [
+                "黑鱼"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "带薪摆烂协会",
+            "crew_name_history": [
+                "带薪摆烂协会"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "257698052278": {
+            "crew_id": 257698052278,
+            "crew_members": [
+                "Xbox#a",
+                "老路"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "暗号",
+            "crew_name_history": [
+                "暗号"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "25769818291": {
+            "crew_id": 25769818291,
+            "crew_members": [
+                "Pelia"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "双马尾",
+            "crew_name_history": [
+                "双马尾"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "25769818383": {
+            "crew_id": 25769818383,
+            "crew_members": [
+                "小孤独QWQ",
+                "布里吉斯·乔",
+                "执念喵丶",
+                "极光束",
+                "爱谜儿"
+            ],
+            "crew_members_count": 5,
+            "crew_name": "HOTTA",
+            "crew_name_history": [
+                "HOTTA"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "25769818477": {
+            "crew_id": 25769818477,
+            "crew_members": [
+                "未知探险者",
+                "识之律者女土"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "爱意",
+            "crew_name_history": [
+                "爱意"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "261993019757": {
+            "crew_id": 261993019757,
+            "crew_members": [
+                "月生雪银"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "迦勒底",
+            "crew_name_history": [
+                "迦勒底"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "2632814966959": {
+            "crew_id": 2632814966959,
+            "crew_members": [
+                "沈珂",
+                "若梅"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "高马尾",
+            "crew_name_history": [
+                "高马尾"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "266287986953": {
+            "crew_id": 266287986953,
+            "crew_members": [
+                "Gei你太霉",
+                "冰雪樱",
+                "永都康富交福",
+                "黎明东雪"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "白月光",
+            "crew_name_history": [
+                "白月光"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "270582954149": {
+            "crew_id": 270582954149,
+            "crew_members": [
+                "Est　",
+                "Salvation",
+                "Yahrme",
+                "ねぇ",
+                "一只吉良",
+                "丝滑D蚕",
+                "为羽倾城",
+                "你们不要再打了",
+                "夕落之羽",
+                "布里扎多凯南",
+                "帝骑21",
+                "幻影Tiomr",
+                "散羽",
+                "是愉心吖",
+                "玉叶",
+                "痒痒挠",
+                "角卷绵羊",
+                "趣可哆",
+                "蹦老高了",
+                "轻氧喵",
+                "速子T",
+                "锦鲤～",
+                "霁°"
+            ],
+            "crew_members_count": 23,
+            "crew_name": "SOS团",
+            "crew_name_history": [
+                "SOS团"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "2718714312869": {
+            "crew_id": 2718714312869,
+            "crew_members": [
+                "刷子",
+                "遥静羽"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "魔女之旅",
+            "crew_name_history": [
+                "魔女之旅"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "279172888741": {
+            "crew_id": 279172888741,
+            "crew_members": [
+                "江南景仪蝉"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "苍蓝誓约",
+            "crew_name_history": [
+                "苍蓝誓约"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "283467856050": {
+            "crew_id": 283467856050,
+            "crew_members": [
+                "Luciel",
+                "三頭池八尋",
+                "小楪祈",
+                "若水c"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "幻想次元",
+            "crew_name_history": [
+                "幻想次元"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "283467856141": {
+            "crew_id": 283467856141,
+            "crew_members": [
+                "vassago",
+                "夕秋澪",
+                "秋水共长天一色",
+                "赵思泉"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "镜花堂↻",
+            "crew_name_history": [
+                "镜花堂↻"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "2860448233741": {
+            "crew_id": 2860448233741,
+            "crew_members": [
+                "PPX、卿烟",
+                "叶神叶",
+                "我喜欢滑着走"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "摆烂",
+            "crew_name_history": [
+                "摆烂"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "2873333135725": {
+            "crew_id": 2873333135725,
+            "crew_members": [
+                "爱＞︿＜希",
+                "酒月殿下"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "幻塔暖暖",
+            "crew_name_history": [
+                "幻塔暖暖"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "287762823433": {
+            "crew_id": 287762823433,
+            "crew_members": [
+                "liwu名",
+                "一支咸鱼",
+                "天下有敌",
+                "姽皓"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "公会",
+            "crew_name_history": [
+                "公会"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "2916282808685": {
+            "crew_id": 2916282808685,
+            "crew_members": [
+                "WKL",
+                "星星之路"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "懵新萌",
+            "crew_name_history": [
+                "懵新萌"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "296352758025": {
+            "crew_id": 296352758025,
+            "crew_members": [
+                "BOT_XD",
+                "IzumiSakai",
+                "fish001",
+                "「铃音」",
+                "一个骨",
+                "咸鱼丶执行者",
+                "在天河",
+                "宁凝ning",
+                "安凌",
+                "幕念念",
+                "年穗岁",
+                "想摸妮芙尾巴",
+                "我叫徐大乐",
+                "晨雨",
+                "望月理奈",
+                "洛希亚",
+                "玉藻棠",
+                "琼羽",
+                "碎岁#a",
+                "蕶",
+                "诺艾儿",
+                "赫思嘉",
+                "酒神李逍遥"
+            ],
+            "crew_members_count": 23,
+            "crew_name": "魔女茶话会",
+            "crew_name_history": [
+                "魔女茶话会"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "2980707318030": {
+            "crew_id": 2980707318030,
+            "crew_members": [
+                "遠渡忘川"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "乐土",
+            "crew_name_history": [
+                "乐土"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "300647725325": {
+            "crew_id": 300647725325,
+            "crew_members": [
+                "梦愧",
+                "橙猫猫",
+                "浅星天"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "魔女夜宴",
+            "crew_name_history": [
+                "魔女夜宴"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "30064785475": {
+            "crew_id": 30064785475,
+            "crew_members": [
+                "よよる",
+                "明月本无心#a#c",
+                "灪爩"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "幻塔",
+            "crew_name_history": [
+                "幻塔"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "30064785578": {
+            "crew_id": 30064785578,
+            "crew_members": [
+                "ChioRi.",
+                "Cyan#a#a",
+                "KiKi丶",
+                "cdyjb",
+                "mohun49",
+                "well",
+                "　深雪　",
+                "三枼",
+                "不念无缘的人",
+                "九心月",
+                "伞兵7号",
+                "停车接受掉叉",
+                "刻染",
+                "卉香",
+                "双煎滑蛋",
+                "墨子玖",
+                "夜生白露丶",
+                "小二上酒#d",
+                "小小的大风车",
+                "小蝴蝶结",
+                "尼娅·海尤妲佳",
+                "思克特",
+                "我不是坏人",
+                "提亚拉",
+                "时不朽间",
+                "星尘路",
+                "清兰",
+                "灵若歆",
+                "玩奶后悔终生",
+                "画夕颜",
+                "秋月丶爱丽",
+                "等一声英雄不朽",
+                "缘炎",
+                "臂力惊人",
+                "西四炸弹",
+                "零丁"
+            ],
+            "crew_members_count": 36,
+            "crew_name": "有点想吃西瓜",
+            "crew_name_history": [
+                "有点想吃西瓜"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "304942692531": {
+            "crew_id": 304942692531,
+            "crew_members": [
+                "50asd4",
+                "amoy",
+                "佩洛洛#c",
+                "月影梧桐",
+                "相思菱"
+            ],
+            "crew_members_count": 5,
+            "crew_name": "幻",
+            "crew_name_history": [
+                "幻"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "326417529197": {
+            "crew_id": 326417529197,
+            "crew_members": [
+                "星岛观光客"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "第七天堂",
+            "crew_name_history": [
+                "第七天堂"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "343597398181": {
+            "crew_id": 343597398181,
+            "crew_members": [
+                "伊珂丝b",
+                "深雨#a"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "朝花夕誓#a",
+            "crew_name_history": [
+                "朝花夕誓#a"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "34359752873": {
+            "crew_id": 34359752873,
+            "crew_members": [
+                "什么鬼让你来",
+                "幻萌"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "樱花庄",
+            "crew_name_history": [
+                "樱花庄"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "34359752973": {
+            "crew_id": 34359752973,
+            "crew_members": [
+                "火鳯"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "锦銮飛绣",
+            "crew_name_history": [
+                "锦銮飛绣"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "34359752974": {
+            "crew_id": 34359752974,
+            "crew_members": [
+                "上城渚",
+                "千代田桃",
+                "千歌",
+                "吃吃孜孜",
+                "吧啦滴呀"
+            ],
+            "crew_members_count": 5,
+            "crew_name": "魔女的茶会",
+            "crew_name_history": [
+                "魔女的茶会"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "34359752975": {
+            "crew_id": 34359752975,
+            "crew_members": [
+                "姬路瑞希o_O",
+                "學哙嶶笶",
+                "抡起扳手",
+                "林墨",
+                "玉辞心",
+                "董卓的小蛮腰",
+                "金卯刀"
+            ],
+            "crew_members_count": 7,
+            "crew_name": "未闻花名",
+            "crew_name_history": [
+                "未闻花名"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "34359752977": {
+            "crew_id": 34359752977,
+            "crew_members": [
+                "月惜之殇",
+                "笛语凌崖",
+                "蛋蛋有只猫"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "沧海星辰界",
+            "crew_name_history": [
+                "沧海星辰界"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "34359753070": {
+            "crew_id": 34359753070,
+            "crew_members": [
+                "从来没有",
+                "晨曦慕雪",
+                "涣汐",
+                "理想幻塔小茹",
+                "绑架团指挥官！",
+                "響木天音",
+                "香风泰初"
+            ],
+            "crew_members_count": 7,
+            "crew_name": "　世界之树　",
+            "crew_name_history": [
+                "　世界之树　"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "347892365384": {
+            "crew_id": 347892365384,
+            "crew_members": [
+                "斗神药",
+                "无妄虚空",
+                "无敌大西瓜",
+                "樱花之城"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "浮世霓虹千影",
+            "crew_name_history": [
+                "浮世霓虹千影"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "347892365585": {
+            "crew_id": 347892365585,
+            "crew_members": [
+                "KEang安丹妮",
+                "崎七",
+                "灭天凤凰",
+                "落雨流殇#a"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "流觞岁月",
+            "crew_name_history": [
+                "流觞岁月"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "38654720173": {
+            "crew_id": 38654720173,
+            "crew_members": [
+                "云兮天梦"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "养老咸鱼",
+            "crew_name_history": [
+                "养老咸鱼"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "38654720183": {
+            "crew_id": 38654720183,
+            "crew_members": [
+                "周大鸟w123",
+                "荻原、沙优",
+                "酒珀"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "无聊玩玩",
+            "crew_name_history": [
+                "无聊玩玩"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "38654720273": {
+            "crew_id": 38654720273,
+            "crew_members": [
+                "乌乌大米",
+                "伏魔嘉祥",
+                "冲啊阿辉",
+                "小狐仙祁奈",
+                "尘随风起",
+                "爱彼",
+                "玊萳",
+                "玲玲荧",
+                "理塘甄选",
+                "神代田桃",
+                "花乃玖叶月#c",
+                "菲弥琳丝·翠花",
+                "赫伊",
+                "阿-宝.阿.库"
+            ],
+            "crew_members_count": 14,
+            "crew_name": "烧鸡",
+            "crew_name_history": [
+                "烧鸡"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "4024384370953": {
+            "crew_id": 4024384370953,
+            "crew_members": [
+                "棒棒的糖糖"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "云端梦之郡",
+            "crew_name_history": [
+                "云端梦之郡"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "4088808880397": {
+            "crew_id": 4088808880397,
+            "crew_members": [
+                "HT、",
+                "手绘梨花泪霑衣",
+                "没有金色吗",
+                "流浪者X",
+                "火之侍者",
+                "虫惑魔糕手"
+            ],
+            "crew_members_count": 6,
+            "crew_name": "三真法门",
+            "crew_name_history": [
+                "三真法门"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "416611841813": {
+            "crew_id": 416611841813,
+            "crew_members": [
+                "夜雾花"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "",
+            "crew_name_history": [
+                ""
+            ],
+            "server_region": "ark-calculus"
+        },
+        "416611842317": {
+            "crew_id": 416611842317,
+            "crew_members": [
+                "最失败的奶"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "镜花月影",
+            "crew_name_history": [
+                "镜花月影"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "4174708226317": {
+            "crew_id": 4174708226317,
+            "crew_members": [
+                "一时心予",
+                "九域第一吊",
+                "冄小月",
+                "孟流年",
+                "懒洋洋大王u",
+                "是月流光",
+                "晕血猎犬",
+                "晚秋微凉",
+                "暴风少女",
+                "梦怡然依月",
+                "汐玦",
+                "海豚.",
+                "璃鹿Riika",
+                "电雌刃头牌",
+                "白亓",
+                "眯眼丿",
+                "祸世黑莲素还真",
+                "糖豆豆",
+                "蓝老头",
+                "闭锁世界的冥神",
+                "陌然",
+                "静谧",
+                "韩信hx",
+                "鲜虾鱼板面",
+                "黄曦羲"
+            ],
+            "crew_members_count": 25,
+            "crew_name": "SVIP",
+            "crew_name_history": [
+                "SVIP"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "42949687364": {
+            "crew_id": 42949687364,
+            "crew_members": [
+                "季扒甩着跑图",
+                "赣翻原神",
+                "陌上芬菲",
+                "陌上芬霏"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "春物",
+            "crew_name_history": [
+                "春物"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "42949687469": {
+            "crew_id": 42949687469,
+            "crew_members": [
+                "Dazzle",
+                "晴空961",
+                "永远不灭的薪炎"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "原神#b",
+            "crew_name_history": [
+                "原神#b"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "42949687561": {
+            "crew_id": 42949687561,
+            "crew_members": [
+                "qly",
+                "油闷大中虾＃"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "琼川",
+            "crew_name_history": [
+                "琼川"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "42949687564": {
+            "crew_id": 42949687564,
+            "crew_members": [
+                "香风璇珠"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "姬夜·神契",
+            "crew_name_history": [
+                "姬夜·神契"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "42949687567": {
+            "crew_id": 42949687567,
+            "crew_members": [
+                "1015＆.",
+                "Momoko丶",
+                "infernity",
+                "の星之卡比の",
+                "一朵大大的云",
+                "三森悠",
+                "上官凌寒",
+                "初秋的涙",
+                "小小飒",
+                "小白狐.",
+                "幻梦夜",
+                "斓墨",
+                "未叙",
+                "泪烬",
+                "洛芷.",
+                "爱吃丸子",
+                "米露菲",
+                "红兵羊",
+                "纯女友",
+                "终末地官理员",
+                "诺诺里",
+                "随便玩我无敌",
+                "零氪少女",
+                "魔法少女安可",
+                "龙连"
+            ],
+            "crew_members_count": 25,
+            "crew_name": "琉璃阁",
+            "crew_name_history": [
+                "琉璃阁"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "42949687662": {
+            "crew_id": 42949687662,
+            "crew_members": [
+                "Da即是正义",
+                "兔三黑",
+                "兰秋素金",
+                "凛小鹿",
+                "奥巴牛",
+                "好有感觉",
+                "月光柱",
+                "月兔-桂华",
+                "纵火引擎",
+                "霜榕"
+            ],
+            "crew_members_count": 10,
+            "crew_name": "圣火喵喵教",
+            "crew_name_history": [
+                "圣火喵喵教"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "4294981806": {
+            "crew_id": 4294981806,
+            "crew_members": [
+                "偷心喵",
+                "其实我忘了",
+                "初代星乃2",
+                "刹那绚烂",
+                "安莲",
+                "幻塔涩涩",
+                "明徒2",
+                "星澜AQUA",
+                "望思说",
+                "枕枕臀臀",
+                "潇湘夜雨氵",
+                "科洛蒂娅",
+                "逸一世误一时",
+                "霞雪月花",
+                "黄金鸡块"
+            ],
+            "crew_members_count": 15,
+            "crew_name": "白丝猫耳娘",
+            "crew_name_history": [
+                "白丝猫耳娘"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "4294981900": {
+            "crew_id": 4294981900,
+            "crew_members": [
+                "mol伴热酱",
+                "ユズハクオン",
+                "及空空",
+                "叶織夏",
+                "墨浅笙箫",
+                "姬川始",
+                "摆烂的银子",
+                "暗珞洇漓",
+                "清壶邀风饮浊酒",
+                "灵伊",
+                "熊呆",
+                "荒原蛟帷",
+                "非小酋"
+            ],
+            "crew_members_count": 13,
+            "crew_name": "Heart",
+            "crew_name_history": [
+                "Heart"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "4294981901": {
+            "crew_id": 4294981901,
+            "crew_members": [
+                "冰封情",
+                "屑狐狸的小跟班",
+                "災い霊夢"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "云中小阁",
+            "crew_name_history": [
+                "云中小阁"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "4294981902": {
+            "crew_id": 4294981902,
+            "crew_members": [
+                "SecretArms",
+                "尤瑞艾莉",
+                "时雨.",
+                "晟曦",
+                "迦勒底牢咸鱼",
+                "锦鲤猫"
+            ],
+            "crew_members_count": 6,
+            "crew_name": "合欢宗",
+            "crew_name_history": [
+                "合欢宗"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "4294981905": {
+            "crew_id": 4294981905,
+            "crew_members": [
+                "TheBadTouch",
+                "玉淑"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "爱恋#a",
+            "crew_name_history": [
+                "爱恋#a"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "4294981997": {
+            "crew_id": 4294981997,
+            "crew_members": [
+                "安洁丽娜",
+                "帅得掉渣渣",
+                "木山春生"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "离州",
+            "crew_name_history": [
+                "离州"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "4294981998": {
+            "crew_id": 4294981998,
+            "crew_members": [
+                "Antiryk",
+                "夜景星",
+                "星野艾米",
+                "月虫",
+                "歇菜喵",
+                "洛斯琳幕后金主",
+                "雾惗"
+            ],
+            "crew_members_count": 7,
+            "crew_name": "爱恋",
+            "crew_name_history": [
+                "爱恋"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "433791711407": {
+            "crew_id": 433791711407,
+            "crew_members": [
+                "2sweet",
+                "小宝寻花",
+                "除却巫山"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "玖幽仙阁",
+            "crew_name_history": [
+                "玖幽仙阁"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "442381646093": {
+            "crew_id": 442381646093,
+            "crew_members": [
+                "Irenee",
+                "l囹丶泺",
+                "天籁只因",
+                "孋",
+                "泡沫效应",
+                "灰灰灰尐丶"
+            ],
+            "crew_members_count": 6,
+            "crew_name": "闪回演绎",
+            "crew_name_history": [
+                "闪回演绎"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "463856482574": {
+            "crew_id": 463856482574,
+            "crew_members": [
+                "Anatolia#a"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "雾泽·清心静",
+            "crew_name_history": [
+                "雾泽·清心静"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "47244654861": {
+            "crew_id": 47244654861,
+            "crew_members": [
+                ".故里",
+                "Genm",
+                "倘若嵩下",
+                "奶梓",
+                "康娜酱",
+                "无用的馒头",
+                "汐月铃",
+                "爱丽丝·里德尔",
+                "爱莹#a",
+                "蜜莉姆"
+            ],
+            "crew_members_count": 10,
+            "crew_name": "A-SVIP",
+            "crew_name_history": [
+                "A-SVIP"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "47244654862": {
+            "crew_id": 47244654862,
+            "crew_members": [
+                "不想起名",
+                "流萤拯救世界"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "-vVv-",
+            "crew_name_history": [
+                "-vVv-"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "47244654865": {
+            "crew_id": 47244654865,
+            "crew_members": [
+                "简光",
+                "蒸馍，你不扶器"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "萤火之森",
+            "crew_name_history": [
+                "萤火之森"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "47244654957": {
+            "crew_id": 47244654957,
+            "crew_members": [
+                "乱胖核认",
+                "棉拖鞋",
+                "重渊"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "喵御宅",
+            "crew_name_history": [
+                "喵御宅"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "485331318964": {
+            "crew_id": 485331318964,
+            "crew_members": [
+                ".Tsuki.",
+                "ISABELLA#a",
+                "东皇谏#a",
+                "圣诞快乐min",
+                "小将全斗唤",
+                "小畅畅玩幻塔",
+                "少女好饭量",
+                "岳云秀",
+                "巳悦",
+                "暗黑大堡戟#a",
+                "玄骨上人萧诧",
+                "緋.",
+                "莘莘FM",
+                "葑舞忆诗",
+                "适格者001",
+                "道友请留步11",
+                "雪米老师",
+                "靓女"
+            ],
+            "crew_members_count": 18,
+            "crew_name": "花海幼儿园",
+            "crew_name_history": [
+                "花海幼儿园"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "4866197960969": {
+            "crew_id": 4866197960969,
+            "crew_members": [
+                "Noire",
+                "伊戈尔"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "致以辉煌的你",
+            "crew_name_history": [
+                "致以辉煌的你"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "502511188144": {
+            "crew_id": 502511188144,
+            "crew_members": [
+                "颜小汐"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "山山大魔王",
+            "crew_name_history": [
+                "山山大魔王"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "51539622053": {
+            "crew_id": 51539622053,
+            "crew_members": [
+                "圆圆的河豚"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "方夺",
+            "crew_name_history": [
+                "方夺"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "5312874559654": {
+            "crew_id": 5312874559654,
+            "crew_members": [
+                "Hikaru",
+                "QDD",
+                "Villain丶",
+                "ZL紫蓝",
+                "abc123456",
+                "o__oWhat",
+                "sixf",
+                "xyyyx",
+                "じ☆veчцкīう",
+                "㥐",
+                "一口可可饼干",
+                "上吧★麻药",
+                "不止雨停",
+                "与海川",
+                "亿眼盯针",
+                "伯路安",
+                "兰花",
+                "冰冷季",
+                "凄惨蘑菇",
+                "勇者斗饿龙",
+                "哈基狸",
+                "哒哒的娥",
+                "喝个",
+                "夜雨飘雪落",
+                "大爱幽灵",
+                "小桃茉莉",
+                "带带妹妹",
+                "幸福摩天轮",
+                "幸运花菜",
+                "幻想泯昔",
+                "幼幽芸香",
+                "影子喵",
+                "徃夢",
+                "忆雨梦中游",
+                "恩赐猫猫",
+                "拾婲为芷",
+                "文梦",
+                "时镜心",
+                "明眸。",
+                "晚风予",
+                "望月戀歌",
+                "柚点小脾气",
+                "桜小路ルナ様",
+                "梦幻天雪",
+                "正天",
+                "流云丶爱丽丝",
+                "深咖",
+                "漠染千纱",
+                "猪咪　",
+                "猫猫一号",
+                "皓月存影",
+                "立花莉花",
+                "筱黎茜",
+                "艾莉兮娅",
+                "艾莉斯",
+                "蓝莓椰奶冻啵啵",
+                "讨厌坏情绪",
+                "超时空传送仪",
+                "迟婠",
+                "里想奈　",
+                "镜中花开水中月",
+                "雪中舞",
+                "青龙、篁",
+                "风堇丶",
+                "风花雪不如月",
+                "香橙玛奇朵",
+                "鸢雨花晴"
+            ],
+            "crew_members_count": 67,
+            "crew_name": "记录の地平线",
+            "crew_name_history": [
+                "记录の地平线"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "545460861193": {
+            "crew_id": 545460861193,
+            "crew_members": [
+                "月舞天华",
+                "永恒冰霜行者"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "月光之城",
+            "crew_name_history": [
+                "月光之城"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "554050795790": {
+            "crew_id": 554050795790,
+            "crew_members": [
+                "我前妻那么肥",
+                "星锐",
+                "笑语解颐"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "甜甜鲲之家",
+            "crew_name_history": [
+                "甜甜鲲之家"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "55834589249": {
+            "crew_id": 55834589249,
+            "crew_members": [
+                "　舞心",
+                "天雪的小号",
+                "水晶盐为谁甜",
+                "问情"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "　黎明",
+            "crew_name_history": [
+                "　黎明"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "55834589364": {
+            "crew_id": 55834589364,
+            "crew_members": [
+                "幻象之塔",
+                "林中夫人"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "东海",
+            "crew_name_history": [
+                "东海"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "55834589453": {
+            "crew_id": 55834589453,
+            "crew_members": [
+                "孑遗千星",
+                "安托丽芙"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "盛世流光",
+            "crew_name_history": [
+                "盛世流光"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "55834589549": {
+            "crew_id": 55834589549,
+            "crew_members": [
+                "voidNT",
+                "赞赞",
+                "雨女无瓜#f"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "乌托邦",
+            "crew_name_history": [
+                "乌托邦"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "55834589550": {
+            "crew_id": 55834589550,
+            "crew_members": [
+                "摇铃病毒",
+                "落花微雨燕纷飞"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "上林花似锦",
+            "crew_name_history": [
+                "上林花似锦"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "562640730381": {
+            "crew_id": 562640730381,
+            "crew_members": [
+                "YJTXMHYSQJ",
+                "xzt",
+                "上清灵宝天尊",
+                "云上彩颜月",
+                "我的宝贝老婆"
+            ],
+            "crew_members_count": 5,
+            "crew_name": "SVIΡ",
+            "crew_name_history": [
+                "SVIΡ"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "592705501549": {
+            "crew_id": 592705501549,
+            "crew_members": [
+                "G　M",
+                "llxxx"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "指尖年华",
+            "crew_name_history": [
+                "指尖年华"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "6012954228902": {
+            "crew_id": 6012954228902,
+            "crew_members": [
+                "皛晝夢",
+                "鼻歌、尸体男爵"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "SVIP",
+            "crew_name_history": [
+                "SVIP"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "60129556646": {
+            "crew_id": 60129556646,
+            "crew_members": [
+                "4bug3",
+                "Ayasa荀莎",
+                "DR_hehe",
+                "Fluegel",
+                "JSYjsy",
+                "NixonPL",
+                "Vanna",
+                "cydwh",
+                "mumei",
+                "wrrooom",
+                "一鹿彤行",
+                "云旗",
+                "亚夏打工妹",
+                "今古惑",
+                "你喜欢芬璃尔吗",
+                "凯文之终",
+                "凶残DEE杀",
+                "喜欢的话回到家",
+                "天才少女伊蕾娜",
+                "小光喵",
+                "岁半",
+                "巴扎黑",
+                "弥音丶",
+                "战斗猫娘茉莉丝",
+                "所以是数一数二",
+                "挽星海渡云荒",
+                "旧了久了忘了",
+                "暖暖，未来之星",
+                "月亮团子ovo",
+                "木之本櫻",
+                "橘子气泡水",
+                "橘猫呆呆",
+                "段段段",
+                "灰色与青",
+                "王心凌男孩",
+                "番茄酱b",
+                "疯狂的咸鱼",
+                "绮星羽",
+                "莎莎脆脆鲨",
+                "要听话窝",
+                "请相信凡崽",
+                "逢希"
+            ],
+            "crew_members_count": 42,
+            "crew_name": "月汐阁",
+            "crew_name_history": [
+                "月汐阁"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "60129556749": {
+            "crew_id": 60129556749,
+            "crew_members": [
+                "MXCA",
+                "漫星沉霭"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "九天谕",
+            "crew_name_history": [
+                "九天谕"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "6064493836454": {
+            "crew_id": 6064493836454,
+            "crew_members": [
+                "豆豆宝宝"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "缘份",
+            "crew_name_history": [
+                "缘份"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "6352256645286": {
+            "crew_id": 6352256645286,
+            "crew_members": [
+                "迅捷之影"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "龍",
+            "crew_name_history": [
+                "龍"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "639950141805": {
+            "crew_id": 639950141805,
+            "crew_members": [
+                "孤独冰",
+                "幻塔少年"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "忘忧阁",
+            "crew_name_history": [
+                "忘忧阁"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "64424523841": {
+            "crew_id": 64424523841,
+            "crew_members": [
+                "金嘆"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "星海",
+            "crew_name_history": [
+                "星海"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "6524055337126": {
+            "crew_id": 6524055337126,
+            "crew_members": [
+                "百亓"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "腥红十字会",
+            "crew_name_history": [
+                "腥红十字会"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "6584184879270": {
+            "crew_id": 6584184879270,
+            "crew_members": [
+                "下饭菜",
+                "就玩两天",
+                "桜时雨",
+                "海南微风起"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "心动",
+            "crew_name_history": [
+                "心动"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "6652904356006": {
+            "crew_id": 6652904356006,
+            "crew_members": [
+                "颜方索娜"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "镜都安全中心",
+            "crew_name_history": [
+                "镜都安全中心"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "6657199323302": {
+            "crew_id": 6657199323302,
+            "crew_members": [
+                "芋泥糯糯奶绿"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "诏书所述",
+            "crew_name_history": [
+                "诏书所述"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "665719945582": {
+            "crew_id": 665719945582,
+            "crew_members": [
+                "Ttthy",
+                "丶風林玉秀",
+                "也曾堕落风中",
+                "梦月",
+                "爱撅小张同学",
+                "血雨城霖",
+                "非常吟蕩"
+            ],
+            "crew_members_count": 7,
+            "crew_name": "丶未來可期",
+            "crew_name_history": [
+                "丶未來可期"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "6751688603814": {
+            "crew_id": 6751688603814,
+            "crew_members": [
+                "扏行者"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "森亚赶紧",
+            "crew_name_history": [
+                "森亚赶紧"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "68719491245": {
+            "crew_id": 68719491245,
+            "crew_members": [
+                "0002　",
+                "62289910699243",
+                "Akashic",
+                "Clovers23",
+                "Only",
+                "Pt.赤月",
+                "RAGANA.",
+                "blomster",
+                "dip",
+                "lykos",
+                "下界合金剑",
+                "云隙",
+                "哈气米",
+                "天地良心小向晚",
+                "寂寞小妹OvO",
+                "小小鹿鸣",
+                "斯维安",
+                "曦魇",
+                "杀式示申袅袅",
+                "栖丶洛",
+                "歡沁",
+                "海德拉莹",
+                "海盐芥末",
+                "温柔的眸子",
+                "爱探险的小饱",
+                "爱未花的小熊猫",
+                "猗窝座.",
+                "花开丿花落",
+                "茶茶子",
+                "袅袅的侍卫",
+                "鱿鱼丝"
+            ],
+            "crew_members_count": 31,
+            "crew_name": "梦染江山",
+            "crew_name_history": [
+                "梦染江山"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "68719491255": {
+            "crew_id": 68719491255,
+            "crew_members": [
+                "南歌浅笙"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "群星岛",
+            "crew_name_history": [
+                "群星岛"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "68719491341": {
+            "crew_id": 68719491341,
+            "crew_members": [
+                "Aur0ra",
+                "Parliy",
+                "Zard1999",
+                "elika",
+                "一片落叶古城",
+                "不再彷徨_",
+                "不录零",
+                "伍德曼",
+                "会长带的萌新",
+                "塔萨达尔",
+                "墨艾尔",
+                "妹妹的大白",
+                "实体404",
+                "小冲动",
+                "幻影·解放之羽",
+                "幻灵梦曦",
+                "星飞翔",
+                "未老师",
+                "梅瑟斯",
+                "楚丿幽",
+                "沃德·符琴",
+                "洛斯琳塔生有了",
+                "溯月轨迹",
+                "点绛唇",
+                "苏语锦",
+                "跌！",
+                "辛西娅奥兰多",
+                "透明镜",
+                "陸宸",
+                "零飞",
+                "飓水炯凤"
+            ],
+            "crew_members_count": 31,
+            "crew_name": "破晓",
+            "crew_name_history": [
+                "破晓"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "68719491345": {
+            "crew_id": 68719491345,
+            "crew_members": [
+                "仁无敌勇无惧",
+                "仓雨月D",
+                "八号五天",
+                "啥也不是真君#a",
+                "大乐子",
+                "寒月兮",
+                "巡音ルカ",
+                "库莉茜耶",
+                "执明观风",
+                "狱望黑洞",
+                "非同一般"
+            ],
+            "crew_members_count": 11,
+            "crew_name": "半糖茶馆",
+            "crew_name_history": [
+                "半糖茶馆"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "691489749261": {
+            "crew_id": 691489749261,
+            "crew_members": [
+                "BaldrSky",
+                "hayabusa#a",
+                "东平森下",
+                "纯洁の玛修"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "爱塔",
+            "crew_name_history": [
+                "爱塔"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "730144454824": {
+            "crew_id": 730144454824,
+            "crew_members": [
+                "369紫悦",
+                "AureuStella",
+                "万凌",
+                "县",
+                "朝九",
+                "柯02",
+                "武器爱好者",
+                "美海",
+                "龙曦月"
+            ],
+            "crew_members_count": 9,
+            "crew_name": "鲸置异化",
+            "crew_name_history": [
+                "鲸置异化"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "73014458733": {
+            "crew_id": 73014458733,
+            "crew_members": [
+                "叶嘉明",
+                "吾刀刀",
+                "狂嗦长离臭袜子",
+                "米米天下第一",
+                "萝莉控初代机",
+                "颜希铭语"
+            ],
+            "crew_members_count": 6,
+            "crew_name": "九域养生宗",
+            "crew_name_history": [
+                "九域养生宗"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "751619291404": {
+            "crew_id": 751619291404,
+            "crew_members": [
+                "sdanded",
+                "凉白菜",
+                "哈密菠萝包",
+                "喝茶不喝咖非",
+                "大哥哥",
+                "这很难李姐"
+            ],
+            "crew_members_count": 6,
+            "crew_name": "守望者联盟",
+            "crew_name_history": [
+                "守望者联盟"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "764504193292": {
+            "crew_id": 764504193292,
+            "crew_members": [
+                "摘星者",
+                "柯洛伊"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "天际雪漫城",
+            "crew_name_history": [
+                "天际雪漫城"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "764504193293": {
+            "crew_id": 764504193293,
+            "crew_members": [
+                "奈笑"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "★★★★★★",
+            "crew_name_history": [
+                "★★★★★★"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "77309425729": {
+            "crew_id": 77309425729,
+            "crew_members": [
+                "乌波萨斯拉"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "执念",
+            "crew_name_history": [
+                "执念"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "77309425934": {
+            "crew_id": 77309425934,
+            "crew_members": [
+                "凤琴弦"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "生态研究会",
+            "crew_name_history": [
+                "生态研究会"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "77309425937": {
+            "crew_id": 77309425937,
+            "crew_members": [
+                "Naples_24",
+                "小蜜蜂V8",
+                "机智的卡卡",
+                "溜星",
+                "爱吃大白兔"
+            ],
+            "crew_members_count": 5,
+            "crew_name": "山水云间",
+            "crew_name_history": [
+                "山水云间"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "781684062478": {
+            "crew_id": 781684062478,
+            "crew_members": [
+                "埗轡瀛",
+                "聪明的一匹"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "世界",
+            "crew_name_history": [
+                "世界"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "790273997068": {
+            "crew_id": 790273997068,
+            "crew_members": [
+                "leaf__",
+                "崔秀英",
+                "无论云泥意贯一",
+                "星尘妖",
+                "柒sept",
+                "流浪白"
+            ],
+            "crew_members_count": 6,
+            "crew_name": "不破咲",
+            "crew_name_history": [
+                "不破咲"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "803158898961": {
+            "crew_id": 803158898961,
+            "crew_members": [
+                "ETQPQWBMHQ",
+                "水冰灵"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "千恋万花",
+            "crew_name_history": [
+                "千恋万花"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "81604393125": {
+            "crew_id": 81604393125,
+            "crew_members": [
+                "冷鸢#a#a",
+                "好烦c",
+                "霜云"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "丨M丨",
+            "crew_name_history": [
+                "丨M丨"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "837518637222": {
+            "crew_id": 837518637222,
+            "crew_members": [
+                "恒铭"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "花烛",
+            "crew_name_history": [
+                "花烛"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "85899360521": {
+            "crew_id": 85899360521,
+            "crew_members": [
+                "九哥",
+                "大雾终散"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "白月城",
+            "crew_name_history": [
+                "白月城"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "85899360524": {
+            "crew_id": 85899360524,
+            "crew_members": [
+                "O-O#a",
+                "亚津子",
+                "全部君のせ",
+                "奈斯丶内恰",
+                "玖夜重楼",
+                "芐壹秒待续",
+                "风吹落了枫"
+            ],
+            "crew_members_count": 7,
+            "crew_name": "星月童话",
+            "crew_name_history": [
+                "星月童话"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "85899360529": {
+            "crew_id": 85899360529,
+            "crew_members": [
+                "是你的绮梅呀",
+                "萌新一号"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "梦塔",
+            "crew_name_history": [
+                "梦塔"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "85899360621": {
+            "crew_id": 85899360621,
+            "crew_members": [
+                "坏坏喵",
+                "如梦所及",
+                "惣流·Asuka",
+                "梅尔菲娜",
+                "袁修仙"
+            ],
+            "crew_members_count": 5,
+            "crew_name": "十月天宫",
+            "crew_name_history": [
+                "十月天宫"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "8589949096": {
+            "crew_id": 8589949096,
+            "crew_members": [
+                "终景",
+                "醉饮江河"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "艾达之子",
+            "crew_name_history": [
+                "艾达之子"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "8589949193": {
+            "crew_id": 8589949193,
+            "crew_members": [
+                "B站糖加三勺",
+                "Phrolova",
+                "Rainy1",
+                "enter#a",
+                "你不要过来呀",
+                "凛夜.",
+                "大树底下好乘凉",
+                "寒萱",
+                "对自己好一点",
+                "棉被王",
+                "白昼夢",
+                "紫宫露娜",
+                "绿化带",
+                "老闫阿噢呃",
+                "菩提宛丝",
+                "薯片猫猫",
+                "黑衣001#a"
+            ],
+            "crew_members_count": 17,
+            "crew_name": "白月破晓",
+            "crew_name_history": [
+                "白月破晓"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "8589949196": {
+            "crew_id": 8589949196,
+            "crew_members": [
+                "C.C#a",
+                "夜半#a",
+                "天堂者",
+                "枕刀歌",
+                "特丝卡特莉波卡"
+            ],
+            "crew_members_count": 5,
+            "crew_name": "迷城",
+            "crew_name_history": [
+                "迷城"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "8589949197": {
+            "crew_id": 8589949197,
+            "crew_members": [
+                "雅·修特拉"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "迷影云阙",
+            "crew_name_history": [
+                "迷影云阙"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "8589949198": {
+            "crew_id": 8589949198,
+            "crew_members": [
+                "乱想",
+                "爷おじいちゃん",
+                "神夜无忧"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "世界之树",
+            "crew_name_history": [
+                "世界之树"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "8589949201": {
+            "crew_id": 8589949201,
+            "crew_members": [
+                "繁星Hiragi"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "Choco",
+            "crew_name_history": [
+                "Choco"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "8589949293": {
+            "crew_id": 8589949293,
+            "crew_members": [
+                "橘啊橘"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "九域",
+            "crew_name_history": [
+                "九域"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "8589949294": {
+            "crew_id": 8589949294,
+            "crew_members": [
+                "52614",
+                "Silviga",
+                "ejejdj",
+                "shiki158",
+                "spyder",
+                "yatoro雨",
+                "下划线",
+                "丶秋天的鱼丶",
+                "二进制的猫",
+                "千弦曲",
+                "小拾光",
+                "梦幻女仆",
+                "止伞",
+                "流夏未央",
+                "爱摸鱼的夜猫",
+                "琅琊留影",
+                "琅琊留影#a",
+                "琅琊留影#c",
+                "荧然"
+            ],
+            "crew_members_count": 19,
+            "crew_name": "猫萌",
+            "crew_name_history": [
+                "猫萌"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "889058244779": {
+            "crew_id": 889058244779,
+            "crew_members": [
+                "Daiyousei",
+                "已老实"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "焦糖布丁",
+            "crew_name_history": [
+                "焦糖布丁"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "901943146765": {
+            "crew_id": 901943146765,
+            "crew_members": [
+                "巧克力的阳阳"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "休闲养老",
+            "crew_name_history": [
+                "休闲养老"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "90194327917": {
+            "crew_id": 90194327917,
+            "crew_members": [
+                "mafuyu",
+                "椉～醴",
+                "楓尒",
+                "海嘉德特使大人",
+                "清浦秋雫",
+                "西金石",
+                "陌仟尘"
+            ],
+            "crew_members_count": 7,
+            "crew_name": "永贞司",
+            "crew_name_history": [
+                "永贞司"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "906238114158": {
+            "crew_id": 906238114158,
+            "crew_members": [
+                "雾水珠玉"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "跃彩璃音",
+            "crew_name_history": [
+                "跃彩璃音"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "923417983249": {
+            "crew_id": 923417983249,
+            "crew_members": [
+                "泪珠哀歌",
+                "雪花沉睡"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "绘梨猫",
+            "crew_name_history": [
+                "绘梨猫"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "94489294914": {
+            "crew_id": 94489294914,
+            "crew_members": [
+                "银河洗剑天上仙"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "Jay",
+            "crew_name_history": [
+                "Jay"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "94489294915": {
+            "crew_id": 94489294915,
+            "crew_members": [
+                "勤天",
+                "笨蛋大王喵",
+                "魔法少女德莉沙"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "猫咖",
+            "crew_name_history": [
+                "猫咖"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "94489295023": {
+            "crew_id": 94489295023,
+            "crew_members": [
+                "Javelin",
+                "琛和"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "幻塔陪伴中心",
+            "crew_name_history": [
+                "幻塔陪伴中心"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "94489295117": {
+            "crew_id": 94489295117,
+            "crew_members": [
+                "一剑随风"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "萌团",
+            "crew_name_history": [
+                "萌团"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "94489295213": {
+            "crew_id": 94489295213,
+            "crew_members": [
+                "Aims正在路上",
+                "臨淵羡鱼"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "云霄钓鱼中心",
+            "crew_name_history": [
+                "云霄钓鱼中心"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "949187787117": {
+            "crew_id": 949187787117,
+            "crew_members": [
+                "AKAKAK",
+                "久不离",
+                "垚猫",
+                "小戴",
+                "月蘅",
+                "没招了",
+                "沧溟珠泪",
+                "编号1573",
+                "茉莉飘雪",
+                "随便玩玩12",
+                "马希洛"
+            ],
+            "crew_members_count": 11,
+            "crew_name": "渔佬夜总浍",
+            "crew_name_history": [
+                "渔佬夜总浍"
+            ],
+            "server_region": "ark-calculus"
+        },
+        "983547525391": {
+            "crew_id": 983547525391,
+            "crew_members": [
+                "慕__慕",
+                "慕容",
+                "我又回来了k",
+                "龙王帝神"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "晴天遇花海",
+            "crew_name_history": [
+                "晴天遇花海"
+            ],
+            "server_region": "ark-calculus"
+        }
+    },
+    "crews_total": 208,
+    "last_updated": "2026年4月22日 下午11:12:27",
+    "server_region": "ark-calculus"
+}

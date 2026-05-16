@@ -1,0 +1,2035 @@
+{
+    "crews": {
+        "1022202231250": {
+            "crew_id": 1022202231250,
+            "crew_members": [
+                "　海伦　",
+                "秦晓楼",
+                "莎娜可",
+                "软糯小祥"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "生态研究会",
+            "crew_name_history": [
+                "生态研究会"
+            ],
+            "server_region": "time-travel"
+        },
+        "1138166348243": {
+            "crew_id": 1138166348243,
+            "crew_members": [
+                "WXIANLE",
+                "expand",
+                "三金9527",
+                "凯特蕾拉",
+                "喵酱大魔王",
+                "柠砉",
+                "纯宅神明",
+                "艾札克～佛斯特",
+                "风景真美你也是",
+                "马克giegie"
+            ],
+            "crew_members_count": 10,
+            "crew_name": "桃花海",
+            "crew_name_history": [
+                "桃花海"
+            ],
+            "server_region": "time-travel"
+        },
+        "1211180792275": {
+            "crew_id": 1211180792275,
+            "crew_members": [
+                "Vrea",
+                "今天您导了吗",
+                "优诺粉",
+                "剑兰·雪",
+                "大大喵喵",
+                "忆悲凉",
+                "純潔"
+            ],
+            "crew_members_count": 7,
+            "crew_name": "清雨鸣泠",
+            "crew_name_history": [
+                "清雨鸣泠"
+            ],
+            "server_region": "time-travel"
+        },
+        "1224065694162": {
+            "crew_id": 1224065694162,
+            "crew_members": [
+                "雨札",
+                "雨谣"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "白月旅团",
+            "crew_name_history": [
+                "白月旅团"
+            ],
+            "server_region": "time-travel"
+        },
+        "128849033682": {
+            "crew_id": 128849033682,
+            "crew_members": [
+                "Citrus#a",
+                "傲慢鱼",
+                "刑象带盐仁",
+                "易十六"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "猫猫茶会",
+            "crew_name_history": [
+                "猫猫茶会"
+            ],
+            "server_region": "time-travel"
+        },
+        "12884916690": {
+            "crew_id": 12884916690,
+            "crew_members": [
+                "洪泛"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "远望号",
+            "crew_name_history": [
+                "远望号"
+            ],
+            "server_region": "time-travel"
+        },
+        "1357209680338": {
+            "crew_id": 1357209680338,
+            "crew_members": [
+                "BILI天纵狂才",
+                "B站喵不动了喵",
+                "天穹游侠",
+                "孙Xiao氚",
+                "是梦梦啊",
+                "晓思妹",
+                "梅茵肥娜",
+                "郑定坤"
+            ],
+            "crew_members_count": 8,
+            "crew_name": "博丽神社",
+            "crew_name_history": [
+                "博丽神社"
+            ],
+            "server_region": "time-travel"
+        },
+        "1473173797330": {
+            "crew_id": 1473173797330,
+            "crew_members": [
+                "ATCSABDL3",
+                "doodle",
+                "eupcci",
+                "snowAn",
+                "tmydg",
+                "　赛博女鬼　",
+                "一只真步",
+                "仓雨月",
+                "余非鱼",
+                "倾囯",
+                "可爱星野酱",
+                "喋喋不休",
+                "大越汁",
+                "天左左",
+                "徐冬冬",
+                "御坂10127",
+                "快乐珍藏版",
+                "执笔绘小溪",
+                "暗炎空",
+                "木木木夕",
+                "氵星丶",
+                "潇湘夜雨笛悠悠",
+                "玄灵节荣",
+                "甜甜甘风",
+                "生存小哥",
+                "番茄加鸡蛋",
+                "白羊Ww",
+                "神秘卷心菜6",
+                "落纯",
+                "轻飏",
+                "迷#a",
+                "迷你探险者",
+                "魔神皇枫秀1"
+            ],
+            "crew_members_count": 33,
+            "crew_name": "暖暖六课",
+            "crew_name_history": [
+                "暖暖六课",
+                "电雌刃"
+            ],
+            "server_region": "time-travel"
+        },
+        "150323870162": {
+            "crew_id": 150323870162,
+            "crew_members": [
+                "4040528",
+                "55096",
+                "Guess9",
+                "Guess9　",
+                "Heteroroxy　",
+                "Yt宝宝",
+                "world.miku",
+                "　Guess9　",
+                "　　Guess9",
+                "　　Guess9　　　",
+                "一批化三蛆",
+                "丸山彩的瓦片",
+                "乌米乌米乌！？",
+                "乌米乌米乌！？！",
+                "乌米乌米乌？",
+                "乌米乌米乌～-",
+                "云卷云舒云聚散",
+                "云烟浩渺",
+                "代号不存在",
+                "任雨瑶",
+                "克拉里昂",
+                "八奈见.杏菜",
+                "关山月",
+                "凛小go",
+                "叶带师",
+                "呜咪呜咪呜",
+                "周东安",
+                "唯依",
+                "嘉期若梦",
+                "圆桌骑士",
+                "坠落？",
+                "夜初",
+                "大坠落狐狐",
+                "天廻",
+                "寄了喵寄了喵",
+                "寻萝中队长",
+                "小加加36D",
+                "希墨染",
+                "幽嘿",
+                "恭喜发财666",
+                "想要透烧鸡",
+                "懒咕咕",
+                "执卿",
+                "摆烂糊糊",
+                "断剑诗人",
+                "时雨喵喵",
+                "星海恶霸",
+                "晓时候1",
+                "暗夜玲",
+                "暴力型",
+                "望·舒",
+                "来捉我呀",
+                "桑尼喵",
+                "永远睡不醒的猫",
+                "洛斯琳原味黑丝",
+                "洛神凌玉",
+                "流萤酱i",
+                "浴沫",
+                "海盐屯屯",
+                "烬屿",
+                "王校长",
+                "生命之树瑟莉丝",
+                "电竞主播",
+                "白丝不得其姐",
+                "白千咲",
+                "白鸢千圣yousa",
+                "神喻#a",
+                "糖果藤蔓",
+                "维尔汀首席",
+                "维斯考特",
+                "缇秋",
+                "草莓椰奶露",
+                "萤萤萤",
+                "蕾米莉亚",
+                "裕忘過肚",
+                "见字如面",
+                "诗叭啦汐",
+                "话费有蓝白碗",
+                "谦宁",
+                "豆奶香",
+                "閃刀姫アザレア",
+                "閃刀姫カメリア",
+                "阮先生",
+                "雪月樱纷飞",
+                "韓跑跑",
+                "韦峰",
+                "默默ovo"
+            ],
+            "crew_members_count": 87,
+            "crew_name": "星奈海",
+            "crew_name_history": [
+                "星奈海"
+            ],
+            "server_region": "time-travel"
+        },
+        "17179883986": {
+            "crew_id": 17179883986,
+            "crew_members": [
+                "星镜",
+                "最喜欢爱莉了",
+                "月村手毬",
+                "林静蝉幽",
+                "渊鱼无信",
+                "瞌睡高手",
+                "虚舟渡者"
+            ],
+            "crew_members_count": 7,
+            "crew_name": "莉可丽丝",
+            "crew_name_history": [
+                "莉可丽丝"
+            ],
+            "server_region": "time-travel"
+        },
+        "1769526540754": {
+            "crew_id": 1769526540754,
+            "crew_members": [
+                "gehg530",
+                "misskert",
+                "上啊死啊",
+                "医疗兵4040",
+                "大狗子哒",
+                "天命剑",
+                "琳可传说",
+                "破月凭风难觅影",
+                "绯."
+            ],
+            "crew_members_count": 9,
+            "crew_name": "山海阁",
+            "crew_name_history": [
+                "山海阁"
+            ],
+            "server_region": "time-travel"
+        },
+        "201863477714": {
+            "crew_id": 201863477714,
+            "crew_members": [
+                "...鑫...",
+                "Ao",
+                "BBSKear",
+                "Byakuya",
+                "DROP　　　",
+                "Eorex",
+                "HPMXY3651",
+                "JOJORAY",
+                "YeoJaCheom",
+                "cherryΣ",
+                "iyu北北",
+                "null_",
+                "rpp",
+                "xi.",
+                "丁真珍珠#a",
+                "不洗焦鸭！",
+                "丨胡萝贝丨",
+                "仟云霄",
+                "仟竹隐",
+                "兮雨OvO",
+                "凯尔希",
+                "初音未来",
+                "午饭泡泡",
+                "听海涵",
+                "咩吖",
+                "大厦壁三条",
+                "大呲花",
+                "奈奈大王",
+                "奚圆",
+                "妃妃",
+                "安娜贝拉",
+                "小哼",
+                "小雨酱#a",
+                "小鞭炮",
+                "屿の14章",
+                "希塑",
+                "幻塔aaa",
+                "幻塔糕手#a",
+                "庆岛佐伊",
+                "张指导",
+                "御樱稟",
+                "慕I影织",
+                "执行者",
+                "指出橘凛",
+                "接福纳财",
+                "放狠话环节",
+                "数荷",
+                "时光易冷",
+                "时崎三",
+                "星影琉璃",
+                "星辰璀璨如梦",
+                "是大大怪将军呀",
+                "是谁在等天明",
+                "枫吟蝶语梦奇渊",
+                "柠檬_Lemon",
+                "桐①人",
+                "梓娅呀",
+                "橘子Orange",
+                "流浪喵星",
+                "海蓝蓝",
+                "清v漪",
+                "灵魂老萌新",
+                "甜甜人",
+                "疯形乱世",
+                "疯行乱世",
+                "白皑皑",
+                "白蓝帝",
+                "窗外的大雨",
+                "窗畔裁云",
+                "米卡桑·",
+                "米狐",
+                "继承玻纤",
+                "绮梦魔仙芬璃尔",
+                "羲羲曦",
+                "艾妮丝菲娅",
+                "芙蕾德",
+                "花蔓",
+                "苏坡爱豆",
+                "葵蕊",
+                "西萝",
+                "认真一刀",
+                "豆豆种子",
+                "软软的星璃",
+                "轻井泽惠ya",
+                "遺灰",
+                "银梦",
+                "零五壹贰",
+                "雷姆",
+                "雾小知",
+                "青贮竹",
+                "飛鳥ASK",
+                "饼干ovo",
+                "香草洛斯琳",
+                "魔道大王",
+                "鸢影岚涧"
+            ],
+            "crew_members_count": 95,
+            "crew_name": "七宫",
+            "crew_name_history": [
+                "七宫"
+            ],
+            "server_region": "time-travel"
+        },
+        "210453412306": {
+            "crew_id": 210453412306,
+            "crew_members": [
+                "秦傲天"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "满分闪亮魔法",
+            "crew_name_history": [
+                "满分闪亮魔法"
+            ],
+            "server_region": "time-travel"
+        },
+        "2117418891731": {
+            "crew_id": 2117418891731,
+            "crew_members": [
+                "2005乐乐",
+                "95主人雷蒙",
+                "乐安其",
+                "五颜六色也是鸡",
+                "你说怎么办",
+                "六耶子",
+                "叶枫宇",
+                "喵喵小青鱼",
+                "宁一澜",
+                "希斯缇落戴落安",
+                "揉揉宝贝的赖子",
+                "来自星星的妳",
+                "橘岚",
+                "欢都情樱",
+                "水果糖1",
+                "泡芙蛋糕",
+                "灬南歌酒玖灬",
+                "猪咪酱",
+                "玖依小桃",
+                "结城友奈是勇者",
+                "路西法",
+                "间桐樱",
+                "难顶哦"
+            ],
+            "crew_members_count": 23,
+            "crew_name": "Mujica",
+            "crew_name_history": [
+                "Mujica"
+            ],
+            "server_region": "time-travel"
+        },
+        "223338314194": {
+            "crew_id": 223338314194,
+            "crew_members": [
+                "shootouto",
+                "命运不限",
+                "安澜",
+                "小侦探",
+                "幸o烈酒",
+                "幻塔最靓的仔",
+                "心寄默",
+                "怪怪怪怪怪兽",
+                "梦曦01",
+                "神判者",
+                "秋昀梦曦",
+                "荒殇陌",
+                "路过#a",
+                "那个路过的",
+                "饖"
+            ],
+            "crew_members_count": 15,
+            "crew_name": "东方幻想乡",
+            "crew_name_history": [
+                "东方幻想乡"
+            ],
+            "server_region": "time-travel"
+        },
+        "270582954450": {
+            "crew_id": 270582954450,
+            "crew_members": [
+                "1坤年",
+                "GstarryA",
+                "IF丶艾路雷朵",
+                "Lyra25",
+                "Sussy",
+                "void",
+                "七七七七七宝贝",
+                "企鹅帝",
+                "依琳琳",
+                "化海格变",
+                "只玩原神.",
+                "可莉·布莱恩特",
+                "大痴一惊的痴痴",
+                "天冠山诗帖",
+                "天真之梦",
+                "奈丑西斯",
+                "婷婷吧",
+                "学长在斩妖",
+                "巨像",
+                "忆梦亦梦",
+                "敏捷型",
+                "无幻双影",
+                "昔链",
+                "曼波655",
+                "枫语#a",
+                "柑野木棉季",
+                "梅逸阁诗人",
+                "樱花佬被我炸死",
+                "死徒",
+                "父子与恶狗",
+                "牢大猫猫",
+                "皮皮虾白灼",
+                "素文怨",
+                "絔黙漓",
+                "聆巧吖",
+                "艾拉·帝天",
+                "陸辰",
+                "飞起几脚",
+                "高原的魔女",
+                "黑利·佩茵特"
+            ],
+            "crew_members_count": 40,
+            "crew_name": "绝幻",
+            "crew_name_history": [
+                "绝幻"
+            ],
+            "server_region": "time-travel"
+        },
+        "283467856338": {
+            "crew_id": 283467856338,
+            "crew_members": [
+                "IFCamile",
+                "IF丶Camile",
+                "Unicorn24",
+                "·鸭梨·",
+                "一只懒羊",
+                "七月·莲",
+                "三月兔",
+                "三生知世",
+                "乳娘芬璃尔.",
+                "二呆呆槑槑",
+                "佑曦",
+                "傲天魔君",
+                "吃喝玩乐",
+                "吸喵狂魔",
+                "唐伯虎·秋香",
+                "奥妙奇妙哦",
+                "妖精狐仙",
+                "妙蛙也是蛙",
+                "嫂嫂请自重",
+                "寒咲",
+                "岚",
+                "岚岚喵喵",
+                "幸运风车",
+                "幻想星空，月梦",
+                "异能无双",
+                "忆于心.",
+                "慕斯冰淇淋",
+                "无敌元元元",
+                "月亮代表谁的心",
+                "木子禧",
+                "枫中落叶",
+                "柔美的月夜",
+                "桃羽诗诗",
+                "梦回提瓦特",
+                "梦馨儿～～",
+                "正在变强",
+                "此情可待",
+                "毛驴也是驴",
+                "灵能罐头",
+                "真的不是maybe",
+                "知了叫醒了夏天",
+                "穗意花萝甜",
+                "经常被秒",
+                "草莓软糖蛋糕",
+                "萌太",
+                "葱茏蓊郁",
+                "追追追追追光",
+                "鏡花寰月",
+                "雨叶",
+                "青苹之末",
+                "鹤衔春雪"
+            ],
+            "crew_members_count": 51,
+            "crew_name": "异世相遇",
+            "crew_name_history": [
+                "异世相遇"
+            ],
+            "server_region": "time-travel"
+        },
+        "2920577776082": {
+            "crew_id": 2920577776082,
+            "crew_members": [
+                ".",
+                "Aims正在路上",
+                "Elaina.",
+                "RC无名妖灵",
+                "danny大魔王",
+                "na小青",
+                "‘‘逸’’",
+                "专业背锅历飞羽",
+                "丶羽川翼丶",
+                "伊捏芙",
+                "元春之音",
+                "六胖",
+                "哈你母牛",
+                "哈搂摸脱诺菈",
+                "夏目Anan",
+                "大王万万岁",
+                "媎妹",
+                "小小飞天者",
+                "平山真白",
+                "幻塔策划负责人",
+                "往事随风飘入夜",
+                "无情画.",
+                "是依然呀",
+                "暗夜灵",
+                "流羽天",
+                "浪漫血液",
+                "神田尚子",
+                "筱丛伈",
+                "芒果碎冰冰",
+                "虞衡司　烟渺　",
+                "蜜糖小兔",
+                "跑跑跑",
+                "轻轻轻",
+                "阿妮亚#a",
+                "霜叶小千代",
+                "霞澤美優",
+                "香取悠马",
+                "鸽拉西莫夫",
+                "鼻歌·尸体男爵"
+            ],
+            "crew_members_count": 39,
+            "crew_name": "魔女之旅",
+            "crew_name_history": [
+                "魔女之旅"
+            ],
+            "server_region": "time-travel"
+        },
+        "304942692818": {
+            "crew_id": 304942692818,
+            "crew_members": [
+                "HANP",
+                "　　Guess9　　",
+                "千守·鸣",
+                "幽萤",
+                "星空澜",
+                "朋克脸",
+                "樱久琉璃夏",
+                "银翼殺手"
+            ],
+            "crew_members_count": 8,
+            "crew_name": "深月航迹",
+            "crew_name_history": [
+                "深月航迹"
+            ],
+            "server_region": "time-travel"
+        },
+        "3131031173587": {
+            "crew_id": 3131031173587,
+            "crew_members": [
+                "Bear_baby",
+                "hdfbjx",
+                "laida",
+                "古月刂戈",
+                "小磊？",
+                "棒打蛙蛙"
+            ],
+            "crew_members_count": 6,
+            "crew_name": "烧鸡",
+            "crew_name_history": [
+                "烧鸡"
+            ],
+            "server_region": "time-travel"
+        },
+        "3182570781138": {
+            "crew_id": 3182570781138,
+            "crew_members": [
+                "世界第一上单",
+                "别云无用",
+                "吟紫竹的沫胧",
+                "噬业火的沫钰",
+                "小小先森",
+                "御赐灵官",
+                "我没医保先保我",
+                "执不破的沫澪",
+                "是个狼。",
+                "梦里长歌",
+                "洛の小魅魔3号",
+                "清风秋夜",
+                "相好的",
+                "蕾·珐璆",
+                "陈京南"
+            ],
+            "crew_members_count": 15,
+            "crew_name": "合欢宗",
+            "crew_name_history": [
+                "合欢宗"
+            ],
+            "server_region": "time-travel"
+        },
+        "34359753170": {
+            "crew_id": 34359753170,
+            "crew_members": [
+                "MOTOP.",
+                "冥王哈迪斯李信",
+                "思念逸",
+                "慕雪倾云",
+                "笑了吗",
+                "羽暖",
+                "芙心婉依",
+                "鹤无闲"
+            ],
+            "crew_members_count": 8,
+            "crew_name": "魔法少女",
+            "crew_name_history": [
+                "魔法少女"
+            ],
+            "server_region": "time-travel"
+        },
+        "3543348034003": {
+            "crew_id": 3543348034003,
+            "crew_members": [
+                "尸体硬硬"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "停尸间",
+            "crew_name_history": [
+                "停尸间"
+            ],
+            "server_region": "time-travel"
+        },
+        "360777267666": {
+            "crew_id": 360777267666,
+            "crew_members": [
+                "Calvo",
+                "即使失去你",
+                "坤坤1234",
+                "影御",
+                "林倾城",
+                "狒血",
+                "祁卿卿",
+                "竔",
+                "邱啟娟"
+            ],
+            "crew_members_count": 9,
+            "crew_name": "回溯",
+            "crew_name_history": [
+                "回溯"
+            ],
+            "server_region": "time-travel"
+        },
+        "373662169554": {
+            "crew_id": 373662169554,
+            "crew_members": [
+                "w8435"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "猫猫社",
+            "crew_name_history": [
+                "猫猫社"
+            ],
+            "server_region": "time-travel"
+        },
+        "408021907922": {
+            "crew_id": 408021907922,
+            "crew_members": [
+                "涵涵跑的飞快"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "MyGO",
+            "crew_name_history": [
+                "MyGO"
+            ],
+            "server_region": "time-travel"
+        },
+        "416611842514": {
+            "crew_id": 416611842514,
+            "crew_members": [
+                "Loveru",
+                "　时生　",
+                "佐伯MiRia",
+                "冷云迷浦",
+                "千喵",
+                "受莉儿",
+                "吹䨮",
+                "咬人喵",
+                "喜莉儿",
+                "娜娜.11",
+                "孤独De美食家",
+                "宝宝还在吗",
+                "小柚柚",
+                "小草芯儿",
+                "我爱小甜甜",
+                "撞羽朝颜",
+                "新建文件夹2",
+                "月代雪",
+                "梨花院落溶溶月",
+                "沉默的森林",
+                "澄心无邪爱莉儿",
+                "爱莉儿",
+                "爱莉子",
+                "爱莉猪",
+                "玛卡巴卡好卡",
+                "白虎风",
+                "盛夏的方程式",
+                "砍～",
+                "粉色蘑菇头",
+                "臭脚妹",
+                "苔枝缀玉",
+                "莉莉儿",
+                "迷路的雅儿",
+                "闹红一柯",
+                "雨吹雪",
+                "雪柒",
+                "魔谷忍姬姬",
+                "黛画生花"
+            ],
+            "crew_members_count": 38,
+            "crew_name": "雪绒白巧",
+            "crew_name_history": [
+                "雪绒白巧"
+            ],
+            "server_region": "time-travel"
+        },
+        "4488240839123": {
+            "crew_id": 4488240839123,
+            "crew_members": [
+                "kyusei",
+                "乘奔御风",
+                "云逸雨轻",
+                "圣光大猪脚",
+                "奈美西斯.",
+                "奈美西斯小号",
+                "梅比乌斯XI",
+                "灵芯",
+                "萧然lite"
+            ],
+            "crew_members_count": 9,
+            "crew_name": "星岛避难所",
+            "crew_name_history": [
+                "星岛避难所"
+            ],
+            "server_region": "time-travel"
+        },
+        "4518305610195": {
+            "crew_id": 4518305610195,
+            "crew_members": [
+                "伊人浅语",
+                "双清.",
+                "拉基亚斯之风",
+                "柏语",
+                "青时雨丷",
+                "静若安然"
+            ],
+            "crew_members_count": 6,
+            "crew_name": "JK玉足妹",
+            "crew_name_history": [
+                "JK玉足妹"
+            ],
+            "server_region": "time-travel"
+        },
+        "4544075413971": {
+            "crew_id": 4544075413971,
+            "crew_members": [
+                "Rachelc#a"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "夏虫",
+            "crew_name_history": [
+                "夏虫"
+            ],
+            "server_region": "time-travel"
+        },
+        "4552665348563": {
+            "crew_id": 4552665348563,
+            "crew_members": [
+                "　柳　",
+                "一片小花瓣",
+                "不高兴唉",
+                "传说中的帝尊",
+                "兜兜种子",
+                "包菜bc0x2710",
+                "包菜bc0x2714",
+                "包菜bc0x27I3",
+                "南北绿斗",
+                "叶晓芫",
+                "叶筱芫",
+                "命无归终",
+                "哈吉米哈吉米",
+                "妖",
+                "掠影浮光",
+                "月位面",
+                "森亚琉琉歌",
+                "玛奇朵　",
+                "知奈",
+                "神秘包菜头",
+                "米魈战",
+                "苍门空",
+                "菲弥琳丝·春花",
+                "蘼芜",
+                "诗律",
+                "鈴の雫"
+            ],
+            "crew_members_count": 26,
+            "crew_name": "心焰",
+            "crew_name_history": [
+                "心焰"
+            ],
+            "server_region": "time-travel"
+        },
+        "468151450066": {
+            "crew_id": 468151450066,
+            "crew_members": [
+                "dog007",
+                "ytuhgf",
+                "云-Y",
+                "可以不慧羊羊",
+                "时九十九",
+                "曲士",
+                "灰灰菜菜",
+                "爅䳿曦淺",
+                "瓦爾基里",
+                "考鹿",
+                "鹤望丶兰"
+            ],
+            "crew_members_count": 11,
+            "crew_name": "念",
+            "crew_name_history": [
+                "念"
+            ],
+            "server_region": "time-travel"
+        },
+        "4780298615251": {
+            "crew_id": 4780298615251,
+            "crew_members": [
+                "C.Rev",
+                "明天早上",
+                "江南祈愿落雪",
+                "秦美娇",
+                "银色勇士"
+            ],
+            "crew_members_count": 5,
+            "crew_name": "灵婵月宫",
+            "crew_name_history": [
+                "灵婵月宫"
+            ],
+            "server_region": "time-travel"
+        },
+        "4934917437907": {
+            "crew_id": 4934917437907,
+            "crew_members": [
+                "书華",
+                "海贼连者豪快粉",
+                "铅柊"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "宇宙海贼战队",
+            "crew_name_history": [
+                "宇宙海贼战队"
+            ],
+            "server_region": "time-travel"
+        },
+        "493921253842": {
+            "crew_id": 493921253842,
+            "crew_members": [
+                "As～小岚呀PDC",
+                "放暑假啦",
+                "神流血"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "零氪奇迹",
+            "crew_name_history": [
+                "零氪奇迹"
+            ],
+            "server_region": "time-travel"
+        },
+        "4943507372499": {
+            "crew_id": 4943507372499,
+            "crew_members": [
+                "福娃目前"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "阿玛尼拉稀",
+            "crew_name_history": [
+                "阿玛尼拉稀"
+            ],
+            "server_region": "time-travel"
+        },
+        "5016521816531": {
+            "crew_id": 5016521816531,
+            "crew_members": [
+                "zxarxmn",
+                "你牛大了",
+                "晓师妺"
+            ],
+            "crew_members_count": 3,
+            "crew_name": "爱哥恋妹",
+            "crew_name_history": [
+                "爱哥恋妹"
+            ],
+            "server_region": "time-travel"
+        },
+        "502511188434": {
+            "crew_id": 502511188434,
+            "crew_members": [
+                "SweetRP",
+                "　clover　",
+                "二階堂Hiro",
+                "亦知橘",
+                "倒魔大王",
+                "卡布琪洛",
+                "名字好难取吖",
+                "哈基米德",
+                "噬砂",
+                "安心院薰染",
+                "安诗雅",
+                "岁岁安岚",
+                "嵇白不姬白ii",
+                "幻莺",
+                "御坂10124",
+                "御坂10125",
+                "怎么都有了",
+                "悲伤石锅鱼",
+                "批发阿桃",
+                "星虹影碎",
+                "月～",
+                "梦惊禅",
+                "死神186",
+                "清羽-墨安笙",
+                "烬柒",
+                "爰兔兔",
+                "狗带带",
+                "白沐ovo",
+                "箐玥",
+                "绪難止",
+                "艾露米娅娜",
+                "花涧墨",
+                "苏纱娜",
+                "血色玫瑰＾",
+                "豚猫",
+                "躺着不想起",
+                "龙酒"
+            ],
+            "crew_members_count": 37,
+            "crew_name": "挽梦挽星辰",
+            "crew_name_history": [
+                "挽梦挽星辰"
+            ],
+            "server_region": "time-travel"
+        },
+        "5226975214035": {
+            "crew_id": 5226975214035,
+            "crew_members": [
+                "你不该爱我"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "离州",
+            "crew_name_history": [
+                "离州"
+            ],
+            "server_region": "time-travel"
+        },
+        "55834589650": {
+            "crew_id": 55834589650,
+            "crew_members": [
+                ".山城恋.",
+                "Aliciawex",
+                "Roseery",
+                "WxmFm",
+                "sasczs",
+                "socksoci",
+                "zp",
+                "─╄OvЁ☆",
+                "★小浅丶",
+                "　绫波丽　",
+                "一坨石这游戏",
+                "仰望神明",
+                "冲啊阿辉",
+                "别礼",
+                "咬人的兔子",
+                "唱跳rap两年半",
+                "坤坤001",
+                "大樱鲸",
+                "太清玄",
+                "幻塔皮卡丘005",
+                "无双超好梦圆",
+                "朱雀1号",
+                "栗悟饭龟波功",
+                "水果糖·",
+                "洵樾",
+                "灰流丽.",
+                "秋挽婷",
+                "空元行者",
+                "艾露迪",
+                "雾枝きりえ"
+            ],
+            "crew_members_count": 30,
+            "crew_name": "EVA",
+            "crew_name_history": [
+                "EVA"
+            ],
+            "server_region": "time-travel"
+        },
+        "5673651812819": {
+            "crew_id": 5673651812819,
+            "crew_members": [
+                "S叶洛",
+                "madra铠袖一触",
+                "佑伍",
+                "十六夜丶",
+                "死神君",
+                "熔岩史莱姆",
+                "独断万古伊莉雅",
+                "白老板好厉害",
+                "鬃"
+            ],
+            "crew_members_count": 9,
+            "crew_name": "星下樱园",
+            "crew_name_history": [
+                "星下樱园"
+            ],
+            "server_region": "time-travel"
+        },
+        "5677946780115": {
+            "crew_id": 5677946780115,
+            "crew_members": [
+                "1657",
+                "Dawn.pa",
+                "DeSai",
+                "ERRR",
+                "Frey",
+                "funck",
+                "iGcgdjwu",
+                "《无语》",
+                "くにじわ.",
+                "㕪",
+                "一名穹鬼",
+                "上号了没",
+                "为之奈何",
+                "之一之一之一",
+                "今朝盈",
+                "何憬櫶",
+                "去不人",
+                "叶落三秋",
+                "吖漂",
+                "周年轻",
+                "四季迪克",
+                "夜雨声匿",
+                "奶龙也是龙",
+                "宵煊",
+                "小鸟说",
+                "希尔芬.",
+                "开心果小描",
+                "悟茫",
+                "悸萱萱",
+                "明汐若琼",
+                "星野落子",
+                "晨--再见",
+                "未啊伐木累",
+                "焉夜",
+                "花香蓝莓",
+                "苏念禾",
+                "荧燃",
+                "萱念蓝桉凯",
+                "走心小糊涂",
+                "踏破时间无限",
+                "阿妮亚",
+                "陆灵溪",
+                "雪绒猫猫",
+                "霖孀",
+                "霞之短暂",
+                "顾晚晴",
+                "骤＿",
+                "龖斷"
+            ],
+            "crew_members_count": 48,
+            "crew_name": "林深不知处",
+            "crew_name_history": [
+                "林深不知处"
+            ],
+            "server_region": "time-travel"
+        },
+        "5798205864403": {
+            "crew_id": 5798205864403,
+            "crew_members": [
+                "奈奈生"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "宇宙军团",
+            "crew_name_history": [
+                "宇宙军团"
+            ],
+            "server_region": "time-travel"
+        },
+        "5982889458131": {
+            "crew_id": 5982889458131,
+            "crew_members": [
+                "抖音亦玖_",
+                "聊好"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "纸鸢和你",
+            "crew_name_history": [
+                "纸鸢和你"
+            ],
+            "server_region": "time-travel"
+        },
+        "60129556946": {
+            "crew_id": 60129556946,
+            "crew_members": [
+                "fjdhhx",
+                "oo细雨如愁OO",
+                "凌云楠",
+                "墨霽",
+                "天龙",
+                "幻塔业余玩家",
+                "时回溯",
+                "爱吃西瓜",
+                "猎猫#a",
+                "秋.忆洛；思",
+                "突突突子期",
+                "竹竹竹竹竹",
+                "织影",
+                "若雪瑶琴梦婵娟",
+                "该如何呢？",
+                "起源25随便来",
+                "跃迁邀无归期",
+                "躺鱼l_l",
+                "雾临"
+            ],
+            "crew_members_count": 19,
+            "crew_name": "幻塔",
+            "crew_name_history": [
+                "幻塔"
+            ],
+            "server_region": "time-travel"
+        },
+        "605590403538": {
+            "crew_id": 605590403538,
+            "crew_members": [
+                "Ruby",
+                "告诉我你幸福吗",
+                "安藜",
+                "小游。。",
+                "晚风告白.",
+                "月照花林皆似霰",
+                "满氵青余孽绝幻"
+            ],
+            "crew_members_count": 7,
+            "crew_name": "mia后援会",
+            "crew_name_history": [
+                "mia后援会"
+            ],
+            "server_region": "time-travel"
+        },
+        "6077378738643": {
+            "crew_id": 6077378738643,
+            "crew_members": [
+                "囚影大",
+                "影月萧"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "世异相遇",
+            "crew_name_history": [
+                "世异相遇"
+            ],
+            "server_region": "time-travel"
+        },
+        "6292127103443": {
+            "crew_id": 6292127103443,
+            "crew_members": [
+                "灯挺"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "绳次元",
+            "crew_name_history": [
+                "绳次元"
+            ],
+            "server_region": "time-travel"
+        },
+        "6322191874515": {
+            "crew_id": 6322191874515,
+            "crew_members": [
+                "荒古茗"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "曙光",
+            "crew_name_history": [
+                "曙光"
+            ],
+            "server_region": "time-travel"
+        },
+        "6326486841811": {
+            "crew_id": 6326486841811,
+            "crew_members": [
+                "䳑"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "崩坏",
+            "crew_name_history": [
+                "崩坏"
+            ],
+            "server_region": "time-travel"
+        },
+        "6335076776403": {
+            "crew_id": 6335076776403,
+            "crew_members": [
+                "miij"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "klsw",
+            "crew_name_history": [
+                "klsw"
+            ],
+            "server_region": "time-travel"
+        },
+        "6360846580179": {
+            "crew_id": 6360846580179,
+            "crew_members": [
+                "旋挖钻机"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "风花",
+            "crew_name_history": [
+                "风花"
+            ],
+            "server_region": "time-travel"
+        },
+        "6369436514771": {
+            "crew_id": 6369436514771,
+            "crew_members": [
+                "浮世英寿～",
+                "络达西"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "渡樱社",
+            "crew_name_history": [
+                "渡樱社"
+            ],
+            "server_region": "time-travel"
+        },
+        "6378026449363": {
+            "crew_id": 6378026449363,
+            "crew_members": [
+                "珺玖玖"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "珺睿府",
+            "crew_name_history": [
+                "珺睿府"
+            ],
+            "server_region": "time-travel"
+        },
+        "6403796253139": {
+            "crew_id": 6403796253139,
+            "crew_members": [
+                "顾瑶瑶"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "瑶月",
+            "crew_name_history": [
+                "瑶月"
+            ],
+            "server_region": "time-travel"
+        },
+        "6412386187731": {
+            "crew_id": 6412386187731,
+            "crew_members": [
+                "江时宴"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "宇宙星河",
+            "crew_name_history": [
+                "宇宙星河"
+            ],
+            "server_region": "time-travel"
+        },
+        "6416681155027": {
+            "crew_id": 6416681155027,
+            "crew_members": [
+                "荒曜"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "夜幕",
+            "crew_name_history": [
+                "夜幕"
+            ],
+            "server_region": "time-travel"
+        },
+        "6442450958803": {
+            "crew_id": 6442450958803,
+            "crew_members": [
+                "monono"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "夕阳",
+            "crew_name_history": [
+                "夕阳"
+            ],
+            "server_region": "time-travel"
+        },
+        "6451040893395": {
+            "crew_id": 6451040893395,
+            "crew_members": [
+                "漠华",
+                "白厄.序言",
+                "绳艺口球紧缚",
+                "莱可西丝！！！！！",
+                "齿音"
+            ],
+            "crew_members_count": 5,
+            "crew_name": "绳次元",
+            "crew_name_history": [
+                "绳次元"
+            ],
+            "server_region": "time-travel"
+        },
+        "6463925795283": {
+            "crew_id": 6463925795283,
+            "crew_members": [
+                "清芸#a"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "三角洲",
+            "crew_name_history": [
+                "三角洲"
+            ],
+            "server_region": "time-travel"
+        },
+        "6476810697171": {
+            "crew_id": 6476810697171,
+            "crew_members": [
+                "知意_"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "黎明",
+            "crew_name_history": [
+                "黎明"
+            ],
+            "server_region": "time-travel"
+        },
+        "648540076498": {
+            "crew_id": 648540076498,
+            "crew_members": [
+                "Kurumi丶",
+                "不加冰."
+            ],
+            "crew_members_count": 2,
+            "crew_name": "狐语星猫",
+            "crew_name_history": [
+                "狐语星猫"
+            ],
+            "server_region": "time-travel"
+        },
+        "6536940239315": {
+            "crew_id": 6536940239315,
+            "crew_members": [
+                "阿格蕾雅"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "顶点海盗团",
+            "crew_name_history": [
+                "顶点海盗团"
+            ],
+            "server_region": "time-travel"
+        },
+        "6545530173907": {
+            "crew_id": 6545530173907,
+            "crew_members": [
+                "“小少爷”"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "天下会",
+            "crew_name_history": [
+                "天下会"
+            ],
+            "server_region": "time-travel"
+        },
+        "6549825141203": {
+            "crew_id": 6549825141203,
+            "crew_members": [
+                "迷糊橘子",
+                "雷克萨斯MAN"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "爱玩的兔爷",
+            "crew_name_history": [
+                "爱玩的兔爷"
+            ],
+            "server_region": "time-travel"
+        },
+        "6558415075795": {
+            "crew_id": 6558415075795,
+            "crew_members": [
+                "秦蛮"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "VG",
+            "crew_name_history": [
+                "VG"
+            ],
+            "server_region": "time-travel"
+        },
+        "6567005010387": {
+            "crew_id": 6567005010387,
+            "crew_members": [
+                "vivi_nagine"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "孙笑川军团",
+            "crew_name_history": [
+                "孙笑川军团"
+            ],
+            "server_region": "time-travel"
+        },
+        "6575594944979": {
+            "crew_id": 6575594944979,
+            "crew_members": [
+                "Easonoi",
+                "星寂之殇"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "三月星辰",
+            "crew_name_history": [
+                "三月星辰"
+            ],
+            "server_region": "time-travel"
+        },
+        "6579889912275": {
+            "crew_id": 6579889912275,
+            "crew_members": [
+                "裬·祲",
+                "重新踏上轮回"
+            ],
+            "crew_members_count": 2,
+            "crew_name": "信心花舍",
+            "crew_name_history": [
+                "信心花舍"
+            ],
+            "server_region": "time-travel"
+        },
+        "6627134552531": {
+            "crew_id": 6627134552531,
+            "crew_members": [
+                "枫LLLL"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "第一公会",
+            "crew_name_history": [
+                "第一公会"
+            ],
+            "server_region": "time-travel"
+        },
+        "73014458834": {
+            "crew_id": 73014458834,
+            "crew_members": [
+                "Balduran",
+                "太多了A",
+                "失格斜陽",
+                "暮云晨风",
+                "月眷桜似卿",
+                "未来祝福我",
+                "苏沐狸灬",
+                "莺.飞",
+                "骁云彻"
+            ],
+            "crew_members_count": 9,
+            "crew_name": "爱意",
+            "crew_name_history": [
+                "爱意"
+            ],
+            "server_region": "time-travel"
+        },
+        "755914258898": {
+            "crew_id": 755914258898,
+            "crew_members": [
+                "discordant",
+                "九璃金",
+                "好能",
+                "無億"
+            ],
+            "crew_members_count": 4,
+            "crew_name": "桃溪柳陌",
+            "crew_name_history": [
+                "桃溪柳陌"
+            ],
+            "server_region": "time-travel"
+        },
+        "781684062674": {
+            "crew_id": 781684062674,
+            "crew_members": [
+                "168282378",
+                "AX50pro",
+                "Akalin",
+                "GG_Bond",
+                "下雨睡觉",
+                "冠桑",
+                "可你又不缺我",
+                "右代宫战人",
+                "喔草是女人",
+                "大呲花它野爹",
+                "大西娘",
+                "安可夜曲",
+                "寻醷",
+                "小精灵#a",
+                "小萌老师",
+                "泠夜",
+                "清寥",
+                "溫婉",
+                "萌萌神秘人",
+                "阿呜、",
+                "阿蒂西娅",
+                "风起南溟",
+                "黑色棒棒糖",
+                "！琉璃！"
+            ],
+            "crew_members_count": 24,
+            "crew_name": "喵喵喵",
+            "crew_name_history": [
+                "喵喵喵"
+            ],
+            "server_region": "time-travel"
+        },
+        "798863931858": {
+            "crew_id": 798863931858,
+            "crew_members": [
+                "Dolores　",
+                "SuOUki",
+                "Tw1l1ght",
+                "ロンリーユニバース",
+                "一只小船",
+                "七拳开海希希儿",
+                "世壹",
+                "乄打灬劫",
+                "乒乓旋风",
+                "伊邪那岐賊神",
+                "伊邪那岐贼神",
+                "你太幻",
+                "你最好没事找我",
+                "使魔菈缇",
+                "卡西乌斯z",
+                "小丘比",
+                "川至",
+                "幽夜凰",
+                "怎么会似呢",
+                "思之声",
+                "月影UEQ恋梦",
+                "杂鱼喵",
+                "杳月",
+                "洛斯琳我老婆！",
+                "清风明月听雪落",
+                "烟津魔法使小九",
+                "瑶夢魔法使小诗",
+                "电子羊修防火墙",
+                "看看你电雌刃嘛",
+                "舞蝶飞啊飞",
+                "蓝龙使魔冰月月",
+                "雪火",
+                "魔想",
+                "龙脉魔法使暴龙"
+            ],
+            "crew_members_count": 34,
+            "crew_name": "★千年魔法使",
+            "crew_name_history": [
+                "★千年魔法使"
+            ],
+            "server_region": "time-travel"
+        },
+        "824633735634": {
+            "crew_id": 824633735634,
+            "crew_members": [
+                "104宿舍长",
+                "38列",
+                "E晨",
+                "Heterodoxy",
+                "Neki",
+                "P.『がらす』N.",
+                "P.『たまこ』N.",
+                "SphinX",
+                "TABURISS",
+                "o肥猫OO",
+                "qqaza",
+                "tianxia",
+                "　李嘉图·M·路　",
+                "　李嘉图·M·路　",
+                "　江厌离　",
+                "『桃桃酱』⊕",
+                "一气化三清",
+                "东方寒月",
+                "命运不险",
+                "孤独王座",
+                "安陌陵",
+                "宋邓芝",
+                "小憩懒猫",
+                "巫浅雨",
+                "希格斯玻色子",
+                "悯雨岛岛主",
+                "惊鸿梦",
+                "我是米米大王",
+                "我真不想看书",
+                "承影I",
+                "时空流浪者",
+                "明智的吾郎",
+                "是小小怪下士呀",
+                "晓东空",
+                "晚殊",
+                "智力型",
+                "暖暖至上",
+                "李嘉图·M·路q1",
+                "汿汿",
+                "澹台明月",
+                "神co",
+                "红糖GingTea",
+                "萝卜糖",
+                "薇鹅",
+                "虚无黑星",
+                "裤子掉了",
+                "超市冬雪莲",
+                "越堕落越快乐",
+                "路西法萨姆",
+                "逆天30G",
+                "青子衿悠我心",
+                "飛鳥SAK",
+                "鸽鸽你真蔡",
+                "黎明门前的画家"
+            ],
+            "crew_members_count": 54,
+            "crew_name": "小怪兽",
+            "crew_name_history": [
+                "小怪兽"
+            ],
+            "server_region": "time-travel"
+        },
+        "8589949394": {
+            "crew_id": 8589949394,
+            "crew_members": [
+                "C佬",
+                "Donmay",
+                "poi",
+                "weixiaoMM",
+                "weixiaom",
+                "【飞起一脚】",
+                "三色喵猫猫猫",
+                "伊蕾娜",
+                "单面损时",
+                "囄歌",
+                "圆头耄耋",
+                "土豆炖鸡块",
+                "天下无敌的呆毛",
+                "安可",
+                "安珂",
+                "幻钰#a",
+                "庄方宜",
+                "捣乱的风信子",
+                "散落的时光",
+                "无情浪人",
+                "月影零氪子",
+                "木悠",
+                "李芷妍",
+                "榴火",
+                "流玥",
+                "狸击暴",
+                "甘織れな子",
+                "睦头丶",
+                "碧蓝公主",
+                "碧蓝天使",
+                "碧蓝女皇",
+                "碧蓝尼姑",
+                "碧蓝御主",
+                "碧蓝战将",
+                "碧蓝战浪",
+                "碧蓝探员",
+                "碧蓝水手",
+                "碧蓝牛郎",
+                "碧蓝船长",
+                "碧蓝道士",
+                "神的执法者",
+                "路星河，帅哥",
+                "遗忘的坐标",
+                "香奈美艾草"
+            ],
+            "crew_members_count": 44,
+            "crew_name": "镜花月影",
+            "crew_name_history": [
+                "镜花月影"
+            ],
+            "server_region": "time-travel"
+        },
+        "8589949395": {
+            "crew_id": 8589949395,
+            "crew_members": [
+                "Diki",
+                "Masiro",
+                "代2",
+                "光杆",
+                "兰云汐",
+                "加冰可乐",
+                "呵呵龙哥",
+                "奕剑无伤",
+                "小康米",
+                "尘梦",
+                "山吹丶乙女",
+                "摸摸鱼高手",
+                "时空-",
+                "水月之风",
+                "洛斯琳的吊带",
+                "熊猫侠",
+                "猫.",
+                "猫眠梦",
+                "电子雨",
+                "直插樱道",
+                "眠Suki",
+                "短笛魔王喵帕斯",
+                "祸云蓝",
+                "笛语梦旻",
+                "细数惭愧、",
+                "绮和",
+                "落吖",
+                "薄脆",
+                "薇尔莉特",
+                "镇魂萝安纳",
+                "阳光开朗大派蒙"
+            ],
+            "crew_members_count": 31,
+            "crew_name": "星期三",
+            "crew_name_history": [
+                "星期三"
+            ],
+            "server_region": "time-travel"
+        },
+        "90194328018": {
+            "crew_id": 90194328018,
+            "crew_members": [
+                "叫这个名字"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "樱花庄",
+            "crew_name_history": [
+                "樱花庄"
+            ],
+            "server_region": "time-travel"
+        },
+        "919123016146": {
+            "crew_id": 919123016146,
+            "crew_members": [
+                "Martian",
+                "SKHIL",
+                "SKPOR",
+                "SKZXC",
+                "STMNF",
+                "STRWZ",
+                "Tiamo陈",
+                "WJSFY",
+                "克赛克修克鲁斯",
+                "冬雨何寻",
+                "准备跃迁",
+                "器械科技",
+                "小昔涟",
+                "星之祈愿",
+                "莱可西丝",
+                "蒙古上单#a"
+            ],
+            "crew_members_count": 16,
+            "crew_name": "喵",
+            "crew_name_history": [
+                "喵"
+            ],
+            "server_region": "time-travel"
+        },
+        "923417983442": {
+            "crew_id": 923417983442,
+            "crew_members": [
+                "东风起"
+            ],
+            "crew_members_count": 1,
+            "crew_name": "蔚蓝档案",
+            "crew_name_history": [
+                "蔚蓝档案"
+            ],
+            "server_region": "time-travel"
+        },
+        "957777721811": {
+            "crew_id": 957777721811,
+            "crew_members": [
+                "67号楼",
+                "Raisen",
+                "回溯牛魔捏",
+                "无色十二月",
+                "达菲熊",
+                "麟2"
+            ],
+            "crew_members_count": 6,
+            "crew_name": "夏月千绘",
+            "crew_name_history": [
+                "夏月千绘"
+            ],
+            "server_region": "time-travel"
+        },
+        "98784262610": {
+            "crew_id": 98784262610,
+            "crew_members": [
+                "Chikii",
+                "ENEdiki",
+                "Genshin",
+                "JUN君",
+                "Minami",
+                "Ol咕噜咕噜lO",
+                "R#a",
+                "Tassadar",
+                "ch是狗",
+                "hnbyhh",
+                "iyu大北北",
+                "　AFF　",
+                "　灰狐　",
+                "　阿巴阿巴　",
+                "丶锄禾",
+                "乌鸦坐飞机q",
+                "云樱uya",
+                "仲野爱",
+                "伊冬",
+                "你超甜呀丶",
+                "依文洁琳AK",
+                "傻冲",
+                "兀免",
+                "兄弟变女便宜我",
+                "兔兔云兔兔",
+                "六系五五开",
+                "初梦vi",
+                "初音MIKU",
+                "刹那S清英",
+                "十里丶#a",
+                "千",
+                "南宫樱",
+                "卦者那啥子靈風",
+                "史前动物",
+                "喵帕斯彡",
+                "大声笑怎么了",
+                "大魔王梧桐",
+                "妖晗",
+                "孤月星霜",
+                "寒风酱",
+                "小不点小小花",
+                "小毅over",
+                "幻梦薇",
+                "恩赐型暖暖",
+                "悠悠然然",
+                "情飞",
+                "慕I岚",
+                "成双",
+                "抽查安可的绩点",
+                "救いの魔神丶梣",
+                "斩我青丝一线",
+                "断水流打师兄",
+                "新来的小登",
+                "新鲜的小灯",
+                "早雾早雾早雾",
+                "星空倒影#a",
+                "是不？",
+                "是云樱公主呀",
+                "晓玲可爱捏",
+                "朝仓美羽",
+                "未闻喵名",
+                "林间雀",
+                "梅樱",
+                "梓喵喵",
+                "樲棂",
+                "毒奶粉",
+                "没有借口",
+                "流年已逝",
+                "流鸢.",
+                "涛天巨浪大汤圆",
+                "涵桦",
+                "璃月千秋",
+                "甜到心里",
+                "白钰袖　",
+                "眠空",
+                "砚池凝墨",
+                "秋棠羽",
+                "篂米米",
+                "终结de炽天使",
+                "花冠光殺",
+                "落雨孤花",
+                "蝙蝠侠来抓我呀",
+                "西贝北",
+                "让我看看？",
+                "许风　",
+                "贞元芯猫",
+                "赤城之焰",
+                "重华牵缕丶",
+                "阿尔古拉托",
+                "雪喵喵",
+                "霓虹断点",
+                "露娜弗雷亚",
+                "飘落的雪",
+                "魔法少女猫泡泡",
+                "糖豆豆"
+            ],
+            "crew_members_count": 95,
+            "crew_name": "樱花荘",
+            "crew_name_history": [
+                "樱花荘"
+            ],
+            "server_region": "time-travel"
+        },
+        "996432427474": {
+            "crew_id": 996432427474,
+            "crew_members": [
+                "zekin",
+                "共饮半世风霜",
+                "小爱三条",
+                "幻想重重",
+                "拉拉hh",
+                "无孓",
+                "星星的心呀",
+                "星鱼云",
+                "未花大公主",
+                "来自蛮荒丶",
+                "沐宝#a#a",
+                "知中行發财",
+                "知鹤唳云深",
+                "腰间膨胀",
+                "蜜诺娃",
+                "雅尔塔"
+            ],
+            "crew_members_count": 16,
+            "crew_name": "幻策司梦阁",
+            "crew_name_history": [
+                "幻策司梦阁"
+            ],
+            "server_region": "time-travel"
+        }
+    },
+    "crews_total": 83,
+    "last_updated": "2026年4月22日 下午11:43:58",
+    "server_region": "time-travel"
+}

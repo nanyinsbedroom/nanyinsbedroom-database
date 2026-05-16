@@ -1,0 +1,2883 @@
+{
+    "accounts": {
+        "8607118756151446": {
+            "crew_history": [
+                "异环"
+            ],
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "2_2_0_74",
+            "gender": 1,
+            "hp": 865005.4375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54065.34765625,
+                "y": -87746.078125,
+                "z": 21724.830078125
+            },
+            "last_seen": "Mar 17, 2026, 6:02:40 PM",
+            "level": 100,
+            "name": "Mefmera",
+            "name_history": [
+                "Mefmera"
+            ],
+            "registered": "Aug 8, 2023, 9:08:21 AM",
+            "role_id": 8607118756151446,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756151577": {
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1479345.75,
+            "last_seen": "Nov 01, 2025, 09:49:35 PM",
+            "level": 100,
+            "name": "茶壺",
+            "name_history": [
+                "茶壺"
+            ],
+            "registered": "Aug 8, 2023, 10:09:05 AM",
+            "role_id": 8607118756151577,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756151590": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1740121.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55207.41015625,
+                "y": -87222.3046875,
+                "z": 21725.009765625
+            },
+            "last_seen": "Mar 12, 2026, 4:02:08 PM",
+            "level": 100,
+            "name": " 魔女玲",
+            "name_history": [
+                " 魔女玲"
+            ],
+            "registered": "Aug 8, 2023, 10:14:10 AM",
+            "role_id": 8607118756151590,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756152194": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "3_2023",
+            "gender": 1,
+            "hp": 1706555.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55644.69921875,
+                "y": -87143.0,
+                "z": 21710.98046875
+            },
+            "last_seen": "Mar 17, 2026, 6:23:41 PM",
+            "level": 100,
+            "name": "Hiosa",
+            "name_history": [
+                "Hiosa"
+            ],
+            "registered": "Aug 8, 2023, 12:25:19 PM",
+            "role_id": 8607118756152194,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756153146": {
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "2_10_1_4",
+            "gender": 1,
+            "hp": 1280426.625,
+            "last_seen": "Oct 31, 2025, 06:17:49 PM",
+            "level": 100,
+            "name": "微瑕",
+            "registered": "Aug 8, 2023, 3:21:00 PM",
+            "role_id": 8607118756153146,
+            "server_region": "southeast_asia"
+        },
+        "8607118756153588": {
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "2_10_1_5",
+            "gender": 1,
+            "hp": 2342163.5,
+            "last_seen": "Nov 05, 2025, 07:39:46 PM",
+            "level": 100,
+            "name": "骨头形状的花花",
+            "name_history": [
+                "骨头形状的花花"
+            ],
+            "registered": "Aug 8, 2023, 4:41:35 PM",
+            "role_id": 8607118756153588,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756153657": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1341925.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55709.9375,
+                "y": -88361.0,
+                "z": 21819.98828125
+            },
+            "last_seen": "Mar 12, 2026, 4:04:08 PM",
+            "level": 100,
+            "name": "兰月",
+            "name_history": [
+                "兰月"
+            ],
+            "registered": "Aug 8, 2023, 4:58:40 PM",
+            "role_id": 8607118756153657,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756153942": {
+            "crew_history": [
+                "RxPH"
+            ],
+            "crew_id": 107376186401,
+            "crew_name": "RxPH",
+            "equipping_title": "2_10_1_4",
+            "gender": 0,
+            "hp": 193886.859375,
+            "last_known_position": {
+                "map": "JMHZ_FK",
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "last_seen": "Apr 17, 2026, 8:53:50 PM",
+            "level": 100,
+            "name": "Lakbayero",
+            "name_history": [
+                "Lakbayero"
+            ],
+            "registered": "Aug 8, 2023, 5:52:27 PM",
+            "role_id": 8607118756153942,
+            "server_region": "southeast-asia"
+        },
+        "8607118756156299": {
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "2_2_0_23",
+            "gender": 0,
+            "hp": 2339746.75,
+            "last_seen": "Nov 05, 2025, 07:41:46 PM",
+            "level": 100,
+            "name": "葡萄美酒月光杯",
+            "name_history": [
+                "葡萄美酒月光杯"
+            ],
+            "registered": "Aug 8, 2023, 10:43:17 PM",
+            "role_id": 8607118756156299,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756156597": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "1_8_1_1",
+            "gender": 0,
+            "hp": 1718155.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21721.048828125
+            },
+            "last_seen": "Mar 14, 2026, 4:14:24 PM",
+            "level": 100,
+            "name": "紫澪月",
+            "name_history": [
+                "紫澪月"
+            ],
+            "registered": "Aug 8, 2023, 11:17:49 PM",
+            "role_id": 8607118756156597,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756156609": {
+            "crew_history": [
+                "异环"
+            ],
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "1_2023",
+            "gender": 1,
+            "hp": 2523892.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54177.25,
+                "y": -87880.9453125,
+                "z": 21710.990234375
+            },
+            "last_seen": "Mar 17, 2026, 10:07:04 PM",
+            "level": 100,
+            "name": "BlackStar",
+            "name_history": [
+                "BlackStar"
+            ],
+            "registered": "Aug 8, 2023, 11:19:52 PM",
+            "role_id": 8607118756156609,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756156695": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "2_2_0_28",
+            "gender": 1,
+            "hp": 2783636.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55331.328125,
+                "y": -88373.8203125,
+                "z": 21723.87890625
+            },
+            "last_seen": "Mar 17, 2026, 10:07:04 PM",
+            "level": 100,
+            "name": "Lanny",
+            "name_history": [
+                "Lanny"
+            ],
+            "registered": "Aug 8, 2023, 11:29:07 PM",
+            "role_id": 8607118756156695,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756157620": {
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "3_2023",
+            "gender": 1,
+            "hp": 2447869.25,
+            "last_seen": "Oct 30, 2025, 05:55:26 PM",
+            "level": 100,
+            "name": "紫纹",
+            "registered": "Aug 9, 2023, 3:25:41 AM",
+            "role_id": 8607118756157620,
+            "server_region": "southeast_asia"
+        },
+        "8607118756157771": {
+            "crew_history": [
+                "◥◣猛獸喵喵屋◢◤"
+            ],
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "2_3_0_2",
+            "gender": 1,
+            "hp": 1844748.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55377.51953125,
+                "y": -88501.859375,
+                "z": 21717.400390625
+            },
+            "last_seen": "Apr 2, 2026, 6:16:51 PM",
+            "level": 100,
+            "name": "CutiePie Ashley",
+            "name_history": [
+                "CutiePie Ashley"
+            ],
+            "registered": "Aug 9, 2023, 5:15:38 AM",
+            "role_id": 8607118756157771,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756157935": {
+            "crew_id": 382254093345,
+            "crew_name": "ONLINE",
+            "equipping_title": "Overseas2_7",
+            "gender": 1,
+            "hp": 1344257.625,
+            "last_seen": "Nov 22, 2025, 01:03:09 PM",
+            "level": 100,
+            "name": "Ashe",
+            "name_history": [
+                "Ashe"
+            ],
+            "registered": "Aug 9, 2023, 7:44:28 AM",
+            "role_id": 8607118756157935,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756158304": {
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "2_2_0_24",
+            "gender": 1,
+            "hp": 2168938.5,
+            "last_seen": "Nov 05, 2025, 07:40:46 PM",
+            "level": 100,
+            "name": "王慕婷",
+            "name_history": [
+                "王慕婷"
+            ],
+            "registered": "Aug 9, 2023, 10:51:37 AM",
+            "role_id": 8607118756158304,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756159084": {
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "2_10_1_2",
+            "gender": 1,
+            "hp": 2460350.75,
+            "last_seen": "Nov 18, 2025, 11:04:32 AM",
+            "level": 100,
+            "name": "Edonna",
+            "name_history": [
+                "Edonna"
+            ],
+            "registered": "Aug 9, 2023, 3:27:08 PM",
+            "role_id": 8607118756159084,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756159260": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 0,
+            "last_seen": "Sep 23, 2025, 05:30:08 PM",
+            "name": "Solaire",
+            "registered": "Aug 9, 2023, 4:13:47 PM",
+            "role_id": 8607118756159260,
+            "server_region": "southeast_asia"
+        },
+        "8607118756159617": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "Title_tencentshare_os_21",
+            "gender": 0,
+            "hp": 1572354.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54175.46875,
+                "y": -87661.5,
+                "z": 21740.259765625
+            },
+            "last_seen": "Mar 12, 2026, 12:09:51 PM",
+            "level": 100,
+            "name": "爱娜",
+            "name_history": [
+                "爱娜"
+            ],
+            "registered": "Aug 9, 2023, 5:44:10 PM",
+            "role_id": 8607118756159617,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756159849": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 1,
+            "last_seen": "Sep 30, 2025, 06:20:15 PM",
+            "name": "小烏龜",
+            "registered": "Aug 9, 2023, 6:35:19 PM",
+            "role_id": 8607118756159849,
+            "server_region": "southeast_asia"
+        },
+        "8607118756159901": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "2_2_0_23",
+            "gender": 0,
+            "hp": 1744705.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55213.46875,
+                "y": -87088.6171875,
+                "z": 21723.87890625
+            },
+            "last_seen": "Mar 14, 2026, 4:15:24 PM",
+            "level": 100,
+            "name": "　　　　　",
+            "name_history": [
+                "　　　　　"
+            ],
+            "registered": "Aug 9, 2023, 6:43:48 PM",
+            "role_id": 8607118756159901,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756159978": {
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "3_2023",
+            "gender": 0,
+            "hp": 2353701.25,
+            "last_seen": "Nov 03, 2025, 09:31:50 PM",
+            "level": 100,
+            "name": "菲菲",
+            "name_history": [
+                "菲菲"
+            ],
+            "registered": "Aug 9, 2023, 6:58:18 PM",
+            "role_id": 8607118756159978,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756160421": {
+            "crew_history": [
+                "ONLINE"
+            ],
+            "crew_id": 382254093345,
+            "crew_name": "ONLINE",
+            "equipping_title": "2_2_0_37",
+            "gender": 1,
+            "hp": 2301307.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55542.33984375,
+                "y": -88789.71875,
+                "z": 21717.46875
+            },
+            "last_seen": "Mar 12, 2026, 8:08:06 PM",
+            "level": 100,
+            "name": "彩月",
+            "name_history": [
+                "彩月"
+            ],
+            "registered": "Aug 9, 2023, 8:26:29 PM",
+            "role_id": 8607118756160421,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756160552": {
+            "crew_history": [
+                "Unit69"
+            ],
+            "crew_id": 73016448033,
+            "crew_name": "Unit69",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1208405.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -58751.41015625,
+                "y": -79154.15625,
+                "z": 22144.501953125
+            },
+            "last_seen": "Mar 15, 2026, 12:08:31 PM",
+            "level": 100,
+            "name": "Wiely",
+            "name_history": [
+                "Wiely"
+            ],
+            "registered": "Aug 9, 2023, 8:43:24 PM",
+            "role_id": 8607118756160552,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756162922": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 1667359.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54204.078125,
+                "y": -87532.5859375,
+                "z": 21734.30859375
+            },
+            "last_seen": "Mar 12, 2026, 12:11:51 PM",
+            "level": 100,
+            "name": "水水ss",
+            "name_history": [
+                "水水ss"
+            ],
+            "registered": "Aug 10, 2023, 11:17:38 AM",
+            "role_id": 8607118756162922,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756163434": {
+            "crew_history": [
+                "提瓦特冒险团"
+            ],
+            "crew_id": 12886905889,
+            "crew_name": "提瓦特冒险团",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 1541730.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56959.26953125,
+                "y": -86090.890625,
+                "z": 21724.990234375
+            },
+            "last_seen": "Mar 12, 2026, 4:02:08 PM",
+            "level": 100,
+            "name": "秋　凪紗",
+            "name_history": [
+                "秋　凪紗"
+            ],
+            "registered": "Aug 10, 2023, 2:42:30 PM",
+            "role_id": 8607118756163434,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756164424": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 1,
+            "last_seen": "Sep 28, 2025, 05:37:09 PM",
+            "name": "Mighty @ D",
+            "registered": "Aug 10, 2023, 8:03:38 PM",
+            "role_id": 8607118756164424,
+            "server_region": "southeast_asia"
+        },
+        "8607118756164840": {
+            "crew_history": [
+                "异环"
+            ],
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "1_8_0_12",
+            "gender": 1,
+            "hp": 2706176.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54892.296875,
+                "y": -87092.4765625,
+                "z": 21716.87890625
+            },
+            "last_seen": "Mar 24, 2026, 6:20:13 PM",
+            "level": 100,
+            "name": "小猪菜",
+            "name_history": [
+                "小猪菜"
+            ],
+            "registered": "Aug 10, 2023, 9:23:50 PM",
+            "role_id": 8607118756164840,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756166176": {
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "1_4_3_26",
+            "gender": 1,
+            "hp": 2351151.5,
+            "last_seen": "Nov 05, 2025, 07:40:46 PM",
+            "level": 100,
+            "name": "蒼夜",
+            "name_history": [
+                "蒼夜"
+            ],
+            "registered": "Aug 11, 2023, 6:18:59 AM",
+            "role_id": 8607118756166176,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756169831": {
+            "crew_id": 833225659425,
+            "crew_name": "未加入公會",
+            "equipping_title": "1_8_0_9",
+            "gender": 1,
+            "hp": 2841753.25,
+            "last_seen": "Oct 30, 2025, 06:03:27 PM",
+            "level": 100,
+            "name": "貝絲",
+            "registered": "Aug 12, 2023, 8:17:25 AM",
+            "role_id": 8607118756169831,
+            "server_region": "southeast_asia"
+        },
+        "8607118756170809": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 1,
+            "last_seen": "Sep 28, 2025, 08:09:00 PM",
+            "name": "darksun",
+            "registered": "Aug 12, 2023, 2:13:56 PM",
+            "role_id": 8607118756170809,
+            "server_region": "southeast_asia"
+        },
+        "8607118756171392": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 1549148.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54909.33203125,
+                "y": -86935.71875,
+                "z": 21822.998046875
+            },
+            "last_seen": "Mar 17, 2026, 6:03:40 PM",
+            "level": 100,
+            "name": "Infini",
+            "name_history": [
+                "Infini"
+            ],
+            "registered": "Aug 12, 2023, 4:55:01 PM",
+            "role_id": 8607118756171392,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756171406": {
+            "crew_history": [
+                "异环"
+            ],
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "貝絲的后继者,1",
+            "gender": 1,
+            "hp": 2518449.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53816.05859375,
+                "y": -87884.8359375,
+                "z": 21722.87890625
+            },
+            "last_seen": "Mar 12, 2026, 4:09:09 PM",
+            "level": 100,
+            "name": "soulm",
+            "name_history": [
+                "soulm"
+            ],
+            "registered": "Aug 12, 2023, 4:59:10 PM",
+            "role_id": 8607118756171406,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756172777": {
+            "crew_history": [
+                "异环"
+            ],
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "2_2_0_48",
+            "gender": 1,
+            "hp": 3052323.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325069.9375,
+                "y": 198390.203125,
+                "z": -28308.349609375
+            },
+            "last_seen": "Mar 11, 2026, 11:58:17 AM",
+            "level": 100,
+            "name": "Saki Rukino",
+            "name_history": [
+                "Saki Rukino"
+            ],
+            "registered": "Aug 12, 2023, 11:27:36 PM",
+            "role_id": 8607118756172777,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756173353": {
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "1_1_30_1",
+            "gender": 0,
+            "hp": 2879998.75,
+            "last_seen": "Oct 31, 2025, 06:13:48 PM",
+            "level": 100,
+            "name": "孤挺花",
+            "registered": "Aug 13, 2023, 6:32:42 AM",
+            "role_id": 8607118756173353,
+            "server_region": "southeast_asia"
+        },
+        "8607118756173737": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 1626859.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54126.70703125,
+                "y": -87969.4765625,
+                "z": 21721.048828125
+            },
+            "last_seen": "Mar 11, 2026, 12:02:17 PM",
+            "level": 100,
+            "name": "Arabia",
+            "name_history": [
+                "Arabia"
+            ],
+            "registered": "Aug 13, 2023, 10:55:27 AM",
+            "role_id": 8607118756173737,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756173905": {
+            "crew_history": [
+                "◥◣猛獸喵喵屋◢◤"
+            ],
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "3_2023",
+            "gender": 1,
+            "hp": 2017759.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55123.76953125,
+                "y": -87070.3046875,
+                "z": 21721.888671875
+            },
+            "last_seen": "Mar 18, 2026, 6:11:53 PM",
+            "level": 100,
+            "name": "　YuoKan",
+            "name_history": [
+                "　YuoKan"
+            ],
+            "registered": "Aug 13, 2023, 11:50:08 AM",
+            "role_id": 8607118756173905,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756175372": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_8_1_1",
+            "gender": 1,
+            "hp": 2000322.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -280271.03125,
+                "y": 175070.78125,
+                "z": -31569.103515625
+            },
+            "last_seen": "Mar 31, 2026, 10:17:02 PM",
+            "level": 100,
+            "name": "Konverse",
+            "name_history": [
+                "Konverse"
+            ],
+            "registered": "Aug 13, 2023, 8:13:42 PM",
+            "role_id": 8607118756175372,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756175582": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "2_2_0_78",
+            "gender": 1,
+            "hp": 2128213.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54959.453125,
+                "y": -87211.015625,
+                "z": 21720.962890625
+            },
+            "last_seen": "Mar 12, 2026, 6:24:55 PM",
+            "level": 100,
+            "name": "女女",
+            "name_history": [
+                "女女"
+            ],
+            "registered": "Aug 13, 2023, 9:13:21 PM",
+            "role_id": 8607118756175582,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756178636": {
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "1_8_0_28",
+            "gender": 1,
+            "hp": 1925761.75,
+            "last_seen": "Oct 30, 2025, 05:48:25 PM",
+            "level": 100,
+            "name": "愛月",
+            "registered": "Aug 15, 2023, 4:13:18 AM",
+            "role_id": 8607118756178636,
+            "server_region": "southeast_asia"
+        },
+        "8607118756179144": {
+            "crew_history": [
+                "彩色小屋"
+            ],
+            "crew_id": 498218210337,
+            "crew_name": "彩色小屋",
+            "equipping_title": "1_9_0_1",
+            "gender": 1,
+            "hp": 1869395.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55228.19921875,
+                "y": -88537.15625,
+                "z": 21721.048828125
+            },
+            "last_seen": "Mar 15, 2026, 12:05:31 PM",
+            "level": 100,
+            "name": "Apple me mox4",
+            "name_history": [
+                "Apple me mox4"
+            ],
+            "registered": "Aug 15, 2023, 2:27:57 PM",
+            "role_id": 8607118756179144,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756179853": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_8_1_1",
+            "gender": 0,
+            "hp": 1953898.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55490.09765625,
+                "y": -88462.6953125,
+                "z": 21725.91015625
+            },
+            "last_seen": "Mar 15, 2026, 11:58:31 AM",
+            "level": 100,
+            "name": "akipogi",
+            "name_history": [
+                "akipogi"
+            ],
+            "registered": "Aug 15, 2023, 9:05:29 PM",
+            "role_id": 8607118756179853,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756180474": {
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "天壤の戀ロリ神レクイエム的后继者,1",
+            "gender": 1,
+            "hp": 2386031.25,
+            "last_seen": "Nov 05, 2025, 07:39:46 PM",
+            "level": 100,
+            "name": "啊尔托利雅",
+            "name_history": [
+                "啊尔托利雅"
+            ],
+            "registered": "Aug 16, 2023, 3:14:21 AM",
+            "role_id": 8607118756180474,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756180701": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "2_2_0_46",
+            "gender": 1,
+            "hp": 2364554.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54110.3984375,
+                "y": -92180.796875,
+                "z": 21739.119140625
+            },
+            "last_seen": "Mar 12, 2026, 4:24:09 PM",
+            "level": 100,
+            "name": "小天",
+            "name_history": [
+                "小天"
+            ],
+            "registered": "Aug 16, 2023, 10:51:06 AM",
+            "role_id": 8607118756180701,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756181841": {
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2620562.5,
+            "last_seen": "Oct 31, 2025, 06:17:49 PM",
+            "level": 100,
+            "name": "夜羽野奈",
+            "registered": "Aug 16, 2023, 11:57:52 PM",
+            "role_id": 8607118756181841,
+            "server_region": "southeast_asia"
+        },
+        "8607118756183925": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "1_8_1_1",
+            "gender": 1,
+            "hp": 375295.34375,
+            "last_known_position": {
+                "map": "city",
+                "x": 106.57999420166016,
+                "y": -21568.0703125,
+                "z": 96737.859375
+            },
+            "last_seen": "Feb 14, 2026, 6:31:33 PM",
+            "level": 66,
+            "name": "Jonhnny Rico",
+            "name_history": [
+                "Jonhnny Rico"
+            ],
+            "registered": "Aug 18, 2023, 4:13:20 PM",
+            "role_id": 8607118756183925,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756184272": {
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "×♣×-ZERO-×♣×的导师,0",
+            "gender": 1,
+            "hp": 2864131.25,
+            "last_seen": "Oct 30, 2025, 09:12:11 PM",
+            "level": 100,
+            "name": "惢惢",
+            "registered": "Aug 18, 2023, 8:52:19 PM",
+            "role_id": 8607118756184272,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756187077": {
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "Title_tencentshare_os_21",
+            "gender": 0,
+            "hp": 1993914.0,
+            "last_seen": "Nov 01, 2025, 03:21:32 PM",
+            "level": 100,
+            "name": "แจ้ส วงพรู",
+            "registered": "Aug 20, 2023, 6:10:03 PM",
+            "role_id": 8607118756187077,
+            "server_region": "southeast_asia"
+        },
+        "8607118756187160": {
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "3_2023",
+            "gender": 1,
+            "hp": 1927335.0,
+            "last_seen": "Nov 03, 2025, 09:33:50 PM",
+            "level": 100,
+            "name": "Fisher1963",
+            "name_history": [
+                "Fisher1963"
+            ],
+            "registered": "Aug 20, 2023, 7:22:25 PM",
+            "role_id": 8607118756187160,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756189031": {
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "2_2_0_28",
+            "gender": 1,
+            "hp": 2572073.5,
+            "last_seen": "Nov 03, 2025, 09:33:50 PM",
+            "level": 100,
+            "name": "静静不吃饭",
+            "name_history": [
+                "静静不吃饭"
+            ],
+            "registered": "Aug 22, 2023, 11:09:20 PM",
+            "role_id": 8607118756189031,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756197050": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 1,
+            "last_seen": "Sep 30, 2025, 06:37:25 PM",
+            "name": "Slipper",
+            "registered": "Sep 1, 2023, 11:39:59 PM",
+            "role_id": 8607118756197050,
+            "server_region": "southeast_asia"
+        },
+        "8607118756198553": {
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "2_12_1_1",
+            "gender": 1,
+            "hp": 2767904.75,
+            "last_seen": "Nov 05, 2025, 07:45:47 PM",
+            "level": 100,
+            "name": "天娜",
+            "name_history": [
+                "天娜"
+            ],
+            "registered": "Sep 3, 2023, 5:12:35 PM",
+            "role_id": 8607118756198553,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756198752": {
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "1_6_3_1",
+            "gender": 1,
+            "hp": 2174890.75,
+            "last_seen": "Oct 30, 2025, 05:51:25 PM",
+            "level": 100,
+            "name": "Rei.",
+            "registered": "Sep 3, 2023, 9:19:44 PM",
+            "role_id": 8607118756198752,
+            "server_region": "southeast_asia"
+        },
+        "8607118756199100": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_8_1_1",
+            "gender": 1,
+            "hp": 730792.4375,
+            "last_seen": "Nov 18, 2025, 10:22:48 AM",
+            "level": 58,
+            "name": "줄리앙스",
+            "name_history": [
+                "줄리앙스"
+            ],
+            "registered": "Sep 4, 2023, 2:28:16 PM",
+            "role_id": 8607118756199100,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756199339": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "2_2_0_45",
+            "gender": 1,
+            "hp": 1937979.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54720.95703125,
+                "y": -87075.046875,
+                "z": 21710.888671875
+            },
+            "last_seen": "Mar 17, 2026, 6:01:40 PM",
+            "level": 100,
+            "name": "サクララ",
+            "name_history": [
+                "サクララ"
+            ],
+            "registered": "Sep 4, 2023, 9:38:10 PM",
+            "role_id": 8607118756199339,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756204664": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "2_8_0_9",
+            "gender": 1,
+            "hp": 2283690.5,
+            "last_known_position": {
+                "map": "JMHZ_FK",
+                "x": 26574.208984375,
+                "y": -42565.9609375,
+                "z": 10344.3427734375
+            },
+            "last_seen": "Apr 16, 2026, 9:12:18 PM",
+            "level": 100,
+            "name": "天猫子",
+            "name_history": [
+                "天猫子"
+            ],
+            "registered": "Sep 18, 2023, 6:15:29 AM",
+            "role_id": 8607118756204664,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756205513": {
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "Title_PlayStation34_os17",
+            "gender": 0,
+            "hp": 2015537.625,
+            "last_seen": "Nov 22, 2025, 01:31:11 PM",
+            "level": 100,
+            "name": "皇太一",
+            "name_history": [
+                "皇太一"
+            ],
+            "registered": "Sep 21, 2023, 10:44:24 PM",
+            "role_id": 8607118756205513,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756206189": {
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1437878.75,
+            "last_seen": "Nov 05, 2025, 07:40:46 PM",
+            "level": 100,
+            "name": "Luke_Wong",
+            "name_history": [
+                "Luke_Wong"
+            ],
+            "registered": "Sep 24, 2023, 8:25:26 AM",
+            "role_id": 8607118756206189,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756208485": {
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "1_1_10_2",
+            "gender": 1,
+            "hp": 1310879.875,
+            "last_seen": "Nov 03, 2025, 09:25:49 PM",
+            "level": 100,
+            "name": "白鸾",
+            "name_history": [
+                "白鸾"
+            ],
+            "registered": "Oct 2, 2023, 11:12:32 PM",
+            "role_id": 8607118756208485,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756212878": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "1_6_0_1",
+            "gender": 1,
+            "hp": 1492573.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55233.09765625,
+                "y": -88657.5078125,
+                "z": 21734.94921875
+            },
+            "last_seen": "Mar 14, 2026, 6:12:55 PM",
+            "level": 100,
+            "name": "游汐夏夜",
+            "name_history": [
+                "游汐夏夜"
+            ],
+            "registered": "Oct 26, 2023, 6:13:38 PM",
+            "role_id": 8607118756212878,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756213406": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 1,
+            "last_seen": "Sep 28, 2025, 08:09:00 PM",
+            "name": "chihuo",
+            "registered": "Oct 29, 2023, 2:47:32 PM",
+            "role_id": 8607118756213406,
+            "server_region": "southeast_asia"
+        },
+        "8607118756219545": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "Title_PlayStation34_os17",
+            "gender": 1,
+            "hp": 2129766.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54093.3671875,
+                "y": -88061.5078125,
+                "z": 21723.94921875
+            },
+            "last_seen": "Mar 12, 2026, 8:08:06 PM",
+            "level": 100,
+            "name": "萌QQ",
+            "name_history": [
+                "萌QQ"
+            ],
+            "registered": "Dec 7, 2023, 2:15:11 PM",
+            "role_id": 8607118756219545,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756220712": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 1,
+            "last_seen": "Sep 26, 2025, 06:02:17 PM",
+            "name": "鏡魅羅",
+            "registered": "Dec 14, 2023, 8:44:46 PM",
+            "role_id": 8607118756220712,
+            "server_region": "southeast_asia"
+        },
+        "8607118756221275": {
+            "crew_history": [
+                "异环"
+            ],
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "1_1_3_1",
+            "gender": 1,
+            "hp": 1840074.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55060.08984375,
+                "y": -87587.3359375,
+                "z": 21725.919921875
+            },
+            "last_seen": "Mar 17, 2026, 10:07:04 PM",
+            "level": 100,
+            "name": "JaVaBoXZzz",
+            "name_history": [
+                "JaVaBoXZzz"
+            ],
+            "registered": "Dec 17, 2023, 1:23:49 AM",
+            "role_id": 8607118756221275,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756227477": {
+            "crew_history": [
+                "◥◣猛獸喵喵屋◢◤"
+            ],
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "惢惢's Successor,1",
+            "gender": 1,
+            "hp": 6317551.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 98995.2109375,
+                "y": -189489.734375,
+                "z": -7884.955078125
+            },
+            "last_seen": "Apr 19, 2026, 7:05:35 PM",
+            "level": 100,
+            "name": "酒魔",
+            "name_history": [
+                "酒魔"
+            ],
+            "registered": "Jan 29, 2024, 9:06:25 PM",
+            "role_id": 8607118756227477,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756230589": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 0,
+            "last_seen": "Sep 26, 2025, 06:17:18 PM",
+            "name": "×♣×-ZERO-×♣×",
+            "registered": "Feb 22, 2024, 1:40:47 AM",
+            "role_id": 8607118756230589,
+            "server_region": "southeast_asia"
+        },
+        "8607118756231199": {
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 1377716.125,
+            "last_seen": "Nov 18, 2025, 11:01:32 AM",
+            "level": 100,
+            "name": "雪狐",
+            "name_history": [
+                "雪狐"
+            ],
+            "registered": "Feb 26, 2024, 1:33:17 PM",
+            "role_id": 8607118756231199,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756232462": {
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 14686.91796875,
+            "last_seen": "Feb 6, 2026, 4:58:02 PM",
+            "level": 31,
+            "name": "米亚帝",
+            "name_history": [
+                "米亚帝"
+            ],
+            "registered": "Mar 8, 2024, 7:48:53 PM",
+            "role_id": 8607118756232462,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756232759": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 1,
+            "last_seen": "Sep 23, 2025, 06:15:39 PM",
+            "name": "Scarlet wolf",
+            "registered": "Mar 10, 2024, 5:49:54 PM",
+            "role_id": 8607118756232759,
+            "server_region": "southeast_asia"
+        },
+        "8607118756233908": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "2_10_1_1",
+            "gender": 1,
+            "hp": 2207455.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55080.1015625,
+                "y": -86950.9765625,
+                "z": 21838.970703125
+            },
+            "last_seen": "Mar 15, 2026, 12:04:31 PM",
+            "level": 100,
+            "name": "ㄘㄙㄙㄩ",
+            "name_history": [
+                "ㄘㄙㄙㄩ"
+            ],
+            "registered": "Mar 15, 2024, 12:13:22 PM",
+            "role_id": 8607118756233908,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756238836": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "2_2_0_38",
+            "gender": 1,
+            "hp": 1950774.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -60219.3203125,
+                "y": 106703.3359375,
+                "z": -12899.6494140625
+            },
+            "last_seen": "Mar 31, 2026, 10:14:02 PM",
+            "level": 100,
+            "name": "天宮　小百合",
+            "name_history": [
+                "天宮　小百合"
+            ],
+            "registered": "Apr 1, 2024, 6:28:45 AM",
+            "role_id": 8607118756238836,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756242974": {
+            "crew_id": 575527621665,
+            "crew_name": "(*・ω・)",
+            "equipping_title": "1_6_2_1",
+            "gender": 1,
+            "hp": 2047662.375,
+            "last_seen": "Oct 30, 2025, 05:48:25 PM",
+            "level": 100,
+            "name": "Carlin",
+            "registered": "Apr 19, 2024, 12:53:15 PM",
+            "role_id": 8607118756242974,
+            "server_region": "southeast_asia"
+        },
+        "8607118756244552": {
+            "crew_history": [
+                "异环"
+            ],
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "1_8_0_36",
+            "gender": 1,
+            "hp": 2695290.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54007.640625,
+                "y": -91928.46875,
+                "z": 21843.599609375
+            },
+            "last_seen": "Mar 14, 2026, 6:10:55 PM",
+            "level": 100,
+            "name": "幻影＊天使",
+            "name_history": [
+                "幻影＊天使"
+            ],
+            "registered": "Apr 29, 2024, 5:34:05 PM",
+            "role_id": 8607118756244552,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756247140": {
+            "crew_history": [
+                "异环"
+            ],
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "2_2_0_29",
+            "gender": 0,
+            "hp": 2399723.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54828.6875,
+                "y": -87740.7578125,
+                "z": 21666.513671875
+            },
+            "last_seen": "Mar 12, 2026, 12:01:51 PM",
+            "level": 100,
+            "name": "咩塔",
+            "name_history": [
+                "咩塔"
+            ],
+            "registered": "May 13, 2024, 1:58:01 PM",
+            "role_id": 8607118756247140,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756249480": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_4_3_30",
+            "gender": 1,
+            "hp": 1714685.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54806.52734375,
+                "y": -86867.875,
+                "z": 21717.37890625
+            },
+            "last_seen": "Mar 14, 2026, 12:07:50 PM",
+            "level": 100,
+            "name": "暮羽",
+            "name_history": [
+                "暮羽"
+            ],
+            "registered": "May 25, 2024, 9:06:20 AM",
+            "role_id": 8607118756249480,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756252269": {
+            "crew_history": [
+                "异环"
+            ],
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "2_2_0_37",
+            "gender": 0,
+            "hp": 2036221.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55277.796875,
+                "y": -88849.5,
+                "z": 21737.369140625
+            },
+            "last_seen": "Mar 15, 2026, 12:05:31 PM",
+            "level": 100,
+            "name": "luckyme",
+            "name_history": [
+                "luckyme"
+            ],
+            "registered": "Jun 9, 2024, 7:13:36 PM",
+            "role_id": 8607118756252269,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756254992": {
+            "crew_history": [
+                "◥◣猛獸喵喵屋◢◤"
+            ],
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "1_8_0_36",
+            "gender": 1,
+            "hp": 2835588.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21717.548828125
+            },
+            "last_seen": "Mar 15, 2026, 2:08:47 PM",
+            "level": 100,
+            "name": "Lulu2ycrc3",
+            "name_history": [
+                "Lulu2ycrc3"
+            ],
+            "registered": "Jul 8, 2024, 3:55:41 AM",
+            "role_id": 8607118756254992,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756256050": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "1_4_9_6",
+            "gender": 1,
+            "hp": 1963909.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.453125,
+                "y": -88115.4765625,
+                "z": 21725.0390625
+            },
+            "last_seen": "Mar 17, 2026, 10:22:05 PM",
+            "level": 100,
+            "name": "阿丽雅",
+            "name_history": [
+                "阿丽雅"
+            ],
+            "registered": "Jul 21, 2024, 5:13:54 AM",
+            "role_id": 8607118756256050,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756256089": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "2_2_0_88",
+            "gender": 1,
+            "hp": 1456819.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54642.9375,
+                "y": -87459.640625,
+                "z": 21717.388671875
+            },
+            "last_seen": "Mar 14, 2026, 4:02:23 PM",
+            "level": 100,
+            "name": "香蒲",
+            "name_history": [
+                "香蒲"
+            ],
+            "registered": "Jul 21, 2024, 4:01:50 PM",
+            "role_id": 8607118756256089,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756256728": {
+            "crew_history": [
+                "异环"
+            ],
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "2_10_0_2",
+            "gender": 1,
+            "hp": 2108911.5,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 14413.9794921875,
+                "y": 12182.359375,
+                "z": 12777.6298828125
+            },
+            "last_seen": "Mar 28, 2026, 1:52:19 AM",
+            "level": 100,
+            "name": "彩莺",
+            "name_history": [
+                "彩莺"
+            ],
+            "registered": "Jul 26, 2024, 10:02:56 PM",
+            "role_id": 8607118756256728,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756257332": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_27_1",
+            "gender": 0,
+            "hp": 1529703.75,
+            "last_seen": "Nov 22, 2025, 01:09:10 PM",
+            "level": 100,
+            "name": "Павлик СЕКС",
+            "name_history": [
+                "Павлик СЕКС"
+            ],
+            "registered": "Aug 1, 2024, 3:20:06 AM",
+            "role_id": 8607118756257332,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756259303": {
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "gender": 0,
+            "last_seen": "Oct 05, 2025, 10:22:39 PM",
+            "name": "PG-13",
+            "registered": "Aug 19, 2024, 1:45:28 AM",
+            "role_id": 8607118756259303,
+            "server_region": "southeast_asia"
+        },
+        "8607118756261595": {
+            "crew_history": [
+                "异环"
+            ],
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "Title_tencentshare_os_21",
+            "gender": 1,
+            "hp": 2294529.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55262.91015625,
+                "y": -87195.8671875,
+                "z": 21723.94921875
+            },
+            "last_seen": "Apr 2, 2026, 6:21:51 PM",
+            "level": 100,
+            "name": "Judah",
+            "name_history": [
+                "Judah"
+            ],
+            "registered": "Sep 21, 2024, 9:40:54 PM",
+            "role_id": 8607118756261595,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756262438": {
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1845841.5,
+            "last_seen": "Oct 30, 2025, 05:55:26 PM",
+            "level": 100,
+            "name": "風采鈴",
+            "registered": "Oct 5, 2024, 7:46:56 AM",
+            "role_id": 8607118756262438,
+            "server_region": "southeast_asia"
+        },
+        "8607118756262843": {
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "2_2_0_29",
+            "gender": 1,
+            "hp": 2673729.5,
+            "last_seen": "Nov 18, 2025, 10:22:48 AM",
+            "level": 100,
+            "name": "小鸡快跑呀",
+            "name_history": [
+                "小鸡快跑呀"
+            ],
+            "registered": "Oct 13, 2024, 9:49:35 PM",
+            "role_id": 8607118756262843,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756263510": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 1,
+            "last_seen": "Sep 23, 2025, 04:32:00 PM",
+            "name": "gglg",
+            "registered": "Oct 29, 2024, 4:36:41 AM",
+            "role_id": 8607118756263510,
+            "server_region": "southeast_asia"
+        },
+        "8607118756266589": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 1,
+            "last_seen": "Sep 30, 2025, 06:37:25 PM",
+            "name": "银狼　",
+            "registered": "Dec 18, 2024, 5:18:12 PM",
+            "role_id": 8607118756266589,
+            "server_region": "southeast_asia"
+        },
+        "8607118756267226": {
+            "crew_history": [
+                "异环"
+            ],
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "1_6_2_2",
+            "gender": 0,
+            "hp": 2035769.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55793.328125,
+                "y": -88312.78125,
+                "z": 21735.62890625
+            },
+            "last_seen": "Mar 17, 2026, 10:08:04 PM",
+            "level": 100,
+            "name": "请叫我靓仔",
+            "name_history": [
+                "请叫我靓仔"
+            ],
+            "registered": "Jan 1, 2025, 9:37:28 AM",
+            "role_id": 8607118756267226,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756268445": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "2_10_1_5",
+            "gender": 1,
+            "hp": 1442634.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54110.3984375,
+                "y": -92180.796875,
+                "z": 21739.119140625
+            },
+            "last_seen": "Mar 12, 2026, 4:24:09 PM",
+            "level": 100,
+            "name": "輪迴者",
+            "name_history": [
+                "輪迴者"
+            ],
+            "registered": "Jan 30, 2025, 11:43:21 PM",
+            "role_id": 8607118756268445,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756269128": {
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "银狼　的导师,0",
+            "gender": 1,
+            "hp": 1858534.25,
+            "last_seen": "Nov 22, 2025, 06:04:49 PM",
+            "level": 100,
+            "name": "Anya.あにや",
+            "name_history": [
+                "Anya.あにや"
+            ],
+            "registered": "Feb 19, 2025, 2:17:04 AM",
+            "role_id": 8607118756269128,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756269292": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 1,
+            "last_seen": "Sep 23, 2025, 05:07:03 PM",
+            "name": "AlienWCY",
+            "registered": "Feb 24, 2025, 11:49:01 AM",
+            "role_id": 8607118756269292,
+            "server_region": "southeast_asia"
+        },
+        "8607118756269983": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "Title_tencentshare_os_21",
+            "gender": 1,
+            "hp": 1063635.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21726.048828125
+            },
+            "last_seen": "Mar 17, 2026, 10:08:04 PM",
+            "level": 93,
+            "name": "完美授權者",
+            "name_history": [
+                "完美授權者"
+            ],
+            "registered": "Mar 15, 2025, 12:47:57 AM",
+            "role_id": 8607118756269983,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756270016": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "Title_tencentshare_os_21",
+            "gender": 0,
+            "hp": 1093402.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55375.3984375,
+                "y": -87190.3984375,
+                "z": 21725.96875
+            },
+            "last_seen": "Mar 24, 2026, 6:17:13 PM",
+            "level": 91,
+            "name": "完美執行者",
+            "name_history": [
+                "完美執行者"
+            ],
+            "registered": "Mar 16, 2025, 2:42:18 AM",
+            "role_id": 8607118756270016,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756271805": {
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1219277.875,
+            "last_seen": "Nov 10, 2025, 09:56:01 PM",
+            "level": 98,
+            "name": "さめち",
+            "name_history": [
+                "さめち"
+            ],
+            "registered": "May 13, 2025, 10:07:52 PM",
+            "role_id": 8607118756271805
+        },
+        "8607118756273171": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1109.31298828125,
+            "last_seen": "Nov 10, 2025, 10:42:55 PM",
+            "level": 4,
+            "name": "Hgggg",
+            "name_history": [
+                "Hgggg"
+            ],
+            "registered": "May 26, 2025, 1:41:47 PM",
+            "role_id": 8607118756273171,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756280292": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 1,
+            "last_seen": "Sep 30, 2025, 06:37:25 PM",
+            "name": "kiyoka",
+            "registered": "Aug 1, 2025, 5:26:13 PM",
+            "role_id": 8607118756280292,
+            "server_region": "southeast_asia"
+        },
+        "8607118756281573": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 196606.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21725.048828125
+            },
+            "last_seen": "Mar 14, 2026, 6:02:54 PM",
+            "level": 47,
+            "name": "laviedoucee",
+            "name_history": [
+                "laviedoucee"
+            ],
+            "registered": "Aug 7, 2025, 2:08:31 PM",
+            "role_id": 8607118756281573,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756281604": {
+            "crew_history": [
+                "异环"
+            ],
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 110354.828125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56982.109375,
+                "y": -91256.5703125,
+                "z": 21869.169921875
+            },
+            "last_seen": "Mar 23, 2026, 2:10:18 PM",
+            "level": 69,
+            "name": "眯米",
+            "name_history": [
+                "眯米"
+            ],
+            "registered": "Aug 7, 2025, 7:47:13 PM",
+            "role_id": 8607118756281604,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756282295": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 1,
+            "last_seen": "Sep 23, 2025, 06:15:39 PM",
+            "name": "หมูหอม",
+            "registered": "Aug 11, 2025, 6:57:59 AM",
+            "role_id": 8607118756282295,
+            "server_region": "southeast_asia"
+        },
+        "8607118756284308": {
+            "crew_history": [
+                "异环"
+            ],
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 484954.65625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54110.9765625,
+                "y": -87715.5,
+                "z": 21827.94140625
+            },
+            "last_seen": "Mar 15, 2026, 12:27:33 PM",
+            "level": 59,
+            "name": "じゅんいちろう",
+            "name_history": [
+                "じゅんいちろう"
+            ],
+            "registered": "Aug 24, 2025, 1:20:27 PM",
+            "role_id": 8607118756284308,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756284881": {
+            "crew_history": [
+                "异环"
+            ],
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "1_1_22_1",
+            "gender": 1,
+            "hp": 955935.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56369.46875,
+                "y": -86749.6953125,
+                "z": 21724.490234375
+            },
+            "last_seen": "Mar 17, 2026, 5:49:39 PM",
+            "level": 100,
+            "name": "Dzana forg",
+            "name_history": [
+                "Dzana forg"
+            ],
+            "registered": "Aug 29, 2025, 2:43:38 AM",
+            "role_id": 8607118756284881,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756285309": {
+            "crew_history": [
+                "异环"
+            ],
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 0.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56281.0,
+                "y": 67620.1015625,
+                "z": -9475.2802734375
+            },
+            "last_seen": "Apr 2, 2026, 6:22:51 PM",
+            "level": 39,
+            "name": "pionees",
+            "name_history": [
+                "pionees"
+            ],
+            "registered": "Aug 31, 2025, 9:31:46 AM",
+            "role_id": 8607118756285309,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756285451": {
+            "crew_history": [
+                "◥◣猛獸喵喵屋◢◤"
+            ],
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "1_3_1_1",
+            "gender": 1,
+            "hp": 279388.03125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91276.9765625,
+                "y": 75934.4375,
+                "z": -7071.8896484375
+            },
+            "last_seen": "Apr 2, 2026, 6:21:51 PM",
+            "level": 45,
+            "name": "acer",
+            "name_history": [
+                "acer"
+            ],
+            "registered": "Sep 1, 2025, 2:19:40 AM",
+            "role_id": 8607118756285451,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756285833": {
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "1_1_10_3",
+            "gender": 1,
+            "hp": 0.0,
+            "last_seen": "Nov 05, 2025, 07:40:46 PM",
+            "level": 100,
+            "name": "lion rabbit",
+            "name_history": [
+                "lion rabbit"
+            ],
+            "registered": "Sep 3, 2025, 9:05:36 PM",
+            "role_id": 8607118756285833,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756285922": {
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1207315.0,
+            "last_seen": "Oct 30, 2025, 09:02:10 PM",
+            "level": 100,
+            "name": "MRKHT00 ",
+            "registered": "Sep 4, 2025, 10:30:26 AM",
+            "role_id": 8607118756285922,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756287380": {
+            "crew_history": [
+                "异环"
+            ],
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "Samuelcx30的导师,0",
+            "gender": 1,
+            "hp": 974199.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54731.546875,
+                "y": -93195.4765625,
+                "z": 21736.509765625
+            },
+            "last_seen": "Mar 14, 2026, 3:53:23 PM",
+            "level": 100,
+            "name": "qua",
+            "name_history": [
+                "qua"
+            ],
+            "registered": "Sep 15, 2025, 12:54:36 AM",
+            "role_id": 8607118756287380,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756287603": {
+            "crew_id": 42951676961,
+            "crew_name": "Anime",
+            "equipping_title": "HuntingRank_2;imitation_58;4",
+            "gender": 1,
+            "hp": 1023238.625,
+            "last_seen": "Oct 30, 2025, 09:09:11 PM",
+            "level": 96,
+            "name": "Kenichi96",
+            "registered": "Sep 16, 2025, 4:11:37 PM",
+            "role_id": 8607118756287603,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756288972": {
+            "crew_id": 575527621665,
+            "crew_name": "(*・ω・)",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 429481.75,
+            "last_seen": "Oct 30, 2025, 05:47:25 PM",
+            "level": 93,
+            "name": "蘿莎琳",
+            "registered": "Sep 26, 2025, 2:07:59 PM",
+            "role_id": 8607118756288972,
+            "server_region": "southeast_asia"
+        },
+        "8607118756288994": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 1,
+            "last_seen": "Sep 26, 2025, 06:11:18 PM",
+            "name": "Kyoroo",
+            "registered": "Sep 26, 2025, 6:14:27 PM",
+            "role_id": 8607118756288994,
+            "server_region": "southeast_asia"
+        },
+        "8607118756289621": {
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1185795.25,
+            "last_seen": "Nov 10, 2025, 10:48:55 PM",
+            "level": 98,
+            "name": "Raven...",
+            "name_history": [
+                "Raven..."
+            ],
+            "registered": "Sep 30, 2025, 1:53:44 AM",
+            "role_id": 8607118756289621,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756292448": {
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 560219.9375,
+            "last_seen": "Nov 01, 2025, 09:53:35 PM",
+            "level": 53,
+            "name": "YAMY",
+            "name_history": [
+                "YAMY"
+            ],
+            "registered": "Oct 18, 2025, 4:20:34 PM",
+            "role_id": 8607118756292448,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756293379": {
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 476779.5,
+            "last_seen": "Oct 30, 2025, 09:08:11 PM",
+            "level": 55,
+            "name": "㍿Ririsa™",
+            "registered": "Oct 25, 2025, 12:23:36 AM",
+            "role_id": 8607118756293379,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756293978": {
+            "crew_id": 837520626721,
+            "crew_name": "誰でも",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 104587.78125,
+            "last_seen": "Oct 30, 2025, 08:58:10 PM",
+            "level": 29,
+            "name": "さおるん",
+            "registered": "Oct 28, 2025, 9:27:31 PM",
+            "role_id": 8607118756293978,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756294236": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2140.55322265625,
+            "last_seen": "Oct 30, 2025, 08:58:10 PM",
+            "level": 6,
+            "name": "TahoOoO",
+            "registered": "Oct 30, 2025, 4:59:20 PM",
+            "role_id": 8607118756294236,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756294253": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 270611.9375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91553.46875,
+                "y": 77411.0859375,
+                "z": -7024.1376953125
+            },
+            "last_seen": "Mar 28, 2026, 1:58:19 AM",
+            "level": 73,
+            "name": "BeefKebab",
+            "name_history": [
+                "BeefKebab"
+            ],
+            "registered": "Oct 30, 2025, 9:53:19 PM",
+            "role_id": 8607118756294253,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756294255": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 907.31298828125,
+            "last_seen": "Oct 30, 2025, 09:00:10 PM",
+            "level": 2,
+            "name": "hrtshot102",
+            "registered": "Oct 30, 2025, 9:55:29 PM",
+            "role_id": 8607118756294255,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756294404": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 26803.66796875,
+            "last_seen": "Nov 01, 2025, 09:48:35 PM",
+            "level": 25,
+            "name": "FenrirXLVII",
+            "name_history": [
+                "FenrirXLVII"
+            ],
+            "registered": "Oct 31, 2025, 11:16:23 PM",
+            "role_id": 8607118756294404,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756294539": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1763.6259765625,
+            "last_seen": "Nov 01, 2025, 09:50:35 PM",
+            "level": 6,
+            "name": "Lois",
+            "name_history": [
+                "Lois"
+            ],
+            "registered": "Nov 1, 2025, 9:04:25 PM",
+            "role_id": 8607118756294539,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756294542": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2140.55322265625,
+            "last_seen": "Nov 01, 2025, 09:48:35 PM",
+            "level": 6,
+            "name": "Tony stark",
+            "name_history": [
+                "Tony stark"
+            ],
+            "registered": "Nov 1, 2025, 9:05:19 PM",
+            "role_id": 8607118756294542,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756294547": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1109.31298828125,
+            "last_seen": "Nov 01, 2025, 09:50:35 PM",
+            "level": 4,
+            "name": "Heathenish",
+            "name_history": [
+                "Heathenish"
+            ],
+            "registered": "Nov 1, 2025, 10:12:51 PM",
+            "role_id": 8607118756294547,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756294555": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 354.0,
+            "last_seen": "Nov 01, 2025, 09:50:35 PM",
+            "level": 1,
+            "name": "Perle",
+            "name_history": [
+                "Perle"
+            ],
+            "registered": "Nov 1, 2025, 10:37:23 PM",
+            "role_id": 8607118756294555,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756294878": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1662.6259765625,
+            "last_seen": "Nov 03, 2025, 09:28:49 PM",
+            "level": 5,
+            "name": "Pencilgon",
+            "name_history": [
+                "Pencilgon"
+            ],
+            "registered": "Nov 3, 2025, 9:23:45 PM",
+            "role_id": 8607118756294878,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756294969": {
+            "crew_id": 837520626721,
+            "crew_name": "誰でも",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 99042.2578125,
+            "last_seen": "Nov 10, 2025, 10:19:37 PM",
+            "level": 36,
+            "name": "エイト",
+            "name_history": [
+                "エイト"
+            ],
+            "registered": "Nov 4, 2025, 2:55:18 PM",
+            "role_id": 8607118756294969,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756295107": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 5284.20703125,
+            "last_seen": "Nov 05, 2025, 07:43:47 PM",
+            "level": 11,
+            "name": "Elletear",
+            "name_history": [
+                "Elletear"
+            ],
+            "registered": "Nov 5, 2025, 1:23:37 PM",
+            "role_id": 8607118756295107,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756295128": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2493.32421875,
+            "last_seen": "Nov 05, 2025, 07:44:47 PM",
+            "level": 8,
+            "name": "ちーとす",
+            "name_history": [
+                "ちーとす"
+            ],
+            "registered": "Nov 5, 2025, 4:34:38 PM",
+            "role_id": 8607118756295128,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756295143": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 907.31298828125,
+            "last_seen": "Nov 05, 2025, 07:45:47 PM",
+            "level": 2,
+            "name": "Citlail",
+            "name_history": [
+                "Citlail"
+            ],
+            "registered": "Nov 5, 2025, 8:41:29 PM",
+            "role_id": 8607118756295143,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756295282": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 264745.375,
+            "last_seen": "Nov 10, 2025, 10:38:55 PM",
+            "level": 50,
+            "name": "Barlow",
+            "name_history": [
+                "Barlow"
+            ],
+            "registered": "Nov 6, 2025, 9:17:03 PM",
+            "role_id": 8607118756295282,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756295831": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 907.31298828125,
+            "last_seen": "Nov 10, 2025, 10:39:55 PM",
+            "level": 2,
+            "name": "yahuu",
+            "name_history": [
+                "yahuu"
+            ],
+            "registered": "Nov 10, 2025, 10:43:43 PM",
+            "role_id": 8607118756295831,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756295833": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 354.0,
+            "last_seen": "Nov 10, 2025, 10:39:55 PM",
+            "level": 1,
+            "name": "Kuchu",
+            "name_history": [
+                "Kuchu"
+            ],
+            "registered": "Nov 10, 2025, 11:29:22 PM",
+            "role_id": 8607118756295833,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756296111": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 7109.328125,
+            "last_seen": "Nov 18, 2025, 10:17:48 AM",
+            "level": 19,
+            "name": "Diesel037",
+            "name_history": [
+                "Diesel037"
+            ],
+            "registered": "Nov 12, 2025, 6:44:47 PM",
+            "role_id": 8607118756296111,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756296835": {
+            "crew_history": [
+                "◥◣猛獸喵喵屋◢◤"
+            ],
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "2_2_0_92",
+            "gender": 0,
+            "hp": 1283888.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55242.1171875,
+                "y": -87063.234375,
+                "z": 21721.87890625
+            },
+            "last_seen": "Mar 14, 2026, 4:09:24 PM",
+            "level": 100,
+            "name": "凱伊",
+            "name_history": [
+                "凱伊"
+            ],
+            "registered": "Nov 16, 2025, 7:01:11 PM",
+            "role_id": 8607118756296835,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756296949": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 3351.09521484375,
+            "last_seen": "Nov 18, 2025, 10:22:48 AM",
+            "level": 12,
+            "name": "No wing",
+            "name_history": [
+                "No wing"
+            ],
+            "registered": "Nov 17, 2025, 10:11:46 AM",
+            "role_id": 8607118756296949,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756296957": {
+            "crew_history": [
+                "◥◣猛獸喵喵屋◢◤"
+            ],
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "1_3_1_5",
+            "gender": 0,
+            "hp": 329010.90625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54275.19921875,
+                "y": -88092.0703125,
+                "z": 21714.94921875
+            },
+            "last_seen": "Mar 12, 2026, 12:01:51 PM",
+            "level": 38,
+            "name": "Jadhu",
+            "name_history": [
+                "Jadhu"
+            ],
+            "registered": "Nov 17, 2025, 12:11:13 PM",
+            "role_id": 8607118756296957,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756296962": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 3339.934326171875,
+            "last_seen": "Nov 17, 2025, 04:45:29 PM",
+            "level": 15,
+            "name": "Bruna",
+            "name_history": [
+                "Bruna"
+            ],
+            "registered": "Nov 17, 2025, 12:44:55 PM",
+            "role_id": 8607118756296962,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756296981": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 907.31298828125,
+            "last_seen": "Nov 17, 2025, 04:47:30 PM",
+            "level": 2,
+            "name": "Skyline11256",
+            "name_history": [
+                "Skyline11256"
+            ],
+            "registered": "Nov 17, 2025, 5:40:44 PM",
+            "role_id": 8607118756296981,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756297071": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 15685.796875,
+            "last_seen": "Nov 18, 2025, 10:17:48 AM",
+            "level": 20,
+            "name": "Kenzu",
+            "name_history": [
+                "Kenzu"
+            ],
+            "registered": "Nov 18, 2025, 8:06:36 AM",
+            "role_id": 8607118756297071,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756297084": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 3298.408203125,
+            "last_seen": "Nov 18, 2025, 10:23:48 AM",
+            "level": 10,
+            "name": "Jamess",
+            "name_history": [
+                "Jamess"
+            ],
+            "registered": "Nov 18, 2025, 8:59:56 AM",
+            "role_id": 8607118756297084,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756297087": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 6338.9560546875,
+            "last_seen": "Nov 18, 2025, 10:17:48 AM",
+            "level": 10,
+            "name": "Daryaknght",
+            "name_history": [
+                "Daryaknght"
+            ],
+            "registered": "Nov 18, 2025, 9:12:33 AM",
+            "role_id": 8607118756297087,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756297090": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 4856.70947265625,
+            "last_seen": "Nov 18, 2025, 10:24:48 AM",
+            "level": 12,
+            "name": "SuperSCD",
+            "name_history": [
+                "SuperSCD"
+            ],
+            "registered": "Nov 18, 2025, 9:53:34 AM",
+            "role_id": 8607118756297090,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756297195": {
+            "crew_id": 51541611553,
+            "crew_name": "Thai",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 398822.03125,
+            "last_seen": "Nov 22, 2025, 01:09:10 PM",
+            "level": 44,
+            "name": "Naomin",
+            "name_history": [
+                "Naomin"
+            ],
+            "registered": "Nov 18, 2025, 9:12:34 PM",
+            "role_id": 8607118756297195,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756297627": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8376.80859375,
+            "last_seen": "Nov 22, 2025, 01:10:10 PM",
+            "level": 14,
+            "name": "kazuia",
+            "name_history": [
+                "kazuia"
+            ],
+            "registered": "Nov 21, 2025, 12:17:32 PM",
+            "role_id": 8607118756297627,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756297725": {
+            "crew_id": 42951676961,
+            "crew_name": "Anime",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 12165.2080078125,
+            "last_seen": "Nov 22, 2025, 01:16:10 PM",
+            "level": 16,
+            "name": "xRomualdez",
+            "name_history": [
+                "xRomualdez"
+            ],
+            "registered": "Nov 22, 2025, 6:15:06 AM",
+            "role_id": 8607118756297725,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756297753": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 6925.6220703125,
+            "last_seen": "Nov 22, 2025, 01:15:10 PM",
+            "level": 11,
+            "name": "aeky",
+            "name_history": [
+                "aeky"
+            ],
+            "registered": "Nov 22, 2025, 12:28:51 PM",
+            "role_id": 8607118756297753,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756297759": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2443.55322265625,
+            "last_seen": "Nov 22, 2025, 01:15:10 PM",
+            "level": 9,
+            "name": "kin.ctp",
+            "name_history": [
+                "kin.ctp"
+            ],
+            "registered": "Nov 22, 2025, 12:33:07 PM",
+            "role_id": 8607118756297759,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756297768": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 3122.022705078125,
+            "last_seen": "Nov 22, 2025, 01:15:10 PM",
+            "level": 9,
+            "name": "kenji.ctp",
+            "name_history": [
+                "kenji.ctp"
+            ],
+            "registered": "Nov 22, 2025, 1:14:00 PM",
+            "role_id": 8607118756297768,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756297769": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2140.55322265625,
+            "last_seen": "Nov 22, 2025, 01:17:10 PM",
+            "level": 6,
+            "name": "ZamAl",
+            "name_history": [
+                "ZamAl"
+            ],
+            "registered": "Nov 22, 2025, 1:21:04 PM",
+            "role_id": 8607118756297769,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756297773": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1109.31298828125,
+            "last_seen": "Nov 22, 2025, 01:16:10 PM",
+            "level": 4,
+            "name": "ナオト",
+            "name_history": [
+                "ナオト"
+            ],
+            "registered": "Nov 22, 2025, 1:54:27 PM",
+            "role_id": 8607118756297773,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756299130": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 861589.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55017.4296875,
+                "y": -86761.90625,
+                "z": 21717.490234375
+            },
+            "last_seen": "Mar 12, 2026, 4:02:08 PM",
+            "level": 90,
+            "name": "electronic",
+            "name_history": [
+                "electronic"
+            ],
+            "registered": "Jan 24, 2026, 5:27:16 AM",
+            "role_id": 8607118756299130,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756299163": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 1157020.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53905.47265625,
+                "y": -87619.015625,
+                "z": 21743.060546875
+            },
+            "last_seen": "Mar 18, 2026, 6:04:52 PM",
+            "level": 100,
+            "name": "NAMI_",
+            "name_history": [
+                "NAMI_"
+            ],
+            "registered": "Feb 1, 2026, 12:43:29 PM",
+            "role_id": 8607118756299163,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756299356": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 70221.765625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -52735.59765625,
+                "y": -89014.796875,
+                "z": 21732.05859375
+            },
+            "last_seen": "Mar 14, 2026, 12:06:49 PM",
+            "level": 22,
+            "name": "Isoooon",
+            "name_history": [
+                "Isoooon"
+            ],
+            "registered": "Mar 13, 2026, 7:28:28 PM",
+            "role_id": 8607118756299356,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756299359": {
+            "crew_history": [
+                "异环"
+            ],
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "1_1_11_1",
+            "gender": 0,
+            "hp": 1209884.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54596.609375,
+                "y": -87984.28125,
+                "z": 21725.009765625
+            },
+            "last_seen": "Apr 2, 2026, 6:16:51 PM",
+            "level": 96,
+            "name": "Hoangch1k",
+            "name_history": [
+                "Hoangch1k"
+            ],
+            "registered": "Mar 14, 2026, 3:33:07 AM",
+            "role_id": 8607118756299359,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756299404": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 76828.8125,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 7246.70361328125,
+                "y": -284.0693054199219,
+                "z": 12743.978515625
+            },
+            "last_seen": "Mar 28, 2026, 1:53:19 AM",
+            "level": 35,
+            "name": "Ntah",
+            "name_history": [
+                "Ntah"
+            ],
+            "registered": "Mar 26, 2026, 11:24:14 PM",
+            "role_id": 8607118756299404,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756299422": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 78750.9921875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -85824.9375,
+                "y": 83318.3515625,
+                "z": -7157.2197265625
+            },
+            "last_seen": "Apr 2, 2026, 6:22:51 PM",
+            "level": 24,
+            "name": "ساره عبيدو ",
+            "name_history": [
+                "ساره عبيدو "
+            ],
+            "registered": "Mar 30, 2026, 8:16:36 PM",
+            "role_id": 8607118756299422,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756299518": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1008.31298828125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -89286.6953125,
+                "y": 81712.5546875,
+                "z": -7055.669921875
+            },
+            "last_seen": "Apr 17, 2026, 9:13:50 PM",
+            "level": 3,
+            "name": "s.RAGUSARAN",
+            "name_history": [
+                "s.RAGUSARAN"
+            ],
+            "registered": "Apr 17, 2026, 8:37:26 PM",
+            "role_id": 8607118756299518,
+            "server_region": "ps-southeast-asia"
+        }
+    },
+    "accounts_total": 154,
+    "last_updated": "Apr 19, 2026, 7:05:35 PM",
+    "server_region": "ps-southeast-asia"
+}
