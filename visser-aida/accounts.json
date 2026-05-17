@@ -10220,14 +10220,14 @@
             "crew_name": "啾咪",
             "equipping_title": "2_10_2_1",
             "gender": 1,
-            "hp": 2225370.0,
+            "hp": 33965964.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": 25604.9296875,
-                "y": -98164.9765625,
-                "z": 33068.73046875
+                "map": "LockHeart_P",
+                "x": -8663.5,
+                "y": -21326.5,
+                "z": 39403.2890625
             },
-            "last_seen": "2026年4月13日 下午8:19:00",
+            "last_seen": "2026年5月17日 下午10:39:31",
             "level": 100,
             "name": "洛斯琳",
             "name_history": [
@@ -35296,6 +35296,6 @@
         }
     },
     "accounts_total": 1744,
-    "last_updated": "2026年5月17日 上午2:43:02",
+    "last_updated": "2026年5月17日 下午10:39:31",
     "server_region": "visser-aida"
 }
