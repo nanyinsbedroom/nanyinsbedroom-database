@@ -33682,20 +33682,21 @@
         },
         "62354335243751": {
             "crew_history": [
+                "神",
                 "喵喵屋"
             ],
             "crew_id": 4294981407,
             "crew_name": "喵喵屋",
             "equipping_title": "HuntingRank_1;imitation_52;1",
             "gender": 1,
-            "hp": 2647515.25,
+            "hp": 2775386.75,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -53767.05859375,
-                "y": -87870.375,
-                "z": 21724.349609375
+                "map": "city",
+                "x": -198.1999969482422,
+                "y": -16817.599609375,
+                "z": 96370.0390625
             },
-            "last_seen": "2026年3月4日 下午8:14:20",
+            "last_seen": "2026年5月28日 下午10:08:53",
             "level": 100,
             "name": "布哩哩",
             "name_history": [
@@ -35296,6 +35297,6 @@
         }
     },
     "accounts_total": 1744,
-    "last_updated": "2026年5月17日 下午10:39:31",
+    "last_updated": "2026年5月28日 下午10:08:53",
     "server_region": "visser-aida"
 }
