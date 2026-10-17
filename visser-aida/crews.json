@@ -696,12 +696,13 @@
         "163208771368": {
             "crew_id": 163208771368,
             "crew_members": [
+                "Drunk丶魅",
                 "敏捷型",
                 "查理·劈烟",
                 "白雪歌送伊人",
                 "香风依旧"
             ],
-            "crew_members_count": 4,
+            "crew_members_count": 5,
             "crew_name": "繁星四月",
             "crew_name_history": [
                 "繁星四月"
@@ -3836,6 +3837,6 @@
         }
     },
     "crews_total": 209,
-    "last_updated": "2026年10月17日 上午9:32:30",
+    "last_updated": "2026年10月18日 上午3:10:45",
     "server_region": "visser-aida"
 }
