@@ -1309,6 +1309,7 @@
                 "塔塔洛斯",
                 "夜.镆.",
                 "天帝大暗黑",
+                "小小的大风车",
                 "无敌米米大王",
                 "月挽秋水淌夏禾",
                 "木下遥",
@@ -1322,7 +1323,7 @@
                 "边边懵",
                 "魔法少女牢大"
             ],
-            "crew_members_count": 22,
+            "crew_members_count": 23,
             "crew_name": "奥林匹斯",
             "crew_name_history": [
                 "奥林匹斯"
@@ -1794,9 +1795,10 @@
         "3169685878554": {
             "crew_id": 3169685878554,
             "crew_members": [
-                "河南热干面"
+                "河南热干面",
+                "风の流離"
             ],
-            "crew_members_count": 1,
+            "crew_members_count": 2,
             "crew_name": "有个",
             "crew_name_history": [
                 "有个"
@@ -3834,6 +3836,6 @@
         }
     },
     "crews_total": 209,
-    "last_updated": "2026年10月17日 上午8:30:27",
+    "last_updated": "2026年10月17日 上午8:38:44",
     "server_region": "visser-aida"
 }
